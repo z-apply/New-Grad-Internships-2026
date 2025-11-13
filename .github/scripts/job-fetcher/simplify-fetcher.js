@@ -55,7 +55,6 @@ async function fetchSimplifyInternships(maxAgeHours = 48) {
         job_apply_link: job.url,
         url: job.url,
         job_posted_at_datetime_utc: job.date_posted ? new Date(job.date_posted * 1000).toISOString() : new Date().toISOString(),
-        date_posted: job.date_posted,
         job_employment_type: 'INTERN',
         // Additional metadata
         terms: job.terms || [],
