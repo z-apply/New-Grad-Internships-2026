@@ -1,80 +1,5 @@
 [
   {
-    "job_title": "AI Intern",
-    "title": "AI Intern",
-    "employer_name": "Memphis Meats",
-    "company_name": "Memphis Meats",
-    "job_city": "Oakland",
-    "job_state": "CA",
-    "job_country": "US",
-    "job_description": "About us: Based in Berkeley, CA, UPSIDE Foods grows meat, poultry, and seafood directly from real animal cells. These products are not vegan or vegetarian—they are delicious meat, made without the need to raise and slaughter billions of animals. In doing so, the company aims to address some of the most pressing environmental, animal welfare, and public health challenges, while still giving people the meat they love. Founded as the world’s first cultivated meat company in 2015, UPSIDE Foods (formerly Memphis Meats) has achieved numerous industry-defining milestones, including being the first company to produce multiple species of meat (beef, chicken, and duck) and to sell a cultivated meat product in the United States. The company believes that people shouldn’t have to choose between the foods they love and a thriving planet, and is working to build a better food system with access to delicious, humane, and sustainable meat, poultry, and seafood. UPSIDE Foods has won various industry awards, including New York Times’ Good Tech Awards, FastCo’s Next Big Thing in Tech and World Changing Ideas Awards, and the Best and Brightest Companies to Work For in the Nation by the National Association for Business Resources. UPSIDE Foods has raised a total of $608 million, including from the Abu Dhabi Growth Fund (ADG), Baillie Gifford, Bill Gates, Cargill, John Doerr, John Mackey, Kimbal and Christiana Musk, Norwest, Richard Branson, Softbank, Temasek, Threshold, Tyson Foods, and others. About this Internship: At UPSIDE Foods, we’re turning the promise of cultivated meat into a delicious, nutritious reality, and we’re using AI to do it, from faster R&D to scaled manufacturing and commercial. As an AI Intern within the Enterprise Intelligence team, you’ll join a tight‑knit group of data scientists and IT & software developers who partner with our sci/tech teams to use advanced computing to make meat. Your work will advance our AI portfolio and become central to the worldwide scale of cultivated meat, contributing to a sustainable global food system. This AI Internship is a chance to deliver full life-cycle AI deployments, from stakeholder design to shipping new services. You’ll start with data exploration and white‑boarding use‑cases with stakeholders. You might mine time-series data for hidden predictors, or engineer robust pipelines in Python and SQL, or prototype neural networks in PyTorch. Expect to juggle API integrations, Lambda‑style micro‑services, and data‑engineering touchpoints as you weave LLM‑powered chat, search, and automation features directly into existing UPSIDE infrastructure. You’ll partner with biologists to ensure your features honor metabolic reality, iterate with manufacturing engineers to translate raw sensor streams in algorithms and push models across scales, and ship crisp visualizations that make complex kinetics intuitive for non‑experts. This sixteen week internship will give you a front‑row seat to how AI integrates with mammalian and avian cell biology, and by the end, you’ll have deployed three or more applications that drive meaningful value and enable the future of food. Responsibilities include: Collaborate with stakeholders to envision and design AI-first workflows and AI agents that are teammates for UPSIDErs. Explore our R&D and MFG data landscape in search of predictive data and insights, and develop custom data pipelines where needed. Design and implement AI/ML workflows from data preprocessing to prediction, applicable across bioreactor scales and species. Integrate AI solutions within organizational tools (e.g., Slack, Jupyter) and data sources, and leverage dashboards or lower-tech solutions when appropriate. Work closely with IT and Data teammates to ensure infrastructure support. About you: Proficiency in ML and Generative AI models, particularly time-series neural networks, hybrid modeling, and/or LLM agents for scientific research. Strong coding skills in Python and SQL, with PyTorch experience; dashboard visualization skills are desired but not required. Demonstrated experience in building AI/ML integrations, including using API’s, Lambda (or equivalent) and pipelines / other transport & transform methodologies. Ability to gather requirements and translate them into technical solutions, and to integrate AI solutions with existing infrastructure. Familiarity with bioprocessing and cell biology concepts. Preference for recent graduates or those doing a Master’s program in AI, computer science, or data science. Preference for individuals able to be on-site 3-days a week at our facility near Berkeley, CA Who you’ll work with: Our Enterprise Intelligence team, who has instrumented our manufacturing and R&D data, steward our data lake, and design models. Bioprocess and cellular‑biology engineers and manufacturing staff who will translate model outputs and visualizations into real‑world operations and interventions that boost cell growth, flavor, and yield. Cross‑functional R&D partners in analytics, product, and sensory science who rely on your insights to shape the next generation of cultivated meat. Leaders across the whole organization who are eager for LLM‑driven data exploration, literature or document review, and workflow acceleration. Length of internship: 16 weeks This internship can either be 20 hours/week (concurrent with school) or 40 hours/week (full time) Compensation Range: $25/hr UPSIDE Foods is an equal opportunity employer and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Our company-wide mission is to create a product for everyone, so we are deeply committed to having teams and leaders that reflect this mission.",
-    "job_apply_link": "https://job-boards.greenhouse.io/memphismeats/jobs/7525918003",
-    "url": "https://job-boards.greenhouse.io/memphismeats/jobs/7525918003",
-    "job_posted_at_datetime_utc": "2025-11-11T23:50:45.000Z",
-    "job_employment_type": "INTERN",
-    "terms": [
-      "Spring 2026"
-    ],
-    "locations": [
-      "Oakland, CA"
-    ],
-    "category": "AI/ML/Data",
-    "is_visible": true,
-    "id": "job-boards-greenhouse-io-memphismeats-jobs-7525918003",
-    "description_platform": "greenhouse",
-    "description_success": true
-  },
-  {
-    "job_title": "2026 – Analytics Engineering Intern - NYC",
-    "title": "2026 – Analytics Engineering Intern - NYC",
-    "employer_name": "MongoDB",
-    "company_name": "MongoDB",
-    "job_city": "NYC",
-    "job_state": "Locations",
-    "job_country": "US",
-    "job_description": "Join MongoDB for this Summer 2026 internship opportunity.",
-    "job_apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7335945",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7335945",
-    "job_posted_at_datetime_utc": "2025-11-11T23:50:10.000Z",
-    "job_employment_type": "INTERN",
-    "terms": [
-      "Summer 2026"
-    ],
-    "locations": [
-      "NYC"
-    ],
-    "category": "AI/ML/Data",
-    "is_visible": true,
-    "id": "www-mongodb-com-careers-job",
-    "description_platform": "generic",
-    "description_success": false
-  },
-  {
-    "job_title": "AI Intern",
-    "title": "AI Intern",
-    "employer_name": "Memphis Meats",
-    "company_name": "Memphis Meats",
-    "job_city": "Oakland",
-    "job_state": "CA",
-    "job_country": "US",
-    "job_description": "About us: Based in Berkeley, CA, UPSIDE Foods grows meat, poultry, and seafood directly from real animal cells. These products are not vegan or vegetarian—they are delicious meat, made without the need to raise and slaughter billions of animals. In doing so, the company aims to address some of the most pressing environmental, animal welfare, and public health challenges, while still giving people the meat they love. Founded as the world’s first cultivated meat company in 2015, UPSIDE Foods (formerly Memphis Meats) has achieved numerous industry-defining milestones, including being the first company to produce multiple species of meat (beef, chicken, and duck) and to sell a cultivated meat product in the United States. The company believes that people shouldn’t have to choose between the foods they love and a thriving planet, and is working to build a better food system with access to delicious, humane, and sustainable meat, poultry, and seafood. UPSIDE Foods has won various industry awards, including New York Times’ Good Tech Awards, FastCo’s Next Big Thing in Tech and World Changing Ideas Awards, and the Best and Brightest Companies to Work For in the Nation by the National Association for Business Resources. UPSIDE Foods has raised a total of $608 million, including from the Abu Dhabi Growth Fund (ADG), Baillie Gifford, Bill Gates, Cargill, John Doerr, John Mackey, Kimbal and Christiana Musk, Norwest, Richard Branson, Softbank, Temasek, Threshold, Tyson Foods, and others. About this Internship: At UPSIDE Foods, we’re turning the promise of cultivated meat into a delicious, nutritious reality, and we’re using AI to do it, from faster R&D to scaled manufacturing and commercial. As an AI Intern within the Enterprise Intelligence team, you’ll join a tight‑knit group of data scientists and IT & software developers who partner with our sci/tech teams to use advanced computing to make meat. Your work will advance our AI portfolio and become central to the worldwide scale of cultivated meat, contributing to a sustainable global food system. This AI Internship is a chance to deliver full life-cycle AI deployments, from stakeholder design to shipping new services. You’ll start with data exploration and white‑boarding use‑cases with stakeholders. You might mine time-series data for hidden predictors, or engineer robust pipelines in Python and SQL, or prototype neural networks in PyTorch. Expect to juggle API integrations, Lambda‑style micro‑services, and data‑engineering touchpoints as you weave LLM‑powered chat, search, and automation features directly into existing UPSIDE infrastructure. You’ll partner with biologists to ensure your features honor metabolic reality, iterate with manufacturing engineers to translate raw sensor streams in algorithms and push models across scales, and ship crisp visualizations that make complex kinetics intuitive for non‑experts. This sixteen week internship will give you a front‑row seat to how AI integrates with mammalian and avian cell biology, and by the end, you’ll have deployed three or more applications that drive meaningful value and enable the future of food. Responsibilities include: Collaborate with stakeholders to envision and design AI-first workflows and AI agents that are teammates for UPSIDErs. Explore our R&D and MFG data landscape in search of predictive data and insights, and develop custom data pipelines where needed. Design and implement AI/ML workflows from data preprocessing to prediction, applicable across bioreactor scales and species. Integrate AI solutions within organizational tools (e.g., Slack, Jupyter) and data sources, and leverage dashboards or lower-tech solutions when appropriate. Work closely with IT and Data teammates to ensure infrastructure support. About you: Proficiency in ML and Generative AI models, particularly time-series neural networks, hybrid modeling, and/or LLM agents for scientific research. Strong coding skills in Python and SQL, with PyTorch experience; dashboard visualization skills are desired but not required. Demonstrated experience in building AI/ML integrations, including using API’s, Lambda (or equivalent) and pipelines / other transport & transform methodologies. Ability to gather requirements and translate them into technical solutions, and to integrate AI solutions with existing infrastructure. Familiarity with bioprocessing and cell biology concepts. Preference for recent graduates or those doing a Master’s program in AI, computer science, or data science. Required to be on-site 3-days a week at our facility near Berkeley, CA Who you’ll work with: Our Enterprise Intelligence team, who has instrumented our manufacturing and R&D data, steward our data lake, and design models. Bioprocess and cellular‑biology engineers and manufacturing staff who will translate model outputs and visualizations into real‑world operations and interventions that boost cell growth, flavor, and yield. Cross‑functional R&D partners in analytics, product, and sensory science who rely on your insights to shape the next generation of cultivated meat. Leaders across the whole organization who are eager for LLM‑driven data exploration, literature or document review, and workflow acceleration. Length of internship: 16 weeks Compensation Range: $25/hr UPSIDE Foods is an equal opportunity employer and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Our company-wide mission is to create a product for everyone, so we are deeply committed to having teams and leaders that reflect this mission.",
-    "job_apply_link": "https://job-boards.greenhouse.io/memphismeats/jobs/7525926003",
-    "url": "https://job-boards.greenhouse.io/memphismeats/jobs/7525926003",
-    "job_posted_at_datetime_utc": "2025-11-11T23:50:51.000Z",
-    "job_employment_type": "INTERN",
-    "terms": [
-      "Summer 2026"
-    ],
-    "locations": [
-      "Oakland, CA"
-    ],
-    "category": "AI/ML/Data",
-    "is_visible": true,
-    "id": "job-boards-greenhouse-io-memphismeats-jobs-7525926003",
-    "description_platform": "greenhouse",
-    "description_success": true
-  },
-  {
     "job_title": "CPU Microarchitecture Engineer Intern",
     "title": "CPU Microarchitecture Engineer Intern",
     "employer_name": "Tenstorrent",
@@ -324,31 +249,6 @@
     "category": "Product",
     "is_visible": true,
     "id": "job-boards-greenhouse-io-kalepa-jobs-5705300004",
-    "description_platform": "greenhouse",
-    "description_success": true
-  },
-  {
-    "job_title": "Intern - AI Computational Imaging and Video",
-    "title": "Intern - AI Computational Imaging and Video",
-    "employer_name": "Samsung Research America",
-    "company_name": "Samsung Research America",
-    "job_city": "Plano",
-    "job_state": "TX",
-    "job_country": "US",
-    "job_description": "Lab Summary: The Mobile Processor Innovation (MPI) Team, Samsung Research America, serves the research and development needs of Samsung Electronics including the Mobile eXperience (MX) Smartphone business, which leads the global market with innovative technology and design, by launching breakthrough products such as the Galaxy S series, and Foldable series. We develop the next generation of AI computational imaging and video technologies, which power the cameras in the world’s number one handset by focused and dedicated development and collaboration with teams around the world. Position Summary: Samsung MPI Team is currently looking to fill internship positions for advanced smartphone camera technology R&D as well as future AI computational imaging R&D. As part of the team, you will be working on computational imaging algorithms built on generative and traditional AI to improve user experience and develop new use cases. You will be working with industry experts and will have a chance to understand how complex camera systems work on flagship smartphones and emerging camera technologies. MPI Team is an advanced R&D lab directly contributing to and impacting Samsung Mobile’s products. As an intern at MPI Team, you will be responsible for developing new user experience differentiation by bringing cutting edge AI and computational imaging technologies. Position Responsibilities: (day-to-day work, tasks and duties description) Develop advanced AI computational imaging algorithm or deep learning-based algorithm for challenging computation photography and video capturing applications such as low light photography, super resolution, etc. Design new AI algorithms, network architectures, and implementations for advanced computational imaging applications Prototype algorithms Understand the constraints (both power and performance) of mobile systems and use that understanding to deliver feasible and efficient solutions Demonstrate the feasibility and usability of the technologies by developing demo Required Skills: Currently enrolled in a PhD program in Computer Science/Electrical Engineering/Computer Engineering or equivalent combination of education, training, and experience Hands-on experience with deep learning and computational photography Coursework on AI/Deep learning, embedded system, and imaging/computer vision algorithms Strong communication skills for effective interactions with team members Our total rewards programs are designed to motivate and engage exceptional talent. The hourly pay rate range for roles at this level is listed below, but may be higher or lower in other states due to geographic differentials in the labor market. Within the hourly pay rate range, individual rates depend on a number of factors—including the role’s function and location as well as the individual’s knowledge, skills, experience, education and training. This is part of our comprehensive compensation package with annual bonus eligibility and generous benefits to help you live life well.Hourly Pay Rate Range$44 - $59 USDAdditional Information Disclosure of Trade Secrets Samsung has a strict policy on trade secrets. In applying to Samsung and progressing through the recruitment process, you must not disclose any trade secrets of a current or previous employer. Essential Job Functions This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, and frequently operate standard office equipment, such as telephones and computers. Samsung Research America is committed to complying with all Federal, State and local laws related to the employment of qualified individuals with disabilities. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact the recruiter or email sratalent@samsung.com. Equal Employment Opportunity At Samsung, we believe that innovation and growth are driven by an inclusive culture and a diverse workforce. We aim to create a global team where everyone belongs and has equal opportunities, inspiring our talent to be their true selves. Together, we are building a better tomorrow for our customers, partners, and communities. Samsung Research America is committed to employing a diverse workforce, and provide Equal Employment Opportunity for all individuals regardless of race, color, religion, gender, age, national origin, marital status, sexual orientation, gender identity, status as a protected veteran, genetic information, status as a qualified individual with a disability, or any other characteristic protected by law. For more information regarding protection from discrimination under Federal law for applicants and employees, please refer to this link: Pay Transparency",
-    "job_apply_link": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8285752002",
-    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8285752002",
-    "job_posted_at_datetime_utc": "2025-11-11T23:53:34.000Z",
-    "job_employment_type": "INTERN",
-    "terms": [
-      "Winter 2025"
-    ],
-    "locations": [
-      "Plano, TX"
-    ],
-    "category": "AI/ML/Data",
-    "is_visible": true,
-    "id": "job-boards-greenhouse-io-samsungresearchamericainternship-jobs-8285752002",
     "description_platform": "greenhouse",
     "description_success": true
   },
