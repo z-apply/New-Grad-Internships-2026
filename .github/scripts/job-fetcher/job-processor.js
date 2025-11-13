@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const { fetchAllJobs } = require('../unified-job-fetcher');
+const { fetchSimplifyInternships } = require('./simplify-fetcher');
 const {
     companies,
     ALL_COMPANIES,
@@ -276,13 +276,13 @@ async function processJobs() {
         const postedIds = loadPostedJobsStore();
         const seenIds = loadSeenJobsStore(); // Keep for backwards compatibility
 
-        // Fetch jobs from both API and real career pages
-        const allJobs = await fetchAllJobs();
-        const usJobs = allJobs.filter(isUSOnlyJob);
-
         // Filter for jobs posted within the last 48 hours (0-48h window)
         // Configurable via JOB_MAX_AGE_HOURS environment variable
         const MAX_AGE_HOURS = parseInt(process.env.JOB_MAX_AGE_HOURS || '48', 10);
+
+        // Fetch internships from SimplifyJobs Summer2026-Internships
+        const allJobs = await fetchSimplifyInternships(MAX_AGE_HOURS);
+        const usJobs = allJobs.filter(isUSOnlyJob);
         const MAX_AGE_THRESHOLD = Date.now() - (MAX_AGE_HOURS * 60 * 60 * 1000);
 
         const currentJobs = usJobs.filter(job => {

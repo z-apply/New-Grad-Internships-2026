@@ -1,0 +1,124 @@
+name: Initial Population (14 Days)
+
+on:
+  workflow_dispatch: # Manual trigger only
+
+jobs:
+  populate-internships:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Install dependencies
+      run: npm install axios
+
+    - name: Populate internships (14 days)
+      env:
+        MAX_AGE_HOURS: '336' # 14 days = 336 hours
+      run: node .github/scripts/job-fetcher/index.js
+
+    - name: Install bot dependencies
+      working-directory: .github/scripts
+      run: npm install discord.js@14
+
+    - name: Post internships to Discord
+      run: node .github/scripts/enhanced-discord-bot.js
+      env:
+        DISCORD_TOKEN:       ${{ secrets.DISCORD_TOKEN }}
+        DISCORD_CHANNEL_ID:  ${{ secrets.DISCORD_CHANNEL_ID }}
+        DISCORD_CLIENT_ID:   ${{ secrets.DISCORD_CLIENT_ID }}
+        DISCORD_GUILD_ID:    ${{ secrets.DISCORD_GUILD_ID }}
+        # Internship category channels
+        DISCORD_TECH_CHANNEL_ID:      1429365682948145164
+        DISCORD_SALES_CHANNEL_ID:     1429365752145645670
+        DISCORD_MARKETING_CHANNEL_ID: 1429365805090607206
+        DISCORD_FINANCE_CHANNEL_ID:   1429366120854585434
+        DISCORD_HEALTHCARE_CHANNEL_ID: 1429366171840286781
+        DISCORD_PRODUCT_CHANNEL_ID:   1429366236055081131
+        DISCORD_SUPPLY_CHANNEL_ID:    1429366422613786674
+        DISCORD_PM_CHANNEL_ID:         1429366331836207126
+        DISCORD_HR_CHANNEL_ID:         1429366524459745401
+
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "Found changes to commit"
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+          echo "No changes detected"
+        fi
+
+    - name: Commit updated internship data
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "team@zapply.ai"
+        git config --local user.name "Zapply Team"
+        git add -A
+
+        # Get internship count from README
+        INTERNSHIP_COUNT=$(grep -o "Active Positions\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+        COMPANY_COUNT=$(grep -o "Companies\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+
+        git commit -m "Initial population - $(date +'%Y-%m-%d')
+
+        Populated with $INTERNSHIP_COUNT internships from $COMPANY_COUNT companies (14-day window)
+        Ready for automated updates"
+
+    - name: Pull latest changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        echo "📥 Pulling latest changes..."
+        git fetch origin main
+        git rebase origin/main --strategy-option=ours || git merge -X ours origin/main --no-edit
+        echo "✅ Pull completed"
+
+    - name: Push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        echo "🚀 Pushing initial population..."
+        for i in 1 2 3; do
+          echo "Push attempt $i of 3..."
+          if git push origin main; then
+            echo "✅ Successfully pushed!"
+            break
+          else
+            echo "⚠️ Push failed - pulling and retrying..."
+            git pull origin main --rebase --autostash || git pull origin main --no-edit
+            sleep 5
+          fi
+        done
+
+    - name: Create summary
+      run: |
+        echo "## 🎓 Initial Internship Population Complete!" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+
+        if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
+          INTERNSHIP_COUNT=$(grep -o "Active Positions\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+          COMPANY_COUNT=$(grep -o "Companies\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+
+          echo "✅ **Successfully populated with Summer 2026 internships**" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 📊 Initial Population Stats:" >> $GITHUB_STEP_SUMMARY
+          echo "- 🎯 **$INTERNSHIP_COUNT total internships** from last 14 days" >> $GITHUB_STEP_SUMMARY
+          echo "- 🏢 **$COMPANY_COUNT companies** offering positions" >> $GITHUB_STEP_SUMMARY
+          echo "- ⏰ **14-day window** for comprehensive coverage" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 🔄 Next Steps:" >> $GITHUB_STEP_SUMMARY
+          echo "- ✅ Repository is now ready for automated updates" >> $GITHUB_STEP_SUMMARY
+          echo "- 🤖 Regular workflow runs every 10 minutes" >> $GITHUB_STEP_SUMMARY
+          echo "- 📬 New internships will post to Discord automatically" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "ℹ️ **No changes - repository already populated**" >> $GITHUB_STEP_SUMMARY
+        fi

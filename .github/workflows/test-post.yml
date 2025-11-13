@@ -1,0 +1,64 @@
+name: Test Discord Post
+
+on:
+  workflow_dispatch: # Manual trigger only
+
+jobs:
+  test-discord:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Install bot dependencies
+      working-directory: .github/scripts
+      run: npm install discord.js@14
+
+    - name: Test Discord posting
+      run: node .github/scripts/enhanced-discord-bot.js
+      env:
+        DISCORD_TOKEN:       ${{ secrets.DISCORD_TOKEN }}
+        DISCORD_CHANNEL_ID:  ${{ secrets.DISCORD_CHANNEL_ID }}
+        DISCORD_CLIENT_ID:   ${{ secrets.DISCORD_CLIENT_ID }}
+        DISCORD_GUILD_ID:    ${{ secrets.DISCORD_GUILD_ID }}
+        # Internship category channels
+        DISCORD_TECH_CHANNEL_ID:      1429365682948145164
+        DISCORD_SALES_CHANNEL_ID:     1429365752145645670
+        DISCORD_MARKETING_CHANNEL_ID: 1429365805090607206
+        DISCORD_FINANCE_CHANNEL_ID:   1429366120854585434
+        DISCORD_HEALTHCARE_CHANNEL_ID: 1429366171840286781
+        DISCORD_PRODUCT_CHANNEL_ID:   1429366236055081131
+        DISCORD_SUPPLY_CHANNEL_ID:    1429366422613786674
+        DISCORD_PM_CHANNEL_ID:         1429366331836207126
+        DISCORD_HR_CHANNEL_ID:         1429366524459745401
+
+    - name: Create test summary
+      run: |
+        echo "## 🧪 Discord Test Post Complete!" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### ✅ Test Results:" >> $GITHUB_STEP_SUMMARY
+        echo "- 🤖 Discord bot connected successfully" >> $GITHUB_STEP_SUMMARY
+        echo "- 📬 Posted jobs from \`.github/data/new_jobs.json\`" >> $GITHUB_STEP_SUMMARY
+        echo "- 🔗 Check Discord channels to verify posts" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### 📋 Channel Configuration:" >> $GITHUB_STEP_SUMMARY
+        echo "- **Tech Internships**: 1429365682948145164" >> $GITHUB_STEP_SUMMARY
+        echo "- **Sales Internships**: 1429365752145645670" >> $GITHUB_STEP_SUMMARY
+        echo "- **Marketing Internships**: 1429365805090607206" >> $GITHUB_STEP_SUMMARY
+        echo "- **Finance Internships**: 1429366120854585434" >> $GITHUB_STEP_SUMMARY
+        echo "- **Healthcare Internships**: 1429366171840286781" >> $GITHUB_STEP_SUMMARY
+        echo "- **Product Internships**: 1429366236055081131" >> $GITHUB_STEP_SUMMARY
+        echo "- **Supply Chain Internships**: 1429366422613786674" >> $GITHUB_STEP_SUMMARY
+        echo "- **Project Management Internships**: 1429366331836207126" >> $GITHUB_STEP_SUMMARY
+        echo "- **Human Resources Internships**: 1429366524459745401" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### 💡 Next Steps:" >> $GITHUB_STEP_SUMMARY
+        echo "- If posts appear correctly → Test successful!" >> $GITHUB_STEP_SUMMARY
+        echo "- If issues found → Check Discord bot permissions and channel IDs" >> $GITHUB_STEP_SUMMARY
+        echo "- Ready for automated workflows after successful test" >> $GITHUB_STEP_SUMMARY
