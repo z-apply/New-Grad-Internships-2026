@@ -1,0 +1,23 @@
+{
+  "url": "https://gensler.wd1.myworkdayjobs.com/genslercareers/job/New-York-NY-US/Intern---Software-Engineer_R-16519",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Your RoleAs a Software Engineer Intern in the Gensler Research Institute, you will work closely with the Institute’s team of research, data, editorial, and design specialists to conceptualize and create GIS-based web applications, workflows and tools that help us to turn geospatial datasets into organized data, insights, and applied research tools by creating a web-based portal. Qualified candidates should be collaborative, flexible, self-motivated, quick learners, and have an entrepreneurial spirit. *Internship will be 20 hours/week, from January 2026 – May 2026**This is a paid internship at the rate of $25-$27.50 per hour based upon year completed in your educational program.What You Will DoYou will be an active member of a team that will: Build and optimize spatial databases and manage geospatial datasets related to demographics, economy, property, sustainability, and transit for cities worldwide.Design and implement interactive maps, visualizations, dashboards, and web-based applications using ESRI products (ArcGIS, ArcGIS Online, ArcGIS Pro, etc.) and other GIS tools. Develop custom GIS tools and automation scripts using Python (ArcPy, GeoPandas), Javascript (Leaflet, Mapbox), SQL, or R to automate geospatial data processing, analysis, and visualization. Integrate, process, and manage various data sources (open-source, proprietary, API-based) into GIS systems for urban analysis. Collaborate with researchers, designers, and urban planners to develop GIS-driven solutions that support urban analysis. Your QualificationsBachelor’s or Master’s degree (complete or in progress) in Computer Science, Computer Engineering or a related field.Experience in GIS application development, spatial databases, or geospatial application development. Experience with software engineering and at least one of our core technologies (Python / Flask / Node.js / JavaScript / React / d3.js / Svelte) Proficiency in Python (ArcPy, Pandas, Geopandas), SQL, (PostGIS, Trino SQL, and/or Spark SQL), and JavaScript for GIS applications.Experience developing web mapping applications using Leaflet, Mapbox, GeoJSON, and JavaScript frameworks. Strong experience in spatial database management, and query optimization (Microsoft SQL Server, Oracle/Oracle Spatial, and PostgresSQL/PostGIS databases). Proficiency Network API Design (e.g. REST or GraphQL)Ability to work with large-scale geospatial datasets, APIs, and cloud-based GIS platforms. Proficiency in Git and GitHub (branching, pull requests, code review). Ability to translate complex data into user-friendly web applications and visualizations.Strong analytical thinking, problem-solving skills, and the ability to work independently or collaboratively in a team. Passion for urban analytics, data-driven decision-making, and cities. Preferred QualificationsExperience working with urban data, such as land use, mobility, housing, sustainability, and infrastructure. Experience with cloud computing platforms (Google Cloud, AWS, or Azure). Knowledge of spatial statistics and machine learning. Proficiency in data visualization techniques using tools such as Tableau, Power BI, or Adobe Creative Suite (Illustrator, Photoshop). How to ApplySubmit an online application on Gensler.com/careers, including a resume and portfolio (if available) that outlines your academic and work experience relevant to this position. Applicants will be reviewed on a rolling admissions basis. Position will be closed on Friday, November 14, 2025.",
+    "requirements": [
+      "Bachelor’s or Master’s degree (complete or in progress) in Computer Science, Computer Engineering or a related field."
+    ],
+    "responsibilities": [
+      "Develop custom GIS tools and automation scripts using Python (ArcPy, GeoPandas), Javascript (Leaflet, Mapbox), SQL, or R to automate geospatial data processing, analysis, and visualization.",
+      "Collaborate with researchers, designers, and urban planners to develop GIS-driven solutions that support urban analysis.",
+      "Experience in GIS application development, spatial databases, or geospatial application development.",
+      "Experience developing web mapping applications using Leaflet, Mapbox, GeoJSON, and JavaScript frameworks."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://gensler.wd1.myworkdayjobs.com/genslercareers/job/New-York-NY-US/Intern---Software-Engineer_R-16519",
+      "fetchedAt": "2025-11-13T23:45:49.312Z"
+    }
+  },
+  "cachedAt": 1763077549312
+}

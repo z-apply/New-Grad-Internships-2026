@@ -1,0 +1,17 @@
+{
+  "url": "https://www.quantbot.com/careers/internships?gh_jid=4050570009",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "JOIN OUR TEAM Internships at Quantbot Quantbot’s internship program offers hands-on experience in finance and technology, allowing interns to work on innovative projects alongside industry experts. Explore our open roles below. .video-container { display:flex; justify-content: center; } .iframe-container { position: relative; min-height: 200px; } .loading-spinner { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 50px; height: 50px; z-index: 1; } .loader { width: 48px; height: 48px; border: 5px solid #61a143; border-bottom-color: transparent; border-radius: 50%; display: inline-block; box-sizing: border-box; animation: rotation 1s linear infinite; } @keyframes rotation { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } } setTimeout(function() { document.getElementById('spinner').style.display = 'none'; }, 1000); Internship Locations New York Miami London Hong Kong Quantbot Blog 08.8 2025 Make Your Own Ice Cream Sundaes! The End of Summer Intern Farewell in New York 08.5 2025 Partner and Intern Lunches for Summer 2025! 07.25 2025 F1 Arcade Racing Simulator Event in London! 07.18 2025 Shaking Things Up: Whiskey Tasting and Mixology Class at the New York Office! 07.18 2025 Turning the London Office into a Cocktail Making Masterclass! 07.9 2025 Double Trivia Nights in the US and UK!",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://www.quantbot.com/careers/internships?gh_jid=4050570009",
+      "fetchedAt": "2025-11-13T23:41:21.664Z"
+    }
+  },
+  "cachedAt": 1763077281664
+}

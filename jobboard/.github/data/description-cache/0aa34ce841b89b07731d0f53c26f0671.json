@@ -1,0 +1,17 @@
+{
+  "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7931",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Summer Internship – Data Scientist, Marketing Operations & Data Intelligence Overview: We’re seeking a highly motivated Data Science Intern to support the implementation and configuration of a new Customer Data Platform (CDP) within the Fluke global marketing organization. This role offers hands-on experience working at the intersection of data science, marketing technology, and customer analytics, helping shape the foundation of how Fluke connects and engages with customers through data-driven insights. The intern will collaborate with the Marketing Operations & Data Intelligence team to define data requirements, validate integrations, and support the development of audience segmentation and predictive models that power personalized marketing experiences. This position is ideal for someone who’s passionate about data engineering, modeling, and analytics, and eager to apply those skills in a real-world business environment. Key focus areas may include: - Supporting data mapping...",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7931",
+      "fetchedAt": "2025-11-13T23:48:15.534Z"
+    }
+  },
+  "cachedAt": 1763077695534
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8227684002",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "What if… you could help build AI systems that learn and evolve on their own? Pioneering Intelligence (PI) is a Flagship initiative focused on intelligent AI systems that drive innovation across the life sciences and beyond. We are developing adaptive, self-improving agentic frameworks that continuously learn from experience and feedback. We are seeking an ML Co-op to join our Agentic AI team. In this role, you’ll design, prototype, and evaluate learning mechanisms that enable AI agents to adapt dynamically from human input and past performance. You’ll collaborate with researchers and engineers to push the boundaries of adaptive intelligence in a fast-paced, entrepreneurial environment. Key Responsibilities Develop adaptive learning algorithms for LLM agents.• Build feedback-driven, self-evolving multi-agent systems for applications in life sciences.• Analyze system performance and iterate on the agentic design through experimentation.• Present findings and contribute to ongoing research efforts. Basic Requirements Degree or experience in Computer Science, Machine Learning, Data Science, or related fields.• Strong skills inPythonand ML frameworks (PyTorch, TensorFlow).• Familiarity with reinforcement learning and LLMs (RAG, prompt engineering, and multi-agent systems). Preferred Experience withbiomedical datasetsor scientific reasoning tasks using LLMs.• Knowledge of LangChain, LangGraph, or Autogen• Experience in lifelong learning, human-in-the-loop learning, and self-improving systems. The pay range for this role is $25 - $40 per hour. This role is a short-term engagement that is not eligible for health and welfare benefits. Retirement benefits may be available after completing a set number of hours. Compensation and benefits information is based on Pioneering Intelligence's good faith estimate as of the date of publication and may be modified in the future.",
+    "requirements": [
+      "Degree or experience in Computer Science, Machine Learning, Data Science, or related fields.• Strong skills inPythonand ML frameworks (PyTorch, TensorFlow).• Familiarity with reinforcement learning and LLMs (RAG, prompt engineering, and multi-agent systems).",
+      "Experience withbiomedical datasetsor scientific reasoning tasks using LLMs.• Knowledge of LangChain, LangGraph, or Autogen• Experience in lifelong learning, human-in-the-loop learning, and self-improving systems."
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8227684002",
+      "fetchedAt": "2025-11-13T23:42:51.025Z"
+    }
+  },
+  "cachedAt": 1763077371025
+}

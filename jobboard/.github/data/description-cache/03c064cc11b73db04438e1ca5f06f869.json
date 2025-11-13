@@ -1,0 +1,22 @@
+{
+  "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Pewaukee-WI---USA/Firmware-Engineering-Intern_JR11157",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "We are Generac, a leading energy technology company committed to powering a smarter world.Over the 60 plus years of Generac’s history, we’ve been dedicated to energy innovation. From creating the home standby generator market category, to our current evolution into an energy technology solutions company, we continue to push new boundaries.We are Generac, a leading energy technology company committed to powering a smarter world.Over the 60 plus years of Generac’s history, we’ve been dedicated to energy innovation. From creating the home standby generator market category, to our current evolution into an energy technology solutions company, we continue to push new boundaries.Generac’s Internship Program is designed to provide students with real-world experience in a supportive and innovative environment. Students contribute to impactful projects, gain exposure to industry best practices, and build lasting professional connections. This is a valuable opportunity to develop your skills and grow alongside experienced mentors.Firmware Engineering InternThe Generac connectivity team is looking for an intern to support our firmware testing efforts. The position involves setting up and maintaining our firmware test stations in our Waukesha and Pewaukee locations. The ideal candidate must be comfortable playing with electronics and have a general interest in software development.This position is part-time and located in Pewaukee, WI throughout the school year (approx. 10 hrs/wk) and full time (40 hrs/wk) when school is not in session. Actual hours are negotiable based on class schedule.Minimum Qualifications:Enrolled in a Bachelor's Degree program in electrical engineering, computer engineering, or related field with a graduation date no earlier than December 2026.Able to work part-time during the academic year (Fall and Spring semesters), and full-time during breaks.Able to commute into Waukesha and Pewaukee, depending on projects.Interest in electrical engineering and software development.Desire to learn via hands-on projects and experiences.Essential Duties and Responsibilities:Use Robot Framework, Python, Git, network infrastructure, and headless Linux servers. No previous experience is required for these items if you are a fast learner.Set up and maintain test stations in Waukesha and Pewaukee offices.Use Wireshark to capture and analyze Bluetooth traffic between mobile applications and their supported products.Identify and propose solutions to discovered firmware and software bugs.Opportunity to write custom test applications for Bluetooth devices.Physical Demands: While performing the duties of this job, the employee is regularly required to talk and hear; and use hands to manipulate objects or controls. The employee is regularly required to stand and walk. On occasion the incumbent may be required to stoop, bend or reach above the shoulders. The employee must occasionally lift up to 25 - 50 pounds. Specific conditions of this job are typical of frequent and continuous computer-based work requiring periods of sitting, close vision and ability to adjust focus. Occasional travel.“We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, disability status, protected veteran status, or any other characteristic protected by law.”",
+    "requirements": [
+      "Enrolled in a Bachelor's Degree program in electrical engineering, computer engineering, or related field with a graduation date no earlier than December 2026.",
+      "Able to work part-time during the academic year (Fall and Spring semesters), and full-time during breaks.",
+      "Use Robot Framework, Python, Git, network infrastructure, and headless Linux servers. No previous experience is required for these items if you are a fast learner."
+    ],
+    "responsibilities": [
+      "Interest in electrical engineering and software development."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Pewaukee-WI---USA/Firmware-Engineering-Intern_JR11157",
+      "fetchedAt": "2025-11-13T23:41:19.145Z"
+    }
+  },
+  "cachedAt": 1763077279145
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://boards.greenhouse.io/benchling/jobs/7362703",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Biotechnology is rewriting life as we know it, from the medicines we take, to the crops we grow, the materials we wear, and the household goods that we rely on every day. But moving at the new speed of science requires better technology.Benchling’s mission is to unlock the power of biotechnology. The world’s most innovative biotech companies use Benchling’s R&D Cloud to power the development of breakthrough products and accelerate time to milestone and market. Come help us bring modern software to modern science.ROLE OVERVIEW We're looking for Software Engineer interns to join our Summer 2026 intern class in San Francisco. As an intern, you'll be entrusted with a significant degree of ownership to work on either platform and infrastructure or product and application teams. You'll learn to design complex and highly scalable products and systems that will directly impact our customers or other Benchlings! RESPONSIBILITIES You will own a project end-to-end, from initial design, to prototype, to large-scale rollout. You might: Design and implement backend models and API endpoints for complex scientific workflows. Build and operate rich frontend components and visualizations. Design and build a platform framework or infrastructure tool for other Benchling engineers to use. QUALIFICATIONS Must haves: Current enrollment in a BS/MS degree in computer science and/or STEM fields with an expected graduation date between Dec 2026 and Summer 2027. A prior software engineering internship or similar experience. Strong abilities in problem solving and iterating on feedback. A desire to have ownership over building key pieces of product and/or platform. Nice to haves: Passion for learning about life science. HOW WE WORK We offer a hybrid work arrangement that prioritizes in-office collaboration. Interns are expected to be on-site 4 days per week. SALARY RANGE Benchling takes a market-based approach to pay. For this role, the hourly pay is $60.00 per hour. #LI-Hybrid #BI-Hybrid #LI-JPBenchling welcomes everyone. We believe diversity enriches our team so we hire people with a wide range of identities, backgrounds, and experiences. We are an equal opportunity employer. That means we don’t discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We also consider for employment qualified applicants with arrest and conviction records, consistent with applicable federal, state and local law, including but not limited to the San Francisco Fair Chance Ordinance. Please be aware that Benchling will never request personal information, payment, or sensitive details outside of Greenhouse or via email. All official communications will come from an @benchling.com email address or from an approved vendor alias. If you are contacted by someone claiming to represent Benchling and are unsure of their legitimacy, please reach out to us at recruiting-fraud-alert@benchling.com to verify the communication.",
+    "requirements": [
+      "Current enrollment in a BS/MS degree in computer science and/or STEM fields with an expected graduation date between Dec 2026 and Summer 2027.",
+      "A prior software engineering internship or similar experience."
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://boards.greenhouse.io/benchling/jobs/7362703",
+      "fetchedAt": "2025-11-13T23:41:06.485Z"
+    }
+  },
+  "cachedAt": 1763077266485
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://boards.greenhouse.io/lightmatter/jobs/4983505008",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Lightmatter is leading the revolution in AI data center infrastructure, enabling the next giant leaps in human progress. The company invented the world’s first 3D-stacked photonics engine, Passage™, capable of connecting thousands to millions of processors at the speed of light in extreme-scale data centers for the most advanced AI and HPC workloads. Lightmatter raised $400 million in its Series D round, reaching a valuation of $4.4 billion. We will continue to accelerate the development of data center photonics and grow every department at Lightmatter! If you're passionate about tackling complex challenges, making an impact, and being an expert in your craft, join our team of brilliant scientists, engineers, and accomplished industry leaders. Lightmatter is (re)inventing the future of computing with light!In this role you will be responsible to use scripting languages like SKILL within Cadence Design software to automate repetitive tasks in the design process, such as layout generation, component placement, routing functions, electrical and manufacturing design rule verification checks, drawing generation, and other routine operations. Key responsibilities: Developing and maintaining SKILL scripts Integrating Cadence with other tools to automate simulation setup and result analysis Document the function and process to use the scripts. Interacting with Package team members such package design and layout engineers Qualifications: Currently pursuing a bachelor’s degree in Computer Science, Information Technology, or related field. Minimum of 6 months of experience using scripting SKILL language Knowledge of EDA design principles Strong problem-solving and analytical thinking skills Ability to collaborate within a team environment Attention to detail and a focus on creating efficient, maintainable solutions Preferred: Knowledge of PCB or Package Layout designs automations Proficient in version control systems Familiarity with programming skills such as Python, VBA, or TCL. Experience with layout design softwares such as Cadence, Valor, or CAM 350. Have one of the following certifications: SKILL programming certification by Cadence and/or Certified Associate in Python Programming (PCAP) Our internship hourly rates are a standard pay determined based on the position and your location, year in school, degree, and experience.Hourly Rate in USD$43 - $47 USDBenefits Comprehensive Health Care Plan (Medical, Dental & Vision) Retirement Savings Matching Program Life Insurance (Basic, Voluntary & AD&D) Generous Time Off (Vacation, Sick & Public Holidays) Paid Family Leave Short Term & Long Term Disability Training & Development Commuter Benefits Flexible, hybrid workplace model Equity grants (applicable to full-time employees) Benefits eligibility may vary depending on your employment status and location. Lightmatter recruits, employs, trains, compensates, and promotes regardless of race, religion, color, national origin, sex, disability, age, veteran status, and other protected status as required by applicable law. Export Control Candidates should have capacity to comply with the federally mandated requirements of U.S. export control laws.",
+    "requirements": [
+      "Currently pursuing a bachelor’s degree in Computer Science, Information Technology, or related field.",
+      "Minimum of 6 months of experience using scripting SKILL language",
+      "Knowledge of EDA design principles",
+      "Knowledge of PCB or Package Layout designs automations",
+      "Experience with layout design softwares such as Cadence, Valor, or CAM 350."
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/4983505008",
+      "fetchedAt": "2025-11-13T23:40:43.285Z"
+    }
+  },
+  "cachedAt": 1763077243285
+}

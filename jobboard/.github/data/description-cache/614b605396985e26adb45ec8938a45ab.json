@@ -1,0 +1,20 @@
+{
+  "url": "https://boards.greenhouse.io/lightmatter/jobs/4982622008",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Lightmatter is leading the revolution in AI data center infrastructure, enabling the next giant leaps in human progress. The company invented the world’s first 3D-stacked photonics engine, Passage™, capable of connecting thousands to millions of processors at the speed of light in extreme-scale data centers for the most advanced AI and HPC workloads. Lightmatter raised $400 million in its Series D round, reaching a valuation of $4.4 billion. We will continue to accelerate the development of data center photonics and grow every department at Lightmatter! If you're passionate about tackling complex challenges, making an impact, and being an expert in your craft, join our team of brilliant scientists, engineers, and accomplished industry leaders. Lightmatter is (re)inventing the future of computing with light!About this Role We are hiring an intern for our Design Verification team at Lightmatter! Lightmatter has created a solution in photonic computing: using photons instead of electrons to take advantage of their higher bandwidth. We build chips for artificial intelligence computing. Our architecture leverages the unique properties of light to enable fast and efficient inference and training engines. Responsibilities Collaborate closely with digital, photonics, and analog designers to gain a thorough understanding of their designs and formulate comprehensive test plans for verifying their work. Create UVM test benches for subsystem-level verification and provide support for full-chip verification. Debug test benches, identify and address issues, achieve high coverage, and ultimately sign off on Design Verification (DV). Develop Real Number Models (RNM) for photonics and analog Intellectual Properties (IPs) and conduct AMS verification to ensure accurate model representation. Integrate the RNM models seamlessly into the UVM test bench. Qualifications ​Currently enrolled in a graduate engineering program, preferably in an ECE, EE or Computer Engineering degree Proficiency in Hardware Description Languages (HDL) such as SystemVerilog Knowledge of verification methodologies such as UVM Proficiency in using simulation tools like Xcelium, ModelSim, Questa, or VCS Experience with Scripting Languages (perl or python) Strong problem-solving skills to identify and resolve issues in the design Exposure to AMS verification Exposure to formal verification Fluency in English, both written and verbal Ability to work with diverse teams of engineers and scientists Our internship hourly rates are a standard pay determined based on the position and your location, year in school, degree, and experience.Hourly Rate in USD$35 - $45 USDBenefits Comprehensive Health Care Plan (Medical, Dental & Vision) Retirement Savings Matching Program Life Insurance (Basic, Voluntary & AD&D) Generous Time Off (Vacation, Sick & Public Holidays) Paid Family Leave Short Term & Long Term Disability Training & Development Commuter Benefits Flexible, hybrid workplace model Equity grants (applicable to full-time employees) Benefits eligibility may vary depending on your employment status and location. Lightmatter recruits, employs, trains, compensates, and promotes regardless of race, religion, color, national origin, sex, disability, age, veteran status, and other protected status as required by applicable law. Export Control Candidates should have capacity to comply with the federally mandated requirements of U.S. export control laws.",
+    "requirements": [
+      "​Currently enrolled in a graduate engineering program, preferably in an ECE, EE or Computer Engineering degree",
+      "Knowledge of verification methodologies such as UVM",
+      "Experience with Scripting Languages (perl or python)"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/4982622008",
+      "fetchedAt": "2025-11-13T23:46:01.104Z"
+    }
+  },
+  "cachedAt": 1763077561104
+}

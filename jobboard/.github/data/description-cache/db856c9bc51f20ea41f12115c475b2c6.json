@@ -1,0 +1,18 @@
+{
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern---Summer-2026_JR2006211",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Our work at NVIDIA is dedicated towards a computing model focused on visual and AI computing. For two decades, NVIDIA has pioneered visual computing, the art and science of computer graphics, with our invention of the GPU. The GPU has also shown to be spectacularly effective at solving some of the most complex problems in computer science. Today, NVIDIA’s GPU simulates human intelligence, running deep learning algorithms and acting as the brain of computers, robots and self-driving cars that can perceive and understand the world. We are looking to grow our company and teams with the smartest people in the world and there has never been a more exciting time to join our team!We're looking for a VLSI CAD intern. If you enjoy combining multiple interests across VLSI design, device modeling, Static timing Analysis, software development, accelerated computing and AI, you’ll love the kind of work we do. Our team combines advances in both high-performance software and VLSI hardware design to craft large scale internal CAD tools and silicon projection methodologies for delivering outstanding computing hardware. If you are passionate about innovation in these areas, let’s talk about many possible projects.What you’ll be doing:Research and develop high performance applied AI internal CAD solutions for timing analysis and closure.Model Timing behavior of Silicon to push the boundary of silicon performance projection, Optimization and correlation.Work with Timing methodology teams to enable them test and deploy internal CAD solutions.Research ML and DL models as alternatives to analytical models to improve QoR of internal CAD solutions.What we need to see:Currently enrolled and pursuing an MS or PhD in Electrical Engineering or related field.Experience in C++ and Python.Very familiar with STA EDA algorithms.Knowledge in digital circuit design.Exposure to ML, DL AI, Gen AI, and CUDA.Ways to stand out from the crowd:Prior internship or professional CAD experience.NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you!Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20 USD - 71 USD. You will also be eligible for Intern benefits. ​Applications for this job will be accepted at least until November 16, 2025. NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
+    "requirements": null,
+    "responsibilities": [
+      "Research and develop high performance applied AI internal CAD solutions for timing analysis and closure."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern---Summer-2026_JR2006211",
+      "fetchedAt": "2025-11-13T23:49:30.660Z"
+    }
+  },
+  "cachedAt": 1763077770660
+}
