@@ -832,7 +832,7 @@
     "category": "AI/ML/Data",
     "is_visible": true,
     "id": "www-metacareers-com-jobs-1652088078837457",
-    "description_platform": "generic",
+    "description_platform": "generic (cached)",
     "description_success": true
   },
   {
@@ -2366,7 +2366,7 @@
     "category": "Software",
     "is_visible": true,
     "id": "careers-rivian-com-jobs-27486",
-    "description_platform": "generic",
+    "description_platform": "generic (cached)",
     "description_success": true
   },
   {
@@ -2392,7 +2392,7 @@
     "category": "AI/ML/Data",
     "is_visible": true,
     "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-intern-enterprise-marketing-ai-data-engineer_r159621",
-    "description_platform": "workday",
+    "description_platform": "workday (cached)",
     "description_success": true
   },
   {
@@ -2417,7 +2417,7 @@
     "category": "AI/ML/Data",
     "is_visible": true,
     "id": "spgi-wd5-myworkdayjobs-com-en-us-spgi_careers-job-princeton-nj-software-developer-intern_322244-1",
-    "description_platform": "workday",
+    "description_platform": "workday (cached)",
     "description_success": true
   },
   {
@@ -2442,7 +2442,7 @@
     "category": "Hardware",
     "is_visible": true,
     "id": "baxter-wd1-myworkdayjobs-com-en-us-baxter-job-skaneateles-ny-co-op-engineering-r-d_jr-192087",
-    "description_platform": "workday",
+    "description_platform": "workday (cached)",
     "description_success": true
   },
   {
@@ -2469,7 +2469,7 @@
     "category": "Hardware",
     "is_visible": true,
     "id": "careers-rivian-com-jobs-27480",
-    "description_platform": "generic",
+    "description_platform": "generic (cached)",
     "description_success": true
   },
   {
@@ -2496,7 +2496,7 @@
     "category": "AI/ML/Data",
     "is_visible": true,
     "id": "careers-rivian-com-jobs-27485",
-    "description_platform": "generic",
+    "description_platform": "generic (cached)",
     "description_success": true
   },
   {
@@ -2521,7 +2521,7 @@
     "category": "AI/ML/Data",
     "is_visible": true,
     "id": "adobe-wd5-myworkdayjobs-com-external_experienced-job-san-jose-xmlname-2026-ai-ml-intern-machine-learning-engineer-intern_r160469",
-    "description_platform": "workday",
+    "description_platform": "workday (cached)",
     "description_success": true
   },
   {
@@ -2548,7 +2548,7 @@
     "category": "Hardware",
     "is_visible": true,
     "id": "careers-rivian-com-jobs-27487",
-    "description_platform": "generic",
+    "description_platform": "generic (cached)",
     "description_success": true
   },
   {
@@ -2573,7 +2573,7 @@
     "category": "Hardware",
     "is_visible": true,
     "id": "careers-rivian-com-jobs-27626",
-    "description_platform": "generic",
+    "description_platform": "generic (cached)",
     "description_success": true
   },
   {
@@ -2598,7 +2598,7 @@
     "category": "Product",
     "is_visible": true,
     "id": "ejta-fa-us6-oraclecloud-com-hcmui-candidateexperience-en-sites-cx_2001-job-7929",
-    "description_platform": "generic",
+    "description_platform": "generic (cached)",
     "description_success": true
   },
   {
@@ -2623,7 +2623,7 @@
     "category": "AI/ML/Data",
     "is_visible": true,
     "id": "job-boards-greenhouse-io-gusto-jobs-7389998",
-    "description_platform": "greenhouse",
+    "description_platform": "greenhouse (cached)",
     "description_success": true
   },
   {
@@ -2648,7 +2648,7 @@
     "category": "AI/ML/Data",
     "is_visible": true,
     "id": "rehlko-wd12-myworkdayjobs-com-reh-job-sheboyganwi-data-analytics-intern-summer-2026-rehlko-_r02380",
-    "description_platform": "workday",
+    "description_platform": "workday (cached)",
     "description_success": true
   },
   {
@@ -2673,7 +2673,7 @@
     "category": "Software",
     "is_visible": true,
     "id": "jobs-keysight-com-jobs-50807",
-    "description_platform": "generic",
+    "description_platform": "generic (cached)",
     "description_success": true
   },
   {
@@ -2698,7 +2698,7 @@
     "category": "AI/ML/Data",
     "is_visible": true,
     "id": "jobdetails-nestle-com-job-new-york-nespresso-business-analytics-internship-ny-10001-1267477101",
-    "description_platform": "generic",
+    "description_platform": "generic (cached)",
     "description_success": true
   },
   {
@@ -2723,7 +2723,7 @@
     "category": "Software",
     "is_visible": true,
     "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-california-redondo-beach-xmlname-2026-software-engineer-intern-redondo-beach-ca_r10214523-1",
-    "description_platform": "workday",
+    "description_platform": "workday (cached)",
     "description_success": true
   },
   {
@@ -2748,7 +2748,7 @@
     "category": "Software",
     "is_visible": true,
     "id": "radiancetech-wd12-myworkdayjobs-com-radiance_external-job-wright-patt-afb-oh-nasic-fme-software-reverse-engineer-co-op-intern_hr101885",
-    "description_platform": "workday",
+    "description_platform": "workday (cached)",
     "description_success": true
   },
   {
@@ -2773,6 +2773,440 @@
     "category": "Hardware",
     "is_visible": true,
     "id": "www-skydio-com-jobs-7506782003",
+    "description_platform": "generic (cached)",
+    "description_success": true
+  },
+  {
+    "job_title": "PhD Software Engineer Intern",
+    "title": "PhD Software Engineer Intern",
+    "employer_name": "Uber",
+    "company_name": "Uber",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "US",
+    "job_description": "Uber Careers Teams Locations University Inside Uber Uber CareersJob search, var useAutoScrolling = false; if (window.addEventListener) { window.addEventListener('message', icims_handlePostMessage, false); } else if (window.attachEvent) { window.attachEvent('onmessage', icims_handlePostMessage); } function icims_handlePostMessage(event) { // If this is not a message from an icims domain, ignore it. if (event.origin.indexOf('icims.com') == -1) return; var data = event.data; if (typeof data === \"string\") { try { data = ICIMS.jsonDecode(data); } catch(e) { data = event.data; } } try { if (data && data.height && !isNaN(data.height)) { document.getElementById('icims_content_iframe').height = parseInt(data.height); } else if ((data && 'x' in data && 'y' in data && !isNaN(parseInt(data.x)) && !isNaN(parseInt(data.y)))) { top.scrollTo(parseInt(data.x), parseInt(data.y)); } else if(data && data.pageTitle){ window.document.title = data.pageTitle; } } catch (e) {} } function getCookie(name) { var match = document.cookie.match(name + '=(.*?)(;|$)'); if (match) return unescape(match[1]); else return \"\"; } function updateUrl(url) { try { history.replaceState({}, '', url); } catch (e) {} } icimsAddOnload(function() { var icimsFrame = document.createElement('iframe'); var iFrameHeight = 500; icimsFrame.id = 'icims_content_iframe'; icimsFrame.name = 'icims_content_iframe'; icimsFrame.src = 'https:\\/\\/university-uber.icims.com\\/jobs\\/150954\\/job?in_iframe=1'; icimsFrame.setAttribute('style', 'width: 100%;border: none;margin: 0px'); iFrameHeight = 500; icimsFrame.setAttribute('height', iFrameHeight); icimsFrame.setAttribute('title', 'iCIMS Content iFrame'); icimsFrame.onload=function() { try { window.parent.parent.scrollTo(0,0); } catch (e) {} }; document.getElementById('icims_iframe_span').appendChild(icimsFrame); try { var height = getCookie('cookie_icims_iframe_content_height'); if (height > 0 && typeof style !== 'undefined') style.height = height + 'px'; } catch(e) {} document.getElementById('icims_content_iframe').onreadystatechange = function() { try{ if ('interactive' == this.readyState) { window.scroll(1,1); } } catch(e) {} }; try { var height = 0; if (navigator.userAgent.indexOf(\"Firefox\")!=-1) height = document.body.offsetHeight + 16; else height = document.body.scrollHeight; document.cookie=\"cookie_icims_iframe_content_height=\"+height+\";SameSite=Strict;Secure;path=/;\"; } catch(e) {} }); <iframe src=\"https://university-uber.icims.com/jobs/150954/job?in_iframe=1\" id=\"noscript_icims_content_iframe\" name=\"noscript_icims_content_iframe\" title=\"Noscript iCIMS Content iFrame\" style=\"width:100%;\" height=\"500\"></iframe> UberVisit Help CenterDo not sell or share my personal informationGoogle Data PolicyCompanyAbout usNewsroomInvestorsCareers blogCareersDiversityStart job searchProductsRideDriveDeliverEatUber for BusinessUber FreightGlobal citizenshipSafetyDiversity and InclusionSustainabilityfacebooktwitteryoutubelinkedininstagramGlobeEnglishLocation markerNew Jersey© 2024 Uber Technologies Inc.PrivacyAccessibilityTerms Select your preferred languageEnglish简体中文Español (Internacional)TeamsDepartmentsBusiness Development & SalesCommunicationsCommunity OperationsData Science & AnalyticsDesignEngineeringFinanceLegalMarketingOperations & LaunchPeople & PlacesProductPublic PolicySafety, Security & InsuranceOfferingsRidesharingUber EatsUber for BusinessUber FreightLocationsAsia PacificBengaluruGurugramManila & PampangaHong KongHyderabadSingaporeSeoul SydneyTokyoTaipeiVisakhapatnamEurope, Middle East & AfricaAarhusAmsterdamBerlinLondonParisLatin AmericaBogotáMexico CitySantiagoSao PauloUnited States & CanadaChicagoDallasNew York CitySan Francisco Bay AreaSeattleTorontoUniversityInside UberBlogBenefitsDiversity, Equity, & InclusionGrow at UberHow we hireProgramsLife at UberValuesProductsENSelect your preferred languageEnglish简体中文Español (Internacional)HomeHomeCar frontRide Steering wheelDriveRestaurantEatWineMerchantsTruckFreightTrain,TransitBike jumpBike & scootBriefcaseBusinessMoneyMoney",
+    "job_apply_link": "https://www.uber.com/global/en/careers/list/150954/",
+    "url": "https://www.uber.com/global/en/careers/list/150954/",
+    "job_posted_at_datetime_utc": "2025-11-14T02:30:50.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Summer 2026"
+    ],
+    "locations": [
+      "Seattle, WA"
+    ],
+    "category": "Software",
+    "is_visible": true,
+    "id": "www-uber-com-global-en-careers-list-150954",
+    "description_platform": "generic",
+    "description_success": true
+  },
+  {
+    "job_title": "Data Science Research Intern",
+    "title": "Data Science Research Intern",
+    "employer_name": "Hitachi",
+    "company_name": "Hitachi",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "US",
+    "job_description": "Location:Santa Clara, California, United StatesJob ID: R0112340Date Posted:2025-11-13Company Name:HITACHI AMERICA, LTD.Profession (Job Category):Administration & FacilitiesJob Schedule: Full timeRemote:NoJob Description:Data Science Research Intern – Data Center Supply Chain AnalyticsCompany: Hitachi America, Ltd.Division: Research & Development (R&D) | Strategic Data Solution Lab (SDSL)Location: Santa Clara, CAStatus: InternDuration: 4 months+ (December 2025 – March 2026 – eligible for extension)About Hitachi, Ltd.Through its Social Innovation Business (SIB) that brings together IT, OT (Operational Technology) and products, Hitachi contributes to a harmonized society where the environment, wellbeing, and economic growth are in balance. Hitachi operates globally in four sectors – Digital Systems & Services, Energy, Mobility, and Connective Industries – and the Strategic SIB Business Unit for new growth businesses. With Lumada at its core, Hitachi generates value from integrating data, technology and domain knowledge to solve customer and social challenges. Revenues for FY2024 (ended March 31, 2025) totaled 9,783.3 billion yen, with 618 consolidated subsidiaries and approximately 280,000 employees worldwide. Visit us at www.hitachi.com.SummaryAt Hitachi America R&D, we believe innovation drives sustainable progress. We are committed to applying advanced analytics, machine learning, and optimization to solve complex challenges across industries. Our research team plays a key role in shaping Hitachi’s future by exploring new ideas and delivering impactful solutions that help our customers make smarter, more resilient decisions.As an intern working on our Data Center Supply Chain team, you will support ongoing projects in inventory management and dynamic part allocation. You will gain hands-on experience working with real-world data, applying machine learning and optimization techniques, and contributing to solutions that ensure data centers run efficiently and reliably.This is a great opportunity to learn how cutting-edge AI and optimization are applied in a fast-growing industry, while working alongside researchers and engineers in a collaborative environment.Key ResponsibilitiesSupport the development of models for inventory tracking, forecasting, and part allocation in data center supply chains.Perform data collection, cleaning, and exploratory data analysis (EDA) to extract insights from real world datasets.Assist in building predictive models and optimization frameworks for demand, supply, and resource allocation.Contribute to simulation and evaluation of different allocation strategies under realistic scenarios.Document progress and share results with the team through presentations, reports, and visualizations.Collaborate with researchers and engineers to learn how innovations move toward production-ready solutions.Required QualificationsCurrent PhD’s or Master’s student in Industrial Engineering, Operations Research, Computer Science, Applied Mathematics, or a related field.Strong programming skills in Python (e.g., Pandas, NumPy, Scikit-learn, PyTorch/TensorFlow).Knowledge of machine learning basics (regression, classification, forecasting) and/or optimization methods.Ability to work with data pipelines (structured/unstructured data).Good analytical thinking, problem-solving, and communication skills.Preferred Qualifications Familiarity with supply chain or inventory management concepts.Exposure to operations research techniques (linear programming, simulation, heuristics).Experience with forecasting models (time series, probabilistic approaches).Interest in reinforcement learning or multi-agent systems for decision-making.Knowledge of data visualization tools (e.g., matplotlib, seaborn, Plotly).What You’ll GainHands-on experience applying AI/ML and optimization in data center supply chains.Exposure to real-world projects and challenges in demand-supply alignment.Mentorship from experienced researchers and engineers.Opportunity to contribute ideas and see them tested in practical scenarios.Our Values We are proud to say we are an equal opportunity employer and welcome all applicants for employment without attention to any factor that doesn’t impact your ability to do the job, including race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status. We are proud of Japanese heritage, with our values expressed through the Hitachi Spirit:Wa – Harmony, Trust, RespectMakoto – Sincerity, Fairness, Honesty, IntegrityKaitakusha-Seishin – Pioneering Spirit, Challenge For California only (as required by California’s Pay Transparency for Pay Equity Act (SB 1162): The expected hourly rate for this position in our California office is $36 - 50 per hour. Pay is determined based on a variety of factors including, but not limited to, depth of experience in the practice area. Employees are eligible to participate in Hitachi America’s variable pay program, subject to the program’s conditions and restrictions.Equal Opportunity Employer (EOE)-Females/Minorities/Protected Veterans/Individuals with Disabilities If you need a reasonable accommodation to apply for a job at Hitachi, please send the nature of request and contact information to accommodation@hal.hitachi.com. Queries other than accommodation requests will not be responded to.",
+    "job_apply_link": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Data-Science-Research-Intern_R0112340",
+    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Data-Science-Research-Intern_R0112340",
+    "job_posted_at_datetime_utc": "2025-11-14T03:30:24.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Winter 2025",
+      "Winter 2026",
+      "Spring 2026"
+    ],
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "category": "AI/ML/Data",
+    "is_visible": true,
+    "id": "hitachi-wd1-myworkdayjobs-com-hitachi-job-santa-clara-california-united-states-data-science-research-intern_r0112340",
+    "description_platform": "workday",
+    "description_success": true
+  },
+  {
+    "job_title": "Consumer Insights Intern - February to May",
+    "title": "Consumer Insights Intern - February to May",
+    "employer_name": "SharkNinja",
+    "company_name": "SharkNinja",
+    "job_city": "Needham",
+    "job_state": "MA",
+    "job_country": "US",
+    "job_description": "About Us SharkNinja is a global product design and technology company, with a diversified portfolio of 5-star rated lifestyle solutions that positively impact people’s lives in homes around the world. Powered by two trusted, global brands, Shark and Ninja, the company has a proven track record of bringing disruptive innovation to market, and developing one consumer product after another has allowed SharkNinja to enter multiple product categories, driving significant growth and market share gains. Headquartered in Needham, Massachusetts with more than 3,600+ associates, the company’s products are sold at key retailers, online and offline, and through distributors around the world. Work Period: February 2026 to May 2026 Location & Schedule: This is a part-time15 to 16 hour/week position with two 8-hour days or three 5-hour days onsite in Needham, MA. There is no relocation or housing assistance for this position. Compensation Range: Ranges from $26/hr - $35/hr. Specific compensation is set according to a standardized scale aligned with your educational level at the time of hire. Join the SharkNinja Early Edge Experience: Built for early career talent. Geared toward impact. Driven by speed. Whether you're in a co-op or internship, our early talent program is designed to provide valuable exposure to the industry and a fast-paced professional environment. You’ll dive into meaningful projects and tasks that sharpen your skills and deepen your knowledge. Along the way, you’ll benefit from professional development opportunities, community events, and connections that make your experience well-rounded and enriching. Your time with us will culminate in an opportunity to showcase your contributions and learnings to SharkNinja leaders because this is a program for those ready to shape what’s next — fast. This role: This part-time Consumer Insights Intern will support quantitative and qualitative research to influence SharkNinja's development of 5-star products. The ideal candidate will be naturally inquisitive, have strong project management skills, interest in market research, and demonstrate strong strategic and critical thinking skills. He/she will work cross-functionally with a wide variety of data sources and stakeholders including Brand and Product Development. Here are some of the EXCITING things you’ll get to do: Support and analyze qualitative and quantitative customer research for trends, insights, and new product development. Assist in the development, management, and execution of research plans. Translate feedback, including latent needs and dissatisfaction, into innovation recommendations. Identify potential unmet customer needs that form the basis for new product/feature offerings. Collaborate and plan customer research strategies and manage internal resources to successfully deliver on plans. ATTRIBUTES & SKILLS: Education: Must be currently enrolled in an associate's, bachelor’s, or master's program Must be able to work a part-time 15 to 16 hour/week schedule with either two 8-hour days or three 5-hour days per week onsite in Needham, MA The ideal candidate will have completed 2+ years in a social science degree program (e.g. psychology or sociology) or is a marketing major with an excellent academic record Naturally inquisitive Has strong project management skills. Builds understanding and trust with others by meeting commitments Identifies the needs & expectations of others (personal & business) and acts upon them. Leverages strong organizational and analytical skills to synthesize information from various sources focusing on relevancy and impact opportunity. Thrives in a hands-on, dynamic, agile environment. Effectively manages shifting priorities, resources. Understands that not all paths are defined and leverages his/ her experience to create\" and add value. Please note that, due to the high volume of applications for early talent roles, response times may vary depending on the specific role and timeline. Our team appreciates your patience!Salary and Other Compensation: The hourly salary range for this position is displayed below. Factors which may affect starting pay within this range may include geography/market, skills, education, experience and other qualifications of the successful candidate. The Company offers the following benefits for this position, subject to applicable eligibility requirements: medical insurance, health savings account (HSA) with company contribution, sick time, company holidays, employee product discount, product testing opportunities, referral bonuses, and more. This posting will close within 90 days from the original posting date.Hourly Pay Range$17 - $44 USD Our Culture At SharkNinja, we don’t just raise the bar—we push past it every single day. Our Outrageously Extraordinary mindset drives us to tackle the impossible, push boundaries, and deliver results that others only dream of. If you thrive on breaking out of your swim lane, you’ll be right at home. What We Offer We offer competitive health insurance, retirement plans, paid time off, employee stock purchase options, wellness programs, SharkNinja product discounts, and more. We empower your personal and professional growth with high impact Learning Programs featuring bold voices redefining what’s possible. When you join, you’re not just part of a company—you’re part of an outrageously extraordinary community. Together, we won’t just launch products—we’ll disrupt entire markets. At SharkNinja, Diversity, Equity, and Inclusion are vital to our global success. Valuing each unique voice and blending all of our diverse skills strengthens SharkNinja’s innovation every day. We support ALL associates in bringing their authentic selves to work, making an impact, and having the opportunity for career acceleration. With help from our leadership, associates, and our community, we aim to have equity be a key component of the SharkNinja DNA. Learn more about us: Life At SharkNinja Outrageously Extraordinary SharkNinja Candidate Privacy Notice For candidates based in all regions, please refer to this Candidate Privacy Notice. For candidates based in China, please refer to this Candidate Privacy Notice. For candidates based in Vietnam, please refer to this Candidate Privacy Notice. We do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, disability, or any other class protected by legislation, and local law. SharkNinja will consider reasonable accommodations consistent with legislation, and local law. If you require a reasonable accommodation to participate in the job application or interview process, please contact SharkNinja People & Culture at accommodations@sharkninja.com",
+    "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4613202006",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4613202006",
+    "job_posted_at_datetime_utc": "2025-11-14T02:25:46.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Spring 2026"
+    ],
+    "locations": [
+      "Needham, MA"
+    ],
+    "category": "Product",
+    "is_visible": true,
+    "id": "job-boards-greenhouse-io-sharkninjaoperatingllc-jobs-4613202006",
+    "description_platform": "greenhouse",
+    "description_success": true
+  },
+  {
+    "job_title": "Software Engineer Intern - Associate Software Developer",
+    "title": "Software Engineer Intern - Associate Software Developer",
+    "employer_name": "Lifeway",
+    "company_name": "Lifeway",
+    "job_city": "Remote in USA",
+    "job_state": "Locations",
+    "job_country": "US",
+    "job_description": "<h2>Overview</h2> <p>The Lifeway Internship Program is a unique opportunity designed to provide college students and recent graduates with a valuable learning experience that fosters growth both professionally, personally, and spiritually. Our internships go far beyond \"busy work\"—you’ll engage in meaningful projects, gain hands-on experience, and be empowered to make an impact. Interns at Lifeway receive professional development, have opportunities for exposure to senior leaders, and benefit from mentoring relationships with experts in their chosen field.</p> <p>&nbsp;</p> <p><strong>Job Overview</strong></p> <p>The Digital Experience Team is seeking a Computer Science student who wants to gain hands-on experience in agile software development while making an eternal impact. As an intern, you will join a collaborative squad of experienced front-end and back-end developers to build innovative applications that empower churches in their mission to make disciples of Jesus Christ.</p> <p>&nbsp;</p> <h3>Internship Program Details &amp; Requirements</h3> <ul> <li><strong>Compensation</strong>: Lifeway’s summer internship program offers a competitive hourly pay rate, and all necessary equipment is provided.</li> <li><strong>Work Schedule</strong>: Interns work an average of 32 hours per week, with core workdays from Tuesday to Thursday. The expectation is that the internship is the primary focus during working hours.</li> <li><strong>Program Duration</strong>: June 1 - August 14, 2026 (11 weeks). Interns must commit to participating in the entire program.</li> <li><strong>Eligibility</strong>: Candidates must be enrolled in an undergraduate or graduate program and have completed at least two years of study by the internship start date. Recent graduates (December 2025 or May 2026) are also eligible.</li> <li><strong>Development Opportunities</strong>: Weekly professional development sessions are provided, including specialized training, mentorship, and leadership development.</li> <li><strong>Remote Structure</strong>: This is a remote position in the U.S., with required in-person attendance for orientation (June 1 - 4, 2026) and end-of-summer presentations (August 11-14, 2026) in Nashville. Travel costs for these events are covered by Lifeway.</li> <li><strong>Application Deadline</strong>: Applications are due by December 31, with interviews beginning as soon as possible. Selections are finalized by April 1.</li> </ul> <p>Explore our culture further at team.lifeway.com/culture-code.</p> <p>&nbsp;</p> <p><strong>This is a remote position based in the contiguous 48 United States with occasional travel to Nashville for in-person team gatherings.</strong></p> <p>DFiFhYfR5n4#LI-Remote&nbsp;</p> <p>DFiFhYfR5n4#LI-Remote&nbsp;</p> <p><strong></strong></p> <p>&nbsp;</p> <h2>Responsibilities</h2> <ul> <li>Live out&nbsp;Lifeway’s mission and values, showing deep commitment to Kingdom work</li> <li>Collaborate in Agile Development</li> <li>Participate in sprint planning, daily standups, retrospectives, and refinement sessions to clarify story requirements and acceptance criteria.</li> <li>Write, review, and commit high-quality code, working both independently and in pair programming with senior developers.</li> <li>Actively participate in code reviews to ensure best practices and maintain code quality.</li> <li>Overnight travel for Orientation, and Final Presentation weeks</li> </ul> <h2>Qualifications</h2> <p><strong>Education</strong></p> <p>Currently pursuing an undergraduate or graduate computer science programming degree.</p> <p>&nbsp;</p> <p><strong>Skills, Knowledge, &amp; Experiences, required</strong></p> <ul> <li>Experience coding in JavaScript</li> <li>Experience using an IDE</li> <li>Using Zoom, Slack, and Outlook or their equivalents</li> </ul> <p>Actively involved in an evangelical Christian church</p> <p>&nbsp;</p> <p><strong>Skills, Knowledge, &amp; Experiences, preferred&nbsp;</strong></p> <ul> <li>Experience using VS Code</li> <li>GitHub account</li> <li>Experience interacting with Amazon Web Services</li> <li>Experience using Jira and Confluence project tools</li> <li>Experience working with a team of developers</li> </ul>",
+    "job_apply_link": "https://hq-lifeway.icims.com/jobs/26908/job?mobile=true&needsRedirect=false",
+    "url": "https://hq-lifeway.icims.com/jobs/26908/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2025-11-14T02:32:40.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Summer 2026"
+    ],
+    "locations": [
+      "Remote in USA"
+    ],
+    "category": "Software",
+    "is_visible": true,
+    "id": "hq-lifeway-icims-com-jobs-26908-job",
+    "description_platform": "icims",
+    "description_success": true
+  },
+  {
+    "job_title": "Software Engineering Intern - Trading",
+    "title": "Software Engineering Intern - Trading",
+    "employer_name": "Apex Fintech Solutions",
+    "company_name": "Apex Fintech Solutions",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "US",
+    "job_description": "WHO WE AREApex Fintech Solutions (AFS) powers innovation and the future of digital wealth management by processing millions of transactions daily, to simplify, automate, and facilitate access to financial markets for all. Our robust suite of fintech solutions enables us to support clients such as Stash, Betterment, SoFi, and Webull, and more than 20 million of our clients' customers. Collectively, AFS creates an environment in which companies with the biggest ideas in fintech are empowered to change the world. As a global organization, we have offices in Austin, Dallas, Chicago, New York, Portland, Belfast, and Manila.If you are seeking a fast-paced and entrepreneurial environment where you'll have the opportunity to make an immediate impact, and you have the guts to change everything, this is the place for you. AFS has received a number of prestigious industry awards, including:2021, 2020, 2019, and 2018 Best Wealth Management Company - presented by Fintech Breakthrough Awards2021 Most Innovative Companies - presented by Fast Company2021 Best API & Best Trading Technology - presented by Global Fintech AwardsABOUT THIS ROLEApex is seeking a motivated and talented Software Engineering Intern to join our dynamic software development team. The team develops the services used to trade all modern assets in the market. This internship offers an excellent opportunity to gain hands-on experience in software engineering, work on exciting projects, and learn from experienced developers in a supportive environment. To be considered, you must be able to commit to a 10-week hybrid internship and work 40 hours per week during our summer program Key Responsibilities: Assist in the development, testing, and maintenance of software applications. Collaborate with the software engineering team to design new features and functionalities. Participate in code reviews and provide constructive feedback to peers. Help in troubleshooting, debugging, and resolving software defects and issues. Contribute to the documentation of software development processes and codebases. Stay updated with emerging technologies and industry best practices in software engineering. Education and Experience: Currently pursuing or recently completed a degree in Computer Science, Software Engineering, or a related STEM field. Senior standing, May 2027 graduate Strong analytical and problem-solving skills. Familiarity with programming languages such as Java, Go, Python, C++, JavaScript, or similar. Understanding of software development methodologies, including Agile and Scrum. Strong problem-solving skills and attention to detail. Excellent communication and teamwork abilities. Willingness to learn and adapt in a fast-paced environment. General interest in Fintech.#LI-DNI​Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties, or responsibilities required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice.Our RewardsWe offer a robust package of employee perks and benefits, including healthcare benefits (medical, dental and vision, EAP), competitive PTO, 401k match, parental leave, and HSA contribution match. We also provide our employees with a paid subscription to the Calm app and offer generous external learning and tuition reimbursement benefits. At AFS, we offer a hybrid work schedule for most roles that allows employees to have the flexibility of working from home and one of our primary offices.EEO StatementApex Fintech Solutions is an equal opportunity employer that does not discriminate on the basis of race, color, religion, sex (including pregnancy, sexual orientation, and gender identity), national origin, age, disability, veteran status, marital status, or any other protected characteristic. Our hiring practices ensure that all qualified applicants receive fair consideration without regard to these characteristics.Disability StatementApex Fintech Solutions is committed to creating an inclusive and accessible workplace for all candidates, including those with disabilities. We are dedicated to ensuring equal employment opportunities and providing reasonable accommodations to qualified individuals with disabilities. If you require reasonable accommodations to participate in the application or interview process, please submit your request via the Candidate Accommodation Requests Form. We will work with you to provide the necessary accommodations to ensure your full participation in our hiring process.",
+    "job_apply_link": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineering-Intern--Trading-_JR103849",
+    "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineering-Intern--Trading-_JR103849",
+    "job_posted_at_datetime_utc": "2025-11-14T02:16:16.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Winter 2025"
+    ],
+    "locations": [
+      "Austin, TX"
+    ],
+    "category": "Quant",
+    "is_visible": true,
+    "id": "peak6group-wd1-myworkdayjobs-com-apexfintechsolutions-job-austin-tx-software-engineering-intern-trading-_jr103849",
+    "description_platform": "workday",
+    "description_success": true
+  },
+  {
+    "job_title": "Software Engineer Intern - Summer 2026",
+    "title": "Software Engineer Intern - Summer 2026",
+    "employer_name": "Sierra Nevada Corporation",
+    "company_name": "Sierra Nevada Corporation",
+    "job_city": "Plano",
+    "job_state": "TX",
+    "job_country": "US",
+    "job_description": "Come start your career with some of the brightest and most innovative minds in the country. Get your hands on actual projects, and at the same time, prepare for a truly awesome career in aerospace and defense. This is not your parent’s internship program – you won’t be getting coffee and ordering lunch. Our Interns have the unique experience of getting both mentoring and coaching while working side by side with recognized industry experts on real-world assignments directly related to their field of study. Bring your knowledge and desire to learn, and we will provide the experience. Summer internships are typically 10-12 weeks starting in late May/early June and work an average of 40 hours a week. Depending on satisfactory completion of certain criteria during your internship, you may be considered for a full-time position upon graduation. As a Technical Intern, you'll ask questions, get involved, bring your ideas, be part of an actual project team, attend planning meetings, complete assignments as tasked by your team, absorb and learn from your team and apply that learning to projects assigned. You'll have the opportunity to learn fundamental business processes and procedures, build your technical foundation through practice and mentorship, and participate in an in-depth program built by our University Recruiting team, that includes cross-functional workshops and meeting with leadership to gain understanding of the business and SNC culture.The ISR (Intelligence, Surveillance & Reconnaissance), Aviation, and Security (IAS) business area is a leader in ISR and aviation, it is a leading prime manned and unmanned aircraft systems integrator for innovative, high-performance ISR and aviation systems. Its end-to-end Command, Control, Computers, Communications and Intelligence, Surveillance & Reconnaissance (C4ISR) capabilities encompass design, integration, test, certification, ground/flight training and complete logistics support. IAS tailors solutions to customer cost, performance, and schedule requirements and designs to consistently exceed expectations – with an unrivaled record of on time and on (or under) budget deliveries.Qualifications You Must Have:Must be a Sophomore, Junior or Senior in college or technical school, with at least 6 months until graduation after end of internshipThe ability to obtain and maintain a Secret U.S. Security Clearance is requiredUnderstanding of object oriented programmingStrong skills in Word, Excel, PowerPoint and VisioAbility to work in a highly collaborative team environmentStrong organization skills and work ethic; detail orientedQualifications We Prefer:Pursuing a degree in engineering or a related disciplineThis posting will be open for application for a minimum of 5 days and may be extended based on business needs.SNC offers a generous benefit package, including medical, dental, and vision plans, 401(k) with 150% match up to 6%, life insurance, 3 weeks paid time off, tuition reimbursement, and more.IMPORTANT NOTICE: This position requires the ability to obtain and maintain a Secret U.S. Security Clearance. U.S. Citizenship status is required as this position needs an active U.S. Security Clearance for employment. Non-U.S. citizens may not be eligible to obtain a security clearance. The Department of Defense Consolidated Adjudications Facility (DoD CAF), a federal government agency, handles the adjudicative aspects of the security clearance eligibility process for industry applicants. Adjudicative factors which affect the outcome of the eligibility determination include, but are not limited to, allegiance to the U.S., foreign influence, foreign preference, criminal conduct, security violations and illegal drug use.Learn more about the background check process for Security Clearances. SNC is a global leader in aerospace and national security committed to moving the American Dream forward. We’re known and respected for our mission and execution focus, agility, and disruptive and rapid innovation. We provide leading edge technologies and transformative solutions that support our nation’s most critical security needs. If you are mission-focused, thrive in collaborative environments, and want to make our country stronger with state-of-the-art technologies that safeguard freedom, join our team!SNC is an Equal Opportunity Employer committed to an environment free of discrimination. Employment decisions are made based on merit without regard to race, color, age, religion, sex, national origin, disability, status as a protected veteran or other characteristics protected by law.",
+    "job_apply_link": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineer-Intern---Summer-2026_R0028425",
+    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineer-Intern---Summer-2026_R0028425",
+    "job_posted_at_datetime_utc": "2025-11-14T02:16:04.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Summer 2026"
+    ],
+    "locations": [
+      "Plano, TX"
+    ],
+    "category": "Software",
+    "is_visible": true,
+    "id": "snc-wd1-myworkdayjobs-com-snc_external_career_site-job-plano-tx-software-engineer-intern-summer-2026_r0028425",
+    "description_platform": "workday",
+    "description_success": true
+  },
+  {
+    "job_title": "Research Scientist Intern - AI Research - Perception",
+    "title": "Research Scientist Intern - AI Research - Perception",
+    "employer_name": "Meta",
+    "company_name": "Meta",
+    "job_city": "SF",
+    "job_state": "Locations",
+    "job_country": "US",
+    "job_description": "Meta is seeking Research Interns to join the Multimedia Perception team in the Applied Research org of Meta Superintelligence Labs. We are committed to advancing the field of artificial intelligence by making fundamental advances in technologies to help interact with and understand our world. We are seeking individuals passionate in the areas of Computer Vision, Natural Language Processing, Machine Learning, and Deep Learning. Our interns have an opportunity to make core algorithmic advances and apply their ideas at an unprecedented scale. Our internships are twelve (12) to twenty-four (24) weeks long and we have various start dates throughout the year. To learn more about our research, visit https://research.facebook.com.",
+    "job_apply_link": "https://www.metacareers.com/jobs/719404640594626",
+    "url": "https://www.metacareers.com/jobs/719404640594626",
+    "job_posted_at_datetime_utc": "2025-11-14T02:48:46.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "locations": [
+      "SF",
+      "Menlo Park, CA",
+      "NYC"
+    ],
+    "category": "AI/ML/Data",
+    "is_visible": true,
+    "id": "www-metacareers-com-jobs-719404640594626",
+    "description_platform": "generic",
+    "description_success": true
+  },
+  {
+    "job_title": "Hardware Test and Reliability Intern",
+    "title": "Hardware Test and Reliability Intern",
+    "employer_name": "Skydio",
+    "company_name": "Skydio",
+    "job_city": "San Mateo",
+    "job_state": "CA",
+    "job_country": "US",
+    "job_description": "{\"@context\":\"http://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@id\":\"https://www.skydio.com/jobs/7506850003\",\"name\":\"Hardware Test and Reliability Intern\"}}]} Hardware Test and Reliability Intern San Mateo, California, United States Skydio is the leading US drone company and the world leader in autonomous flight, the key technology for the future of drones and aerial mobility. The Skydio team combines deep expertise in artificial intelligence, best-in-class hardware and software product development, operational excellence, and customer obsession to empower a broader, more diverse audience of drone users. From utility inspectors to first responders, soldiers in battlefield scenarios and beyond.About the role: We are seeking Summer 2026 (May/June start) interns for our Hardware Test & Reliability Team! Autonomous systems are a new breed of product that bring together electronics hardware and real-time AI software. The complexity of the systems combined with the fact they can move freely in the real world, makes the development and reliability testing strategy a key element of delivering a great product. We are seeking a driven and cross-functional engineering intern to help the development and execution of test plans and testing infrastructure to enable rapid design iteration and robust product validation for state-of-the-art autonomous flying machines servicing a broad range of consumer and commercial use cases. How you’ll make an impact: Own the design and implementation of hardware and software systems to execute comprehensive performance and reliability validation for products performing in a wide array of use cases Analyze data, calculate statistics, and carefully document results to explain trends and inform impactful design improvements Perform failure analysis to identify root cause and help develop process/design mitigations to resolve system issues, collaborating with mechanical, electrical, software, manufacturing, and quality engineering teams Participate in design reviews and provide key design for reliability inputs to mitigate risks at every stage of the product development lifecycle What makes you a good fit: A sense of how to test, how not to test, and how to find vulnerabilities in processes and design A systematic approach to problem solving, and a knack for rapidly identifying issues within electro-mechanical systems; strong desire to drive failure analyses to true root cause Enthusiastic tendencies toward diving in and applying first principles to engineer creative solutions to complex problems Experience with Python or other programming languages for test automation, data analysis and visualization Strong desire to learn and contribute across multiple domains within a dynamic and growing organization Excellent project management, written & verbal communication and cross-functional teamwork skills Familiarity with testing equipment and basic knowledge of stress, environmental, and accelerated life testing methods to assess product durability and reliability. Compensation Range: The hourly rate for this position is $47/hr for Undergrad, $53/hr for Graduate students, and $58 for PhD students*. Compensation will vary based on factors, including skill level, proficiencies, transferable knowledge, and experience. *For some positions the pay may be dependent upon the individual's regional location. #LI-AY1 At Skydio we believe that diversity drives innovation. We have created a multidisciplinary environment that embraces the power of diverse perspectives to create elegant solutions for complex problems. We are committed to growing our network of people, programs, and resources to nurture an inclusive culture. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or other characteristics protected by federal, state or local anti-discrimination laws. For positions located in the United States of America, Skydio, Inc. uses E-Verify to confirm employment eligibility. To learn more about E-Verify, including your rights and responsibilities, please visit https://www.e-verify.gov/",
+    "job_apply_link": "https://www.skydio.com/jobs/7506850003?gh_jid=7506850003",
+    "url": "https://www.skydio.com/jobs/7506850003?gh_jid=7506850003",
+    "job_posted_at_datetime_utc": "2025-11-14T02:23:47.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Summer 2026"
+    ],
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "category": "Hardware",
+    "is_visible": true,
+    "id": "www-skydio-com-jobs-7506850003",
+    "description_platform": "generic",
+    "description_success": true
+  },
+  {
+    "job_title": "Guardian Intern - Product Marketing",
+    "title": "Guardian Intern - Product Marketing",
+    "employer_name": "Guardian Life",
+    "company_name": "Guardian Life",
+    "job_city": "NYC",
+    "job_state": "Locations",
+    "job_country": "US",
+    "job_description": "2026 Guardian Summer Intern, Product MarketingOur 2026 Internship Program is a paid 10-week learning experience where you will be immersed in the daily environment of a thriving global financial services company. You will gain invaluable industry and organizational knowledge through daily business interactions and job assignments, in addition to engaging in projects that directly affect our business, interact with senior leaders in conversational settings, and network with employees and interns across our offices. This 10-week internship provides you with realistic experiences and information of what it is like to work at Guardian.Internship Dates: The internship program will run from Thursday, May 28, 2026 - Friday, August 7, 2026.We review applications on a rolling basis, and we encourage you to apply as soon as you are ready. The application window will close on Friday, November 14, 2025, at 11:59PM ET or when role(s) have been filled, whichever comes first.You are:A rising senior (graduation date of May 2027) who is fueled by collaboration, able to listen and make quick decisions and thrive in a goal-oriented environment.Location (housing is not provided):New York, NYYou have:A strategic and proactive mindsetA passion for learning about customers and a focus on detail and storytellingStrong communication skills and a collaborative spiritYou will:Gain hands-on experience in strategy and product positioningHave access to tools, data, and real projects that impact the businessHave the opportunity to work and learn from supportive leaders, mentors and team members across the organization who will help coach you as you develop your professional careerLearn about Guardian’s purpose, values, how we work, and our suite of product and service offeringsBuild a network of colleagues and have a sense of community with other interns and other parts of the businessThink broadly and ask questions about data, facts and other informationBe a self-starter – someone who enjoys “rolling up their sleeves and getting things done”, has high energy, strong work ethic, displays the ability to work independently, and is creativeWe offer:Meaningful and challenging work opportunities to accelerate innovation in a secure and compliant wayDynamic, modern work environments that promote collaboration and creativity to develop and empower talentEmployee Resource Groups that advocate for inclusion and diversity in all that we doSocial responsibility in all aspects of our work- we volunteer within our local communities, create educational alliances with colleges, and drive a variety of initiatives in sustainabilityEligibility:Applicants must be eligible to work in the U.S. without company sponsorship, now or in the future, for employment-based work authorization. F-1 visa holders with Optional Practical Training (OPT) who will require H-1B status, TNs, or current H-1B visa holders will not be considered. H1-B and green card sponsorship are not available for this position.You must be available for the full program dates of the internship program.If you have any questions regarding the application process, please feel free to email Guardian_Campus@glic.com.Salary Range:$20-$35 per hourSalary Range:$20.00 - $35.00The salary range reflected above is a good faith estimate of base pay for the primary location of the position. The salary for this position ultimately will be determined based on the education, experience, knowledge, and abilities of the successful candidate. In addition to salary, this role may also be eligible for annual, sales, or other incentive compensation.Our PromiseAt Guardian, you’ll have the support and flexibility to achieve your professional and personal goals. Through skill-building, leadership development and philanthropic opportunities, we provide opportunities to build communities and grow your career, surrounded by diverse colleagues with high ethical standards.Inspire Well-BeingAs part of Guardian’s Purpose – to inspire well-being – we are committed to offering contemporary, supportive, flexible, and inclusive benefits and resources to our colleagues. Explore our company benefits at www.guardianlife.com/careers/corporate/benefits. Benefits apply to full-time eligible employees. Interns are not eligible for most Company benefits.Equal Employment OpportunityGuardian is an equal opportunity employer. All qualified applicants will be considered for employment without regard to age, race, color, creed, religion, sex, affectional or sexual orientation, national origin, ancestry, marital status, disability, military or veteran status, or any other classification protected by applicable law.AccommodationsGuardian is committed to providing access, equal opportunity and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. Guardian also provides reasonable accommodations to qualified job applicants (and employees) to accommodate the individual's known limitations related to pregnancy, childbirth, or related medical conditions, unless doing so would create an undue hardship. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact applicant_accommodation@glic.com.Current Guardian Colleagues: Please apply through the internal Jobs Hub in Workday.",
+    "job_apply_link": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2026-Guardian-Summer-Intern--Product-Marketing_R000107504",
+    "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2026-Guardian-Summer-Intern--Product-Marketing_R000107504",
+    "job_posted_at_datetime_utc": "2025-11-14T02:40:35.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Summer 2026"
+    ],
+    "locations": [
+      "NYC"
+    ],
+    "category": "Product",
+    "is_visible": true,
+    "id": "guardianlife-wd5-myworkdayjobs-com-guardian-life-careers-job-new-york-xmlname-2026-guardian-summer-intern-product-marketing_r000107504",
+    "description_platform": "workday",
+    "description_success": true
+  },
+  {
+    "job_title": "Intern Software",
+    "title": "Intern Software",
+    "employer_name": "Farallon Capital Management",
+    "company_name": "Farallon Capital Management",
+    "job_city": "Hopkins",
+    "job_state": "MN",
+    "job_country": "US",
+    "job_description": "2026 Intern – Software – Minnesota Farallon Capital Management, L.L.C.® is a global institutional asset management firm. Founded in 1986 and headquartered in San Francisco, Farallon has offices in London, Singapore, Hong Kong, Tokyo, São Paulo, and New York. The firm’s investments include public and private debt and equity securities, direct investments in private companies, and real estate. Position Overview The 2026 Summer Intern will join the Software team in our Edina, Minnesota office. This internship offers exposure to a variety of impactful projects aimed at optimizing data processes, developing user-focused interfaces, and enhancing operational workflows using new cloud technologies. Interns will have the opportunity to choose from a diverse set of projects, including front-end development, low-code solutions, and data transformation initiatives. We are seeking well-rounded candidates who are self-motivated, take initiative, and can see projects through to completion. This internship is an excellent opportunity for students to apply their academic knowledge to real-world challenges, collaborate with experienced professionals, and make meaningful contributions in a dynamic environment. Responsibilities Aide in the development of web-based front-end interfaces and components for data applications, focusing on user experience and functionality. Support API integration tasks to streamline data collection and improve operational efficiency. Assist in the development of applications in Azure Cloud, ensuring scalability, security, and performance. Collaborate with Trading Operations, Investor Relations, and Accounting teams to optimize workflows, including automation and process improvement. Help with migrating a legacy WinForms-based project to the modern React-based web platform hosted on Azure. Participate in data transformation projects, handling and analyzing large datasets in formats like JSON, XML, and SQL. Explore and utilize AI tools and machine learning frameworks (where applicable) to drive innovation and efficiency. Document processes, provide system updates, and assist end-users with technical support. Take on additional tasks aligned with team priorities and personal interests. Qualifications Required Currently pursuing an undergraduate or master’s degree in Computer Science, Data Analytics, Engineering, Mathematics, Information Systems, Business, or a related field. Basic programming knowledge - C#, JavaScript, SQL, HTML/CSS and familiarity with data handling and transformation (JSON, XML, SQL formats). Demonstrated interest in software development, data processes, or operational workflows. Strong problem-solving skills, with a curiosity to learn and adapt to new tools and technologies. Effective communication skills, with the ability to collaborate across teams and convey ideas clearly. Works independently, takes ownership of tasks, and follows through to complete projects. Flexible and able to adjust to shifting priorities or changing circumstances. Preferred (but not required) Experience with front-end development frameworks like React, TypeScript and DevExtreme. Exposure to cloud platforms such as Azure. Familiarity with low-code tools like Power Automate. Familiarity with API technology such as Graph QL, ODATA, REST, or SOAP Basic understanding of AI and machine learning tools or frameworks Microsoft Ecosystem: Power Tools, Excel Interest in back-end development, particularly with technologies such as SQL Server, Entity Framework Core, C# and ASP.NET Core Compensation is competitive and commensurate with experience and expertise. The monthly salary for this Minnesota-based position is expected to be $5,858.67. Relocation and housing support are not provided for this role. Applicants should ensure they can meet the onsite work requirements.",
+    "job_apply_link": "https://job-boards.greenhouse.io/faralloncapitalmanagementllc/jobs/7527009003",
+    "url": "https://job-boards.greenhouse.io/faralloncapitalmanagementllc/jobs/7527009003",
+    "job_posted_at_datetime_utc": "2025-11-14T02:39:47.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Summer 2026"
+    ],
+    "locations": [
+      "Hopkins, MN"
+    ],
+    "category": "Software",
+    "is_visible": true,
+    "id": "job-boards-greenhouse-io-faralloncapitalmanagementllc-jobs-7527009003",
+    "description_platform": "greenhouse",
+    "description_success": true
+  },
+  {
+    "job_title": "2026 PhD Software Engineer Intern - Airports & Travel - United States",
+    "title": "2026 PhD Software Engineer Intern - Airports & Travel - United States",
+    "employer_name": "Uber",
+    "company_name": "Uber",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "US",
+    "job_description": "<h2>Job Description</h2> <p>We’re looking for PhD candidates to intern on the <strong>Airports &amp; Travel</strong> team during summer 2026 (12 weeks). You will be embedded in our engineering team and work closely with other specialists, software developers, and product managers. As a PhD intern, you will work on an exciting yet bold problem in depth and independently, under the supervision of an experienced engineer on that team.</p> <p><strong>About the Team</strong>&nbsp;</p> <p>&nbsp;</p> <p>The Uber Airports team manages the largest segment within Uber’s rides business. Our mission is to help airport travelers understand what to expect, when to request a ride, where to go, and how to find their driver, no matter where they land in the world.</p> <p>&nbsp;</p> <p>We specialize in optimizing Uber products for airport scenarios, developing software solutions that cater to the needs of Uber riders, drivers, and airport operators. If you’re interested in working on something impactful and used by millions of people, consider joining our team!</p> <p>&nbsp;</p> <p><strong>What You'll Do</strong></p> <p>&nbsp;</p> <ul> <li>Drive exciting, ambitious, previously unsolved projects from end to end</li> <li>Thrive in ambiguous product requirements</li> <li>Collaborate with product managers, data scientists and machine learning engineers closely</li> <li>Make data driven decisions, with exceptional execution</li> <li>Be motivated to own projects and push them forward with independence</li> <li>Most importantly, have a passion to make Uber better for our customers</li> </ul> <p>&nbsp;</p> <p><strong>Basic Qualifications</strong></p> <p>&nbsp;</p> <ul> <li>Currently enrolled in a Ph.D. program studying distributed systems or a related engineering field</li> <li>Candidates must have at least one semester/quarter of their education left following the internship</li> <li>Knowledge of underlying technical foundations of distributed systems and microservice architectures</li> <li>Experience in one or more object-oriented languages, including Java, Go, Python, or C++</li> </ul> <p>&nbsp;</p> <p><strong>Preferred Qualifications</strong></p> <p>&nbsp;</p> <ul> <li>Ability to communicate and collaborate effectively with stakeholders to understand business requirements and build cross-functional solutions</li> <li>Experience in simplifying/converting business problems into technical problems</li> <li>Experience with relational databases and distributed storage systems (MySQL, Cassandra)</li> <li>Dive deep into multiple tech stacks across the company to create scalable micro-services and implement efficient algorithms</li> <li>Track the success of your feature experiments, collaborating with Data Science and Product teams to iterate on delightful user experiences</li> </ul> <p></p> <h2><p> &nbsp; </p></h2> <p>For Seattle, WA-based roles: The base hourly rate amount for this role is USD$67.00 per hour.</p> <p>You will also be eligible for various benefits.</p>",
+    "job_apply_link": "https://university-uber.icims.com/jobs/150954/job?mobile=true&needsRedirect=false",
+    "url": "https://university-uber.icims.com/jobs/150954/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2025-11-14T02:27:32.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Summer 2026"
+    ],
+    "locations": [
+      "Seattle, WA"
+    ],
+    "category": "Software",
+    "is_visible": true,
+    "id": "university-uber-icims-com-jobs-150954-job",
+    "description_platform": "icims",
+    "description_success": true
+  },
+  {
+    "job_title": "Accelerate – And Analytics Intern - Commercial Strategy - Technology",
+    "title": "Accelerate – And Analytics Intern - Commercial Strategy - Technology",
+    "employer_name": "Avis Budget Group",
+    "company_name": "Avis Budget Group",
+    "job_city": "Parsippany-Troy Hills",
+    "job_state": "NJ",
+    "job_country": "US",
+    "job_description": "Want to accelerate your career? Join a team of driven people, performing with purpose. At Avis Budget Group, we are proud to be a performance driven organization. Our 21,000+ employees encourage each other to be at their best through outstanding leadership, training and tools and rewards. As a participant of our ABG Accelerate internship program you will be encouraged to explore different areas of our business to grow both personally and professionally to jump start a rewarding career. The 10 Week Accelerate Internship Program consists of: Learning the ins and outs of your department Professional development workshops Hear from our leaders to learn more about our business Network with our senior leadership team Visit our field operations to learn how your team influences our daily operations What you’ll do:Work on projects where technology drives commercial strategyBridge business and technical teamsProvide Technology Transformation support researchSupport development of metrics that tie technology to business performanceWhat we’re looking for:Pursuing a Bachelor’s in Business Analytics, Computer Science, Management Information Systems, or Data ScienceAnalytical Skills: Strong Excel and data visualization (Power BI, Tableau, or similar)Comfortable building executive-ready slides and presenting insightProactive, self-starter with strong attention to detailThis role pays $30 an hour.Who we are:Here at Avis Budget Group, you will be joining a team of 25,000 driven people, performing with purpose. Together, we’re moving the future of transportation forward with our innovative, customer-focused solutions.Our culture is performance driven, where we encourage and support each other to be at our best through leadership, training, tools, and rewards.We are proud to make a positive difference to the lives of our colleagues, customers, and communities where we operate.Avis Budget Group is an Equal Opportunity Employer – Qualified applicants will receive consideration for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran or any other category protected by applicable law.ParsippanyNew JerseyUnited States of America",
+    "job_apply_link": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Commercial-Strategy--Technology--and-Analytics-Intern---Summer-2026_R0182085",
+    "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Commercial-Strategy--Technology--and-Analytics-Intern---Summer-2026_R0182085",
+    "job_posted_at_datetime_utc": "2025-11-14T02:28:27.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Summer 2026"
+    ],
+    "locations": [
+      "Parsippany-Troy Hills, NJ"
+    ],
+    "category": "AI/ML/Data",
+    "is_visible": true,
+    "id": "avisbudget-wd1-myworkdayjobs-com-abg_careers-job-379-interpace-pkwy-parsippany-07054-accelerate-commercial-strategy-technology-and-analytics-intern-summer-2026_r0182085",
+    "description_platform": "workday",
+    "description_success": true
+  },
+  {
+    "job_title": "Embedded Software Engineer Intern",
+    "title": "Embedded Software Engineer Intern",
+    "employer_name": "Northrop Grumman",
+    "company_name": "Northrop Grumman",
+    "job_city": "Apopka",
+    "job_state": "FL",
+    "job_country": "US",
+    "job_description": "RELOCATION ASSISTANCE: No relocation assistance availableCLEARANCE TYPE: NoneTRAVEL: NoDescriptionAt Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work — and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history.Northrop Grumman Mission Systems is a trusted provider of mission-enabling solutions for global security. We have a wide portfolio of secure, affordable, integrated, and multi-domain systems and technologies. Our differentiated battle management and cyber solutions deliver timely, mission-enabling information and provide superior situational awareness and understanding to protect the U.S. and its global allies.An internship at Northrop Grumman is unique. Sure, you’ll learn new skills, explore our enterprise, network with experts, connect with thought leaders, and finish with a resume that opens doors. But you’ll gain something even more valuable: pride in what you’ve done. Join us and launch your career. We’ll support you with training, employee resource groups, and our shared vision of global security.Northrop Grumman is seeking Embedded Software Engineers for an internship opportunity. This position will be located at our Mission Systems sector in Apopka, FL. The qualified candidate will become part of Northrop Grumman’s Targeting & Survivability (T&S) Division.Roles and Responsibilities:The Embedded Software Engineering Intern will be involved in all phases of the Software Development Life Cycle: design, code, test, integration, verification and field integration support—facilitated by an Agile software development workflow. You will collaborate with a multidisciplinary team to assist in hardware bring-up, system debugging and code optimization, making performance and optimization trade-offs to meet product requirements.Basic Qualifications:A candidate must meet ALL of the below criteria. The candidate must:Be a student who is enrolled full-time and pursuing an undergraduate or graduate degree from an accredited college/university and will be enrolled full time in Fall 2026Be majoring in Computer Science, Computer Engineering, Electrical Engineering, Electronics Engineering, or a closely related STEM degree.Be available to work full-time (40 hours per week) for at least 10 weeks during summer 2026.Be able to obtain and maintain a U.S. Government security clearance (U.S. citizenship is a pre-requisite) as well as Program Special access within a reasonable period of time, as determined by the company to meet its business needs (U.S. citizenship is a pre-requisite)Preferred Qualifications: Have an overall cumulative GPA of 3.00/4.0 or higherStrong software fundamentals including proficiency in designing and implementing software solutions for embedded systems, understanding of software maintainability best practices, and knowledge of relevant tools and frameworks.Proficiency in C/C++ programming language for firmware development.Familiarity with low-level programming concepts, such as memory management, interrupt handling, and hardware interfacing.Familiarity with embedded development boards and microcontrollers and their communication interfaces: UART, SPI, I2C, Ethernet, and USB.Ability to write firmware in both a bare-metal and RTOS contexts.Knowledge of embedded development tools like debuggers, logic analyzers, oscilloscopes, and signal generators with ability to troubleshoot and debug hardware issues using them.Proficiency in writing automated tests for embedded firmware.Knowledge of testing frameworks and libraries for embedded systems, such as Unity for C or Catch2 for C++.Intern Pay Range:Bachelor’s: $17.75 to $32.75 per hourMaster’s: $25.50 to $40.50 per hourAt Northrop Grumman, our internship pay rates are standardized and take into account three main factors: the anticipated graduation date of the individual, the cost of labor of the geographic location, and whether the internship is considered technical or administrative.campusjobsPrimary Level Salary Range: $1.00 - $1.00The above salary range represents a general guideline; however, Northrop Grumman considers a number of factors when determining base salary offers such as the scope and responsibilities of the position and the candidate's experience, education, skills and current market conditions.Depending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in addition to base pay. Annual bonuses are designed to reward individual contributions as well as allow employees to share in company results. Employees in Vice President or Director positions may be eligible for Long Term Incentives. In addition, Northrop Grumman provides a variety of benefits including health insurance coverage, life and disability insurance, savings plan, Company paid holidays and paid time off (PTO) for vacation and/or personal business.The application period for the job is estimated to be 20 days from the job posting date. However, this timeline may be shortened or extended depending on business needs and the availability of qualified candidates.Northrop Grumman is an Equal Opportunity Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. For our complete EEO and pay transparency statement, please visit http://www.northropgrumman.com/EEO. U.S. Citizenship is required for all positions with a government clearance and certain other restricted positions.",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2026-Embedded-Software-Engineer-Intern---Apopka-FL_R10214476-1",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2026-Embedded-Software-Engineer-Intern---Apopka-FL_R10214476-1",
+    "job_posted_at_datetime_utc": "2025-11-14T02:39:15.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Summer 2026"
+    ],
+    "locations": [
+      "Apopka, FL"
+    ],
+    "category": "Hardware",
+    "is_visible": true,
+    "id": "ngc-wd1-myworkdayjobs-com-northrop_grumman_external_site-job-united-states-florida-apopka-xmlname-2026-embedded-software-engineer-intern-apopka-fl_r10214476-1",
+    "description_platform": "workday",
+    "description_success": true
+  },
+  {
+    "job_title": "AI Engineer Intern - GenAI - Summer 2026",
+    "title": "AI Engineer Intern - GenAI - Summer 2026",
+    "employer_name": "Exact Sciences",
+    "company_name": "Exact Sciences",
+    "job_city": "Madison",
+    "job_state": "WI",
+    "job_country": "US",
+    "job_description": "Help us change livesAt Exact Sciences, we’re helping change how the world prevents, detects and guides treatment for cancer. We give patients and clinicians the clarity needed to make confident decisions when they matter most. Join our team to find a purpose-driven career, an inclusive culture, and robust benefits to support your life while you’re working to help others.Position OverviewThe AI Engineer Intern – GenAI will support projects involving large language models, generative AI applications, and experimentation with prompt engineering and retrieval-augmented generation. Essential DutiesInclude, but are not limited to, the following:Develop and evaluate generative AI models for text, code, and other modalities.Explore prompt engineering, fine-tuning, and RAG-based systems.Support prototyping of LLM-powered applications and pipelines.Apply excellent problem-solving skills to improve AI solutions.Display strong communication and teamwork in research and development projects.Uphold company mission and values through accountability, innovation, integrity, quality, and teamwork.Support and comply with the company’s Quality Management System policies and procedures.Maintain regular and reliable attendance.Ability to act with an inclusion mindset and model these behaviors for the organization.Minimum QualificationsMaster’s or PhD candidate in Computer Science, AI, Machine Learning, or related field. Strong proficiency in Python and machine learning frameworks (Scikit-learn, PyTorch, TensorFlow).Familiarity with large language models (e.g., GPT, LLaMA, Claude) and open-source toolkits (Hugging Face, LangChain).Authorization to work in the United States without sponsorship.Preferred QualificationsExperience with retrieval-augmented generation (RAG) systems.Knowledge of cloud platforms (AWS, Azure, GCP)#LI-JP1Salary Range:$35,000.00 - $56,000.00 The annual base salary shown is for this position located in US - WI - Madison on a full-time basis. Exact Sciences is proud to offer an employee experience that includes paid time off (including days for vacation, holidays, volunteering, and personal time), paid leave for parents and caregivers, a retirement savings plan, wellness support, and health benefits including medical, prescription drug, dental, and vision coverage. Learn more about our benefits.Our success relies on the experiences and perspectives of a diverse team, and Exact Sciences fosters a culture where all employees can develop personally and professionally with a sense of respect and belonging. If you require an accommodation, please contact us here.Not ready to apply? Join our Talent Community to stay updated on the latest news and opportunities at Exact Sciences.We are an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to disability, protected veteran status, and any other status protected by applicable local, state, or federal law.To view the Right to Work, E-Verify Employer, and Pay Transparency notices and Federal, Federal Contractor, and State employment law posters, visit our compliance hub. The documents summarize important details of the law and provide key points that you have a right to know.",
+    "job_apply_link": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/AI-Engineer-Intern---GenAI_R25-10994",
+    "url": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/AI-Engineer-Intern---GenAI_R25-10994",
+    "job_posted_at_datetime_utc": "2025-11-14T02:29:51.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Summer 2026"
+    ],
+    "locations": [
+      "Madison, WI"
+    ],
+    "category": "AI/ML/Data",
+    "is_visible": true,
+    "id": "exactsciences-wd1-myworkdayjobs-com-exact_sciences-job-us-wi-madison-ai-engineer-intern-genai_r25-10994",
+    "description_platform": "workday",
+    "description_success": true
+  },
+  {
+    "job_title": "Data Analytics Engineer",
+    "title": "Data Analytics Engineer",
+    "employer_name": "Copart",
+    "company_name": "Copart",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_country": "US",
+    "job_description": "Copart, Inc. a technology leader and the premier online vehicle auction platform globally, with over 200 facilities located across the world, Copart links vehicle sellers to more than 750,000 buyers in over 190 countries. We believe in providing an unmatched experience, every day and everywhere, driven by our people, processes, and technology. Copart is looking for a Data Analytics Intern for our Copart offices located in Dallas, TX. The Reporting Services team works very closely with all aspects of data and reports, both internal and external. In this role, your work will broadly influence the company's data consumers, executives and analysts.This position will assist in duties including, but not limited to, the following:Design, develop, test and implement data warehouse and BI & AI solutions and platforms including but not limited to real-time data pipeline, data visualizations, interactive reports, conversational analytics AI and ad-hoc reporting.Continuously develops and maintains an understanding of Business Intelligence & Analytics technology, including data pipelines reporting and analytics tools, and other methods of information delivery.Develops batch, real-time and streaming analytics pipelines with data from event data streams, NoSQL and APIs and integrate report(s)/dashboard(s) into external applications.Continuously develops an understanding of supported business domains.Analyze, understand, and document user needs to ensure accurate fulfillment of user story requests.Conducts and may facilitate internal testing and user acceptance testing.Other duties as assigned.Requirements:Must have completed Bachelor’s or pursuing Master’s degree in computer science / Statistics / Math's or similar fields.One or two years of experience in any BI Tool preferredProficient with at least one scripting language (e.g., Java, Python)Proficient with advance SQL and cloud databases (e.g., Snowflake, GCP/BQ, AWS/Redshift)Hands on experience with BI/Analytical tools like Looker, Tableau, OBIEE, Power BI etc.Ability to balance and prioritize multiple conflicting requirements with high attention to detail.Proven problem-solving ability and a willingness to think outside-the-box. #LS-MS1 At Copart, we are focused on harnessing the power of diversity, inclusion, and collaboration. By embracing diverse perspectives, we open doors to innovation and unleash the full potential of our team. We are dedicated to fostering a workplace where everyone feels appreciated, included, and inspired to grow and contribute meaningfully.E-Verify Program Participant: Copart participates in the Department of Homeland Security U.S. Citizenship and Immigration Services' E-Verify program (For U.S. applicants and employees only). Please click below to learn more about the E-Verify program:E-verify ParticipationRight to Work",
+    "job_apply_link": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Analytics-Engineer-Intern_JR105745",
+    "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Analytics-Engineer-Intern_JR105745",
+    "job_posted_at_datetime_utc": "2025-11-14T02:17:33.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Winter 2025"
+    ],
+    "locations": [
+      "Dallas, TX"
+    ],
+    "category": "AI/ML/Data",
+    "is_visible": true,
+    "id": "copart-wd12-myworkdayjobs-com-copart-job-dallas-tx-headquarters-data-analytics-engineer-intern_jr105745",
+    "description_platform": "workday",
+    "description_success": true
+  },
+  {
+    "job_title": "Reliability Testing Intern - Operations - Summer 2026",
+    "title": "Reliability Testing Intern - Operations - Summer 2026",
+    "employer_name": "NVIDIA",
+    "company_name": "NVIDIA",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_country": "US",
+    "job_description": "NVIDIA has continuously reinvented itself over two decades. Our invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing - with the GPU acting as the brains of computers, robots, and self-driving cars that can perceive and understand the world. Today, we are increasingly known as \"the AI computing company.\" We're looking to grow our company, and build our teams with the smartest people in the world. Join us at the forefront of technological advancement.Our team is searching for Graduate Intern to join our Board Level Reliability team to evaluate PCBA/Module level reliability. You will be work in the Board Level Reliability lab environment testing for various NV products including large server systems and perform various functional tests for GPU/Tegra products.What you’ll be doing:Develop methods, execute performance tests, and analyze data for IC components and board-level product certifications.Participate in research and development of novel IC qualification processes.Review and interpret equipment manuals, schematics, and technical documents to support equipment setup, calibration, and installation.Assist engineers with analysis tasks, including equipment setup, sample preparation, basic thermal/power characterization, and troubleshooting of test equipment.Support reliability lab operations by contributing to test requirement assessments, metrology design/optimization, and mechanical fixture assembly/debug.Prepare and deliver project updates and lessons learned to the team.What we need to see:Currently pursuing a masters degree in Materials Science, Mechanical Engineering, or a related field.Knowledge with IC packaging, reliability testing, and semiconductor technologies.Knowledge with packaging/test/failure analysis lab equipment is a plus.Knowledge of CAD/SolidWorks or similar design software is desirable.Strong problem-solving skills, attention to detail, and ability to work both independently and collaboratively.Excellent communication skills, with the ability to document and present technical findings clearly.Ways to stand out from the crowd:Knowledge in IC packaging and physics of failureExperience in high power testing, such as Hipot, SIR, ECMExperience in image processingNVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world on our team. If you are creative and autonomous, we want to hear from you!Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20 USD - 71 USD. You will also be eligible for Intern benefits. ​Applications for this job will be accepted at least until November 17, 2025. NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Reliability-Testing-Intern--Operations---Summer-2026_JR2006797",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Reliability-Testing-Intern--Operations---Summer-2026_JR2006797",
+    "job_posted_at_datetime_utc": "2025-11-14T02:58:11.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Summer 2026"
+    ],
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "category": "Hardware",
+    "is_visible": true,
+    "id": "nvidia-wd5-myworkdayjobs-com-nvidiaexternalcareersite-job-us-ca-santa-clara-reliability-testing-intern-operations-summer-2026_jr2006797",
+    "description_platform": "workday",
+    "description_success": true
+  },
+  {
+    "job_title": "Software Automation Engineering Intern - Summer 2026",
+    "title": "Software Automation Engineering Intern - Summer 2026",
+    "employer_name": "Rivian",
+    "company_name": "Rivian",
+    "job_city": "Palo Alto",
+    "job_state": "CA",
+    "job_country": "US",
+    "job_description": "<strong>About Us</strong><br><br><p style=\"margin: 0px;\">Rivian and Volkswagen Group Technologies is a joint venture between two industry leaders with a clear vision for automotive&rsquo;s next chapter. From operating systems to zonal controllers to cloud and connectivity solutions, we&rsquo;re addressing the challenges of electric vehicles through technology that will set the standards for software-defined vehicles around the world.&nbsp;&nbsp;</p><p style=\"margin: 0px;\"><strong>&nbsp;</strong></p><p style=\"margin: 0px;\">The road to the future is uncharted. By combining our expertise across connectivity, AI, security and more, we&rsquo;ll map a new way forward. Working together, we&rsquo;ll create a future that&rsquo;s more connected, more intelligent, more sustainable for everyone.</p> <br><strong>Role Summary</strong><br><br><p style=\"margin-top: 12pt; margin-bottom: 12pt;\"><span style=\"font-size: 10pt; font-family: verdana, geneva; color: #000000; font-weight: 400;\">Join the team as a Software Automation Engineering Intern. You will be instrumental in improving and maintaining RV Tech's automation library and designing software automation for end-to-end customer use cases. This role has a strong focus on coding and hands-on automation work.</span></p> <br><strong>Responsibilities</strong><br><br><ul style=\"margin-top: 0; margin-bottom: 0;\"><li style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; font-weight: 400;\" aria-level=\"1\"><span style=\"font-family: verdana, geneva; font-size: 10pt;\"><strong><span style=\"color: #000000;\">Develop, design, document, and maintain software automation</span></strong><span style=\"color: #000000; font-weight: 400;\"> of end-to-end customer use cases.</span></span></li><li style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; font-weight: 400;\" aria-level=\"1\"><span style=\"font-family: verdana, geneva; font-size: 10pt;\"><span style=\"color: #000000; font-weight: 400;\">Ensure the automation framework is </span><strong><span style=\"color: #000000;\">robust and modular</span></strong><span style=\"color: #000000; font-weight: 400;\"> through utility files and structured tests.</span></span></li><li style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; font-weight: 400;\" aria-level=\"1\"><span style=\"font-family: verdana, geneva; font-size: 10pt;\"><span style=\"color: #000000; font-weight: 400;\">Troubleshoot and </span><strong><span style=\"color: #000000;\">debug issues in the automation framework</span></strong><span style=\"color: #000000; font-weight: 400;\"> and test cases.</span></span></li><li style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; font-weight: 400;\" aria-level=\"1\"><span style=\"font-family: verdana, geneva; font-size: 10pt;\">Write test code to test for <strong>quality, robustness, and functional correctness</strong>, including edge cases.</span></li></ul> <br><strong>Qualifications</strong><br><br><p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: verdana, geneva; font-size: 10pt;\"><strong><span style=\"color: #000000;\">Minimum Qualifications:&nbsp;</span></strong></span></p><ul style=\"margin-top: 0; margin-bottom: 0;\"><li style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; font-weight: 400;\" aria-level=\"1\"><span style=\"font-size: 10pt; font-family: verdana, geneva; color: #000000; font-weight: 400;\">Currently enrolled in a Bachelor's or Master's program at an accredited US or Canadian university.</span></li><li style=\"font-size: 10pt; font-family: Arial,sans-serif; color: #000000; font-weight: 400;\" aria-level=\"1\"><span style=\"font-size: 10pt; font-family: verdana, geneva; color: #000000; font-weight: 400;\">Proficient in Python.</span></li></ul><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: verdana, geneva; font-size: 10pt;\"><strong><span style=\"color: #000000;\">Preferred Qualifications:&nbsp;</span></strong></span></p><ul style=\"margin-top: 0; margin-bottom: 0;\"><li style=\"font-size: 10pt; font-family: Arial,sans-serif; color: #000000; font-weight: 400;\" aria-level=\"1\"><span style=\"font-size: 10pt; font-family: verdana, geneva; color: #000000; font-weight: 400;\">Actively pursuing a degree in Computer Science, Computer Engineering, or a closely related technical field with the intent to return to school following completion of internship.</span></li><li style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; font-weight: 400;\" aria-level=\"1\"><span style=\"font-family: verdana, geneva; font-size: 10pt;\"><span style=\"color: #000000; font-weight: 400;\">Experience with </span><strong><span style=\"color: #000000;\">continuous integration tools</span></strong><span style=\"color: #000000; font-weight: 400;\">, such as Jenkins.</span></span></li><li style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; font-weight: 400;\" aria-level=\"1\"><span style=\"font-size: 10pt; font-family: verdana, geneva; color: #000000; font-weight: 400;\">Familiarity with Android and Linux systems.</span></li><li style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; font-weight: 400;\" aria-level=\"1\"><span style=\"font-size: 10pt; font-family: verdana, geneva; color: #000000; font-weight: 400;\">Knowledge of working with scripting languages like Python, Perl, Ruby, etc.</span></li><li style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; font-weight: 400;\" aria-level=\"1\"><span style=\"font-size: 10pt; font-family: verdana, geneva; color: #000000; font-weight: 400;\">Understanding of Software Engineering Development Process.</span></li><li style=\"font-size: 11pt; font-family: Arial,sans-serif; color: #000000; font-weight: 400;\" aria-level=\"1\"><span style=\"font-size: 10pt; font-family: verdana, geneva; color: #000000; font-weight: 400;\">Knowledge of working with CI/CD systems.</span></li></ul><p style=\"margin-top: 12pt; margin-bottom: 12pt;\"><span style=\"font-family: verdana, geneva; font-size: 10pt;\"><span style=\"color: #000000; font-weight: 400;\">Rivian and Volkswagen Group Technologies internships &amp; co-ops are experiences optimized for student candidates. To be eligible, you must be an undergraduate or graduate student in an accredited program during the entire internship or co-op term. If you are not pursuing a degree, please see our full-time positions at</span><a href=\"https://rivianvw.tech/#careers\" target=\"_blank\" rel=\"noopener\"> <span style=\"color: #1155cc; font-weight: 400;\">https://rivianvw.tech/#careers</span></a><span style=\"color: #000000; font-weight: 400;\">. Note that if your university has specific requirements for internship programs, it is your responsibility to fulfill those requirements.&nbsp;</span></span></p> <br><strong>Pay Disclosure</strong><br><br><p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-family: verdana, geneva; font-size: 10pt;\"><strong><span style=\"color: #000000;\">US Salary Range/Hourly Rate for Internships</span></strong><strong><span style=\"color: #000000;\">:</span></strong><span style=\"color: #000000; font-weight: 400;\"> The range of pay for internships in the US is $40-$51 USD per hour. Actual compensation will be determined based on location, and other factors permitted by law.</span></span></p><p style=\"margin: 0px;\"><span style=\"font-family: verdana, geneva; font-size: 10pt;\"><strong><span style=\"color: #000000;\">Canada Salary Range/Hourly Rate for Internships:</span></strong><span style=\"color: #000000; font-weight: 400;\"> The range of pay for internships in Canada is $22-$27 CAD per hour. Actual compensation will be determined based on location, and other factors permitted by law.</span></span></p> <br><strong class=\"jdheading\"></strong><br><br><h4 dir=\"ltr\">Equal Opportunity</h4><p style=\"margin: 0px;\">Rivian and Volkswagen Group Technologies is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression, gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical condition, or any other characteristic protected by law. We are also committed to ensuring compliance with all applicable fair employment practice laws regarding citizenship and immigration status.</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">Rivian and Volkswagen Group Technologies is committed to ensuring that our hiring process is accessible for persons with disabilities. If you have a disability or limitation, such as those covered by the Americans with Disabilities Act, that requires accommodations to assist you in the search and application process, please email us at&nbsp;<a href=\"mailto:candidateaccommodations@rivian.com\" target=\"_blank\" rel=\"noopener\">candidateaccommodations@rivian.com</a>.</p><h4><strong>Candidate Data Privacy</strong></h4><p style=\"margin: 0px;\">Rivian and VW Group Technologies (&ldquo;Rivian and Volkswagen Group Technologies&rdquo;) may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for employment and/or participate in our recruitment processes (&ldquo;Candidate Personal Data&rdquo;). This data includes contact, demographic, communications, educational, professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian and Volkswagen Group Technologies may use your Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v) recordkeeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law.&nbsp;</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">Rivian and Volkswagen Group Technologies may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian and Volkswagen Group Technologies affiliates; and (iii) Rivian and Volkswagen Group Technologies&rsquo; service providers, including providers of background checks, staffing services, and cloud services.&nbsp;</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">Rivian and Volkswagen Group Technologies may transfer or store internationally your Candidate Personal Data, including to or in the United States, Canada, and the European Union and in the cloud, and this data may be subject to the laws and accessible to the courts, law enforcement and national security authorities of such jurisdictions.&nbsp;</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">Please see our <a href=\"http://rivian.com/legal/rvtech-candidate-dpn\" target=\"_blank\" rel=\"noopener\">Candidate Data Privacy Notice (English)</a> and&nbsp;<a href=\"http://rivian.com/legal/rvtech-candidate-dpn-serbia\" target=\"_blank\" data-stringify-link=\"http://rivian.com/legal/rvtech-candidate-dpn-serbia\" data-sk=\"tooltip_parent\" rel=\"noopener\">Candidate Data Privacy Notice (Serbian)</a>&nbsp;for more information.</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><strong>Please note that we are currently not accepting applications from third party application services.</strong></p>",
+    "job_apply_link": "https://careers.rivian.com/jobs/27482?lang=en-us&icims=1",
+    "url": "https://careers.rivian.com/jobs/27482?lang=en-us&icims=1",
+    "job_posted_at_datetime_utc": "2025-11-14T02:51:31.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Summer 2026"
+    ],
+    "locations": [
+      "Palo Alto, CA",
+      "Irvine, CA",
+      "Vancouver, BC, Canada"
+    ],
+    "category": "Software",
+    "is_visible": true,
+    "id": "careers-rivian-com-jobs-27482",
     "description_platform": "generic",
     "description_success": true
   }

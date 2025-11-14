@@ -1,0 +1,17 @@
+{
+  "url": "https://university-uber.icims.com/jobs/150954/job?mobile=true&needsRedirect=false",
+  "data": {
+    "success": true,
+    "platform": "icims",
+    "description": "<h2>Job Description</h2> <p>We’re looking for PhD candidates to intern on the <strong>Airports &amp; Travel</strong> team during summer 2026 (12 weeks). You will be embedded in our engineering team and work closely with other specialists, software developers, and product managers. As a PhD intern, you will work on an exciting yet bold problem in depth and independently, under the supervision of an experienced engineer on that team.</p> <p><strong>About the Team</strong>&nbsp;</p> <p>&nbsp;</p> <p>The Uber Airports team manages the largest segment within Uber’s rides business. Our mission is to help airport travelers understand what to expect, when to request a ride, where to go, and how to find their driver, no matter where they land in the world.</p> <p>&nbsp;</p> <p>We specialize in optimizing Uber products for airport scenarios, developing software solutions that cater to the needs of Uber riders, drivers, and airport operators. If you’re interested in working on something impactful and used by millions of people, consider joining our team!</p> <p>&nbsp;</p> <p><strong>What You'll Do</strong></p> <p>&nbsp;</p> <ul> <li>Drive exciting, ambitious, previously unsolved projects from end to end</li> <li>Thrive in ambiguous product requirements</li> <li>Collaborate with product managers, data scientists and machine learning engineers closely</li> <li>Make data driven decisions, with exceptional execution</li> <li>Be motivated to own projects and push them forward with independence</li> <li>Most importantly, have a passion to make Uber better for our customers</li> </ul> <p>&nbsp;</p> <p><strong>Basic Qualifications</strong></p> <p>&nbsp;</p> <ul> <li>Currently enrolled in a Ph.D. program studying distributed systems or a related engineering field</li> <li>Candidates must have at least one semester/quarter of their education left following the internship</li> <li>Knowledge of underlying technical foundations of distributed systems and microservice architectures</li> <li>Experience in one or more object-oriented languages, including Java, Go, Python, or C++</li> </ul> <p>&nbsp;</p> <p><strong>Preferred Qualifications</strong></p> <p>&nbsp;</p> <ul> <li>Ability to communicate and collaborate effectively with stakeholders to understand business requirements and build cross-functional solutions</li> <li>Experience in simplifying/converting business problems into technical problems</li> <li>Experience with relational databases and distributed storage systems (MySQL, Cassandra)</li> <li>Dive deep into multiple tech stacks across the company to create scalable micro-services and implement efficient algorithms</li> <li>Track the success of your feature experiments, collaborating with Data Science and Product teams to iterate on delightful user experiences</li> </ul> <p></p> <h2><p> &nbsp; </p></h2> <p>For Seattle, WA-based roles: The base hourly rate amount for this role is USD$67.00 per hour.</p> <p>You will also be eligible for various benefits.</p>",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://university-uber.icims.com/jobs/150954/job?mobile=true&needsRedirect=false",
+      "fetchedAt": "2025-11-14T03:43:08.399Z"
+    }
+  },
+  "cachedAt": 1763091788399
+}

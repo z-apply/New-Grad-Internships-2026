@@ -1,0 +1,22 @@
+{
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Reliability-Testing-Intern--Operations---Summer-2026_JR2006797",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "NVIDIA has continuously reinvented itself over two decades. Our invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing - with the GPU acting as the brains of computers, robots, and self-driving cars that can perceive and understand the world. Today, we are increasingly known as \"the AI computing company.\" We're looking to grow our company, and build our teams with the smartest people in the world. Join us at the forefront of technological advancement.Our team is searching for Graduate Intern to join our Board Level Reliability team to evaluate PCBA/Module level reliability. You will be work in the Board Level Reliability lab environment testing for various NV products including large server systems and perform various functional tests for GPU/Tegra products.What you’ll be doing:Develop methods, execute performance tests, and analyze data for IC components and board-level product certifications.Participate in research and development of novel IC qualification processes.Review and interpret equipment manuals, schematics, and technical documents to support equipment setup, calibration, and installation.Assist engineers with analysis tasks, including equipment setup, sample preparation, basic thermal/power characterization, and troubleshooting of test equipment.Support reliability lab operations by contributing to test requirement assessments, metrology design/optimization, and mechanical fixture assembly/debug.Prepare and deliver project updates and lessons learned to the team.What we need to see:Currently pursuing a masters degree in Materials Science, Mechanical Engineering, or a related field.Knowledge with IC packaging, reliability testing, and semiconductor technologies.Knowledge with packaging/test/failure analysis lab equipment is a plus.Knowledge of CAD/SolidWorks or similar design software is desirable.Strong problem-solving skills, attention to detail, and ability to work both independently and collaboratively.Excellent communication skills, with the ability to document and present technical findings clearly.Ways to stand out from the crowd:Knowledge in IC packaging and physics of failureExperience in high power testing, such as Hipot, SIR, ECMExperience in image processingNVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world on our team. If you are creative and autonomous, we want to hear from you!Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20 USD - 71 USD. You will also be eligible for Intern benefits. ​Applications for this job will be accepted at least until November 17, 2025. NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
+    "requirements": [
+      "Support reliability lab operations by contributing to test requirement assessments, metrology design/optimization, and mechanical fixture assembly/debug.",
+      "Currently pursuing a masters degree in Materials Science, Mechanical Engineering, or a related field."
+    ],
+    "responsibilities": [
+      "Develop methods, execute performance tests, and analyze data for IC components and board-level product certifications.",
+      "Participate in research and development of novel IC qualification processes."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Reliability-Testing-Intern--Operations---Summer-2026_JR2006797",
+      "fetchedAt": "2025-11-14T03:43:29.943Z"
+    }
+  },
+  "cachedAt": 1763091809943
+}
