@@ -302,9 +302,15 @@ async function processJobs() {
             job.id = generateJobId(job);
         });
 
-        // Filter for truly NEW jobs (deduplication against posted_jobs.json)
-        // This ensures failed posts can be retried and avoids skipping valid jobs
-        const freshJobs = currentJobs.filter(job => !postedIds.has(job.id));
+        // Filter for truly NEW jobs (deduplication against both seen and posted)
+        // - seenIds: Skip jobs we've already fetched from API (avoid re-fetching descriptions)
+        // - postedIds: Skip jobs successfully posted to Discord
+        const freshJobs = currentJobs.filter(job => !seenIds.has(job.id) && !postedIds.has(job.id));
+
+        // Deduplication breakdown
+        const alreadySeen = currentJobs.filter(job => seenIds.has(job.id)).length;
+        const alreadyPosted = currentJobs.filter(job => !seenIds.has(job.id) && postedIds.has(job.id)).length;
+        console.log(`🔍 Dedup: ${currentJobs.length} jobs → ${freshJobs.length} new (${alreadySeen} seen, ${alreadyPosted} posted)`);
 
         if (freshJobs.length === 0) {
             console.log('ℹ️ No new jobs found - all current openings already processed');
