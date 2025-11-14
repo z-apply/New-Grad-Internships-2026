@@ -1,0 +1,17 @@
+{
+  "url": "https://www.metacareers.com/jobs/1213006054221601",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Meta Reality Labs Research is looking for upcoming scientists and researchers with great interest in designing, modeling, and prototyping advanced vision systems for real-time, low-power, always-on processing. The goal of this role is to optimize the full-stack vision system spanning from the image sensor, device processors, cloud computation, and corresponding algorithms. Ideal candidates will have a comprehensive understanding of computational imaging, distributed computation, computer vision, and machine learning algorithms, and sensor nanophotonics. Our internships are sixteen (16), to twenty-four (24) weeks long and we have various start dates throughout the year.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://www.metacareers.com/jobs/1213006054221601",
+      "fetchedAt": "2025-11-14T15:18:40.715Z"
+    }
+  },
+  "cachedAt": 1763133520715
+}
