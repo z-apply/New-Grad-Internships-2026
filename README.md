@@ -142,12 +142,12 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Rivian** | UIUC Research Park Intern - Validation | Urbana, IL | 1d ago | Entry-Level | Frontend Development | [Apply](https://careers.rivian.com/jobs/27472?lang=en-us&icims=1) |
-| 🏢 **Rivian** | Software Engineering Intern - Connected Systems - Summer 2026 | Palo Alto, CA | 11h ago | Entry-Level | Software Engineering | [Apply](https://careers.rivian.com/jobs/27486?lang=en-us&icims=1) |
-| 🏢 **Rivian** | Software Engineering Intern - Vehicle Controls - Summer 2026 | Palo Alto, CA | 11h ago | Entry-Level | Software Engineering | [Apply](https://careers.rivian.com/jobs/27480?lang=en-us&icims=1) |
-| 🏢 **Rivian** | Data Engineering Intern - AI & Analytics | Palo Alto, CA | 11h ago | Entry-Level | Machine Learning & AI | [Apply](https://careers.rivian.com/jobs/27485?lang=en-us&icims=1) |
-| 🏢 **Rivian** | Software Engineer Intern - Embedded Platforms | Palo Alto, CA | 11h ago | Entry-Level | DevOps & Infrastructure | [Apply](https://careers.rivian.com/jobs/27487?lang=en-us&icims=1) |
-| 🏢 **Rivian** | UIUC Research Park Intern - Embedded Software | Urbana, IL | 11h ago | Entry-Level | Frontend Development | [Apply](https://careers.rivian.com/jobs/27626?lang=en-us&icims=1) |
-| 🏢 **Rivian** | Software Automation Engineering Intern - Summer 2026 | Palo Alto, CA | 11h ago | Entry-Level | Software Engineering | [Apply](https://careers.rivian.com/jobs/27482?lang=en-us&icims=1) |
+| 🏢 **Rivian** | Software Engineering Intern - Connected Systems - Summer 2026 | Palo Alto, CA | 12h ago | Entry-Level | Software Engineering | [Apply](https://careers.rivian.com/jobs/27486?lang=en-us&icims=1) |
+| 🏢 **Rivian** | Software Engineering Intern - Vehicle Controls - Summer 2026 | Palo Alto, CA | 12h ago | Entry-Level | Software Engineering | [Apply](https://careers.rivian.com/jobs/27480?lang=en-us&icims=1) |
+| 🏢 **Rivian** | Data Engineering Intern - AI & Analytics | Palo Alto, CA | 12h ago | Entry-Level | Machine Learning & AI | [Apply](https://careers.rivian.com/jobs/27485?lang=en-us&icims=1) |
+| 🏢 **Rivian** | Software Engineer Intern - Embedded Platforms | Palo Alto, CA | 12h ago | Entry-Level | DevOps & Infrastructure | [Apply](https://careers.rivian.com/jobs/27487?lang=en-us&icims=1) |
+| 🏢 **Rivian** | UIUC Research Park Intern - Embedded Software | Urbana, IL | 12h ago | Entry-Level | Frontend Development | [Apply](https://careers.rivian.com/jobs/27626?lang=en-us&icims=1) |
+| 🏢 **Rivian** | Software Automation Engineering Intern - Summer 2026 | Palo Alto, CA | 12h ago | Entry-Level | Software Engineering | [Apply](https://careers.rivian.com/jobs/27482?lang=en-us&icims=1) |
 | 🚗 **Uber** | PhD Software Engineer Intern | Seattle, WA | 12h ago | Entry-Level | Software Engineering | [Apply](https://www.uber.com/global/en/careers/list/150954/) |
 | 🚗 **Uber** | 2026 PhD Software Engineer Intern - Airports & Travel - United States | Seattle, WA | 12h ago | Entry-Level | Software Engineering | [Apply](https://university-uber.icims.com/jobs/150954/job?mobile=true&needsRedirect=false) |
 | 🛻 **Lyft** | Data Analyst Intern | New York, NY | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://app.careerpuck.com/job-board/lyft/job/8218030002/) |
@@ -239,7 +239,7 @@
 | 🏢 **Elevance Health** | Business Analytics Intern | Chicago, IL | 22h ago | Entry-Level | Data Science & Analytics | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IL-CHICAGO-233-S-WACKER-DR-STE-3700/Business-Analytics-Intern---Summer-2026_JR170822) |
 | 🏢 **Marsh** | Agricultural Analytics Intern - Software Development | Chicago, IL | 22h ago | Entry-Level | Data Science & Analytics | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Chicago---155-Wacker/Agricultural-Analytics-Summer-Intern---Software-Development---College-Program-2026_R_330590-1) |
 | 🏢 **Grow Financial Federal Credit Union** | Systems Analyst Intern | United States, Locations | 22h ago | Entry-Level | Software Engineering | [Apply](https://careers-growfinancial.icims.com/jobs/2572/job?mobile=true&needsRedirect=false) |
-| 🏢 **General Dynamics Mission Systems** | Software Engineering Intern | Dedham, MA | 21h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69250/job?mobile=true&needsRedirect=false) |
+| 🏢 **General Dynamics Mission Systems** | Software Engineering Intern | Dedham, MA | 22h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69250/job?mobile=true&needsRedirect=false) |
 | 🏢 **Fortive** | Marketing Analytics Intern | Remote in USA, Locations | 22h ago | Entry-Level | Data Science & Analytics | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7931) |
 | 🏢 **Fortive** | Product Management Intern | Everett, WA | 12h ago | Entry-Level | Software Engineering | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7929) |
 | 🏢 **Dover** | Product Manager – Aftermarket Parts Intern | Lithonia, GA | 22h ago | Entry-Level | Product Management | [Apply](https://careers.dovercorporation.com/job/Conyers-Product-Manager,-Aftermarket-Parts-Intern-GA-30013/1267370901/?ats=successfactors) |
