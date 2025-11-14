@@ -51,8 +51,8 @@ async function fetchDescription(url, options = {}) {
   if (useCache) {
     const cached = cache.get(url);
     if (cached) {
-      console.log(`✅ Description found in cache`);
-      return cached;
+      // Return cached result silently (summary logged in batch function)
+      return { ...cached, platform: cached.platform + ' (cached)' };
     }
   }
 
@@ -202,8 +202,10 @@ async function fetchDescriptionsBatch(jobs, options = {}) {
   // Summary stats
   const successCount = results.filter(j => j.description_success).length;
   const failCount = results.length - successCount;
+  const cacheHits = results.filter(j => j.description_platform && j.description_platform.includes('cache')).length;
+  const fetched = successCount - cacheHits;
 
-  console.log(`\n✅ Batch complete: ${successCount} successful, ${failCount} failed`);
+  console.log(`\n✅ Batch complete: ${successCount} successful (${cacheHits} from cache, ${fetched} fetched), ${failCount} failed`);
 
   return results;
 }
