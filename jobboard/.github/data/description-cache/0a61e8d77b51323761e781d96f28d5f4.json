@@ -1,0 +1,23 @@
+{
+  "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC-FME/Software-Reverse-Engineer-CO-OP-Intern_HR101885",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Radiance Technologies is an employee-owned company with benefits that are unmatched by most companies in the Huntsville, AL or Dayton, OH areas. Employee ownership, generous 401K, full health/dental/life/vision insurance benefits, interesting assignments, educational reimbursement, competitive salaries, and a pleasant work environment combine to make Radiance Technologies a great place to work and succeed.Duties: Perform software reverse engineering to understand and characterize system performanceWork as part of a team that directly interfaces with the customer to perform full cycle system engineering, gathering of requirements, and creation of technical documentation and specificationsWrite technical documentation describing software functionality and interfacesPerform software development tasks to assist in the reverse engineering of systemsRequired Qualifications:Currently pursuing a Bachelor of Science degree in Electrical Engineering, Computer Engineering, Computer Science, or relevant technical fieldUS Citizenship with the ability to obtain a security clearanceBasic knowledge of software principles such as: object oriented programming, functional programming, pointers, compiling and debugging, basic algorithms and data structuresFamiliarity with software languages such as: C, C++, Python, Java, JavaScriptExperience with software development tools and compilersFamiliarity with Windows and Linux Operating SystemsAbility and desire to work within a multidisciplinary team of professional engineersDesired Qualifications:Experience in Software Reverse Engineering with at least 1 of the following tools or an equivalent: IDAPro, Ghidra, GDB, WinDbgFamiliarity with assembly code and analysisExperience with embedded systems development, software assembler knowledge, or hardware programmingBasic knowledge of hardware principles and tools such as: verilog, vhdl, synthesisEOE/Minorities/Females/Vet/Disabled",
+    "requirements": [
+      "Work as part of a team that directly interfaces with the customer to perform full cycle system engineering, gathering of requirements, and creation of technical documentation and specifications",
+      "Currently pursuing a Bachelor of Science degree in Electrical Engineering, Computer Engineering, Computer Science, or relevant technical field"
+    ],
+    "responsibilities": [
+      "Perform software development tasks to assist in the reverse engineering of systems",
+      "Experience with software development tools and compilers",
+      "Experience with embedded systems development, software assembler knowledge, or hardware programming"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC-FME/Software-Reverse-Engineer-CO-OP-Intern_HR101885",
+      "fetchedAt": "2025-11-14T03:32:22.966Z"
+    }
+  },
+  "cachedAt": 1763091142966
+}
