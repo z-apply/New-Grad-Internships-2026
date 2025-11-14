@@ -1,0 +1,17 @@
+{
+  "url": "https://www.metacareers.com/jobs/1371077641147770",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "The Physical Modeling team's mission is to address problems at the intersection of physical sciences and computer science. We work closely with a variety of research and engineering teams including those focused on data centers and sustainability, Examples of projects the team could work on range from efficient cooling of data centers to developing simultaneous localization and mapping algorithms. Meta is seeking a Research Scientist Intern to join our Physical Modeling team to support the Data Center Controls Cooling & Climate Modeling program. This is a cutting-edge initiative dedicated to optimizing the planning, construction, and operation of Meta’s large-scale data centers. The program’s mission is to: - Develop scalable, modular component modeling to enable the adoption of new technologies, designs, and control systems within data centers. - Enhance resource utilization, focusing on efficient use of water and power to support sustainability and operational excellence. - Support climate and disaster planning by generating climate projections and resiliency strategies for long-term infrastructure reliability. - Promote safety through advanced modeling of heat indices and mechanical safety systems. This program plays a critical role in helping Meta achieve its organizational objectives, such as rapidly expanding data center capacity, accelerating availability through a building-blocks approach, and supporting sustainability goals. The program collaborates across the full data center lifecycle—planning, building, and operating—to drive innovation and operational excellence.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://www.metacareers.com/jobs/1371077641147770",
+      "fetchedAt": "2025-11-14T15:46:14.203Z"
+    }
+  },
+  "cachedAt": 1763135174204
+}
