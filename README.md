@@ -120,7 +120,7 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🔵 **Meta** | Research Scientist Intern - Computer Vision for Media Research | Menlo Park, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/1652088078837457) |
-| 🔵 **Meta** | Research Scientist Intern - Robotic Manipulation Modeling and Control | Redmond, WA | 4h ago | Entry-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/1496790578073102) |
+| 🔵 **Meta** | Research Scientist Intern - Robotic Manipulation Modeling and Control | Redmond, WA | 5h ago | Entry-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/1496790578073102) |
 | 🎬 **ByteDance** | 3D Graphics Engineer | San Jose, CA | 11h ago | Entry-Level | Software Engineering | [Apply](https://jobs.bytedance.com/en/position/7564516412456306997/detail) |
 
 ### 🏢 **Top Tech** (2 positions)
@@ -253,8 +253,8 @@
 | 🏢 **American Express** | Campus Undergraduate Summer Internship Program - 2026 Product Management | Plantation, FL | 21h ago | Entry-Level | Software Engineering | [Apply](https://aexp.eightfold.ai/careers/job/38754796) |
 | 🎨 **Adobe** | 2026 Intern - Enterprise Marketing AI Data Engineer | San Jose, CA | 11h ago | Entry-Level | Machine Learning & AI | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Enterprise-Marketing-AI-Data-Engineer_R159621) |
 | 🎨 **Adobe** | AI/ML Intern – Machine Learning Engineer Intern | San Jose, CA | 11h ago | Entry-Level | Machine Learning & AI | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160469) |
-| 🏢 **S&P Global ** | Software Developer Intern | Princeton, NJ | 11h ago | Entry-Level | Software Engineering | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Princeton-NJ/Software-Developer-Intern_322244-1) |
-| 🏢 **Baxter International** | Co-op Engineering R&D | Auburn, NY | 11h ago | Entry-Level | Software Engineering | [Apply](https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/Co-op-Engineering-R-D_JR-192087) |
+| 🏢 **S&P Global ** | Software Developer Intern | Princeton, NJ | 12h ago | Entry-Level | Software Engineering | [Apply](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Princeton-NJ/Software-Developer-Intern_322244-1) |
+| 🏢 **Baxter International** | Co-op Engineering R&D | Auburn, NY | 12h ago | Entry-Level | Software Engineering | [Apply](https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/Co-op-Engineering-R-D_JR-192087) |
 | 🏢 **Rehiko** | Data Analytics Intern | Manitowoc, WI | 12h ago | Entry-Level | Data Science & Analytics | [Apply](https://rehlko.wd12.myworkdayjobs.com/Reh/job/SheboyganWI/Data-Analytics-Intern--Summer-2026--Rehlko-_R02380) |
 | 🏢 **Keysight Technologies** | R&D Software Engineering Internship-KAIDCB | Calabasas, CA | 12h ago | Entry-Level | Software Engineering | [Apply](https://jobs.keysight.com/jobs/50807?lang=en-us&icims=1) |
 | 🏢 **Nestle** | Nespresso-Business Analytics Internship | NYC, Locations | 12h ago | Entry-Level | Data Science & Analytics | [Apply](https://jobdetails.nestle.com/job/New-York-Nespresso-Business-Analytics-Internship-NY-10001/1267477101/?ats=successfactors) |
@@ -278,7 +278,7 @@
 | 🏢 **Cintas** | IT Intern – Customer Channels - Web Developer | Mason, OH | 4h ago | Entry-Level | Software Engineering | [Apply](https://careers.cintas.com/job/Mason-IT-Intern-Customer-Channels-Web-Developer-OH-45040/1342799200/?ats=successfactors) |
 | 🏢 **Cintas** | IT Intern – Middleware Mobility | Mason, OH | 4h ago | Entry-Level | Software Engineering | [Apply](https://careers.cintas.com/job/Mason-IT-Intern-Middleware-Mobility-OH-45040/1342800000/?ats=successfactors) |
 | 🏢 **Cintas** | IT Intern – Software Engineer | Mason, OH | 4h ago | Entry-Level | Software Engineering | [Apply](https://careers.cintas.com/job/Mason-IT-Intern-Software-Engineer-OH-45040/1342736900/?ats=successfactors) |
-| 🏢 **Cintas** | IT Intern – Data Analytics | Mason, OH | 4h ago | Entry-Level | Data Science & Analytics | [Apply](https://careers.cintas.com/job/Mason-IT-Intern-Data-Analytics-OH-45040/1342803900/?ats=successfactors) |
+| 🏢 **Cintas** | IT Intern – Data Analytics | Mason, OH | 5h ago | Entry-Level | Data Science & Analytics | [Apply](https://careers.cintas.com/job/Mason-IT-Intern-Data-Analytics-OH-45040/1342803900/?ats=successfactors) |
 
 
 
