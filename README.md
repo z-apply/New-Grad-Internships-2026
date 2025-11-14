@@ -218,7 +218,7 @@
 | 🏢 **Haleon** | Co-Op Engineering | Catskill, NY | 1d ago | Entry-Level | Software Engineering | [Apply](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---Missouri---St-Louis/XMLNAME-2026-Co-Op--Engineering--6-months--July-2026-start-_535454) |
 | 🏢 **Hometap** | Full Stack Engineering Co-op | Boston, MA | 1d ago | Entry-Level | Full Stack Development | [Apply](https://job-boards.greenhouse.io/hometapjobs/jobs/4927882007) |
 | 🏢 **Gusto** | Revenue Analytics Intern | NYC, Locations | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7385991) |
-| 🏢 **Gusto** | Applied Machine Learning Engineer Intern | SF, Locations | 0h ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7389998) |
+| 🏢 **Gusto** | Applied Machine Learning Engineer Intern | SF, Locations | 1h ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7389998) |
 | 🏢 **Zoox** | Motion Planning Intern | San Mateo, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/zoox/d355532c-5e18-4eaf-9da1-0571c2cbbc96/apply) |
 | 🏢 **Zoox** | Full Stack Engineer Intern | San Mateo, CA | 1d ago | Entry-Level | Full Stack Development | [Apply](https://jobs.lever.co/zoox/ed879b80-bfc6-403d-9d65-a26f9db1e3c8/apply) |
 | 🏢 **BorgWarner** | Corporate Software Development Intern | Auburn Hills, MI | 1d ago | Entry-Level | Software Engineering | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Corporate-Software-Development-Intern--Summer-_R2025-4313-1) |
