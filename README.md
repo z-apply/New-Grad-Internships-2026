@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-142-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-141-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-1-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 95 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 94 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 95
+- **🔥 Current Positions**: 94
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 1 premium opportunities
 - **📅 Last Updated**: November 14, 2025
@@ -141,7 +141,7 @@
 | 🏢 **Rivian** | UIUC Research Park Intern - Validation | Urbana, IL | 1d ago | Entry-Level | Frontend Development | [Apply](https://careers.rivian.com/jobs/27472?lang=en-us&icims=1) |
 | 🛻 **Lyft** | Data Analyst Intern | New York, NY | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://app.careerpuck.com/job-board/lyft/job/8218030002/) |
 
-### 🏢 **Other Companies** (89 positions)
+### 🏢 **Other Companies** (88 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -152,7 +152,6 @@
 | 🏢 **Flagship Pioneering** | Pioneering Intelligence ML Co-Op - Agentic AI Team | Cambridge, MA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8227684002) |
 | 🏢 **Flagship Pioneering** | Data Scientist Co-op | Cambridge, MA | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8212208002) |
 | 🏢 **Gelber Group** | Algorithmic Trading Intern | Chicago, IL | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/gelberhandshake/jobs/4595122006) |
-| 🏢 **ASM Global** | Hospitality and Merchandise Insights Intern | Remote in USA, Locations | 2d ago | Entry-Level | Software Engineering | [Apply](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Remote-USA/Hospitality-and-Merchandise-Insights-Intern_R100117872) |
 | 🏢 **Sandisk** | GenAI & AI/ML Engineering Intern | Milpitas, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.smartrecruiters.com/Sandisk/a6add0bd-0181-4676-a960-ef616f652006?dcr_ci=Sandisk) |
 | 🏢 **Sandisk** | GenAI & AI/ML Engineering Intern | Milpitas, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.smartrecruiters.com/Sandisk/744000093026280) |
 | 🏢 **Franklin Templeton** | FTIS Quantitative Equity Portfolio Management Intern | California, Locations | 1d ago | Entry-Level | Frontend Development | [Apply](https://franklintempleton.wd5.myworkdayjobs.com/en-US/invitation-only/job/California-United-States-of-America/FTIS-Quantitative-Equity-Portfolio-Management-Intern_865341) |
@@ -264,15 +263,15 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 93 | 98% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 92 | 98% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
 | 🔴 Manager         | 2 | 2% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
-- **Remote in USA, Locations**: 6 positions
 - **Chicago, IL**: 5 positions
+- **Remote in USA, Locations**: 5 positions
 - **El Segundo, CA**: 4 positions
 - **Cambridge, MA**: 4 positions
 - **Santa Clara, CA**: 4 positions
@@ -283,8 +282,8 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (51 positions)
-🏢 Galactic Resource Advancement Mechanism Technologies Corporation • 🏢 Gelber Group • 🏢 ASM Global
+#### 💻 Software Engineering (50 positions)
+🏢 Galactic Resource Advancement Mechanism Technologies Corporation • 🏢 Gelber Group • 🏢 Marvell
 
 #### 📊 Data Science & Analytics (16 positions)
 🏢 State Street • 🏢 Flagship Pioneering • 🛻 Lyft
@@ -308,7 +307,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 95 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 94 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -397,7 +396,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 95 current opportunities from 261 companies**
+**🎯 94 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
