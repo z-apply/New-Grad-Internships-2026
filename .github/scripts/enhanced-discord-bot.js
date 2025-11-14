@@ -613,14 +613,24 @@ client.once('ready', async () => {
   console.log(`✅ Enhanced Discord bot logged in as ${client.user.tag}`);
 
   // Fetch guild and channels to populate cache
+  console.log(`🔍 DEBUG: GUILD_ID = "${GUILD_ID}" (type: ${typeof GUILD_ID})`);
+  console.log(`🔍 DEBUG: Bot is member of ${client.guilds.cache.size} guilds`);
+  client.guilds.cache.forEach(g => console.log(`   - ${g.name} (${g.id})`));
+
   if (GUILD_ID) {
     try {
+      console.log(`🔍 Attempting to fetch guild: ${GUILD_ID}`);
       const guild = await client.guilds.fetch(GUILD_ID);
+      console.log(`✅ Guild found: ${guild.name}`);
       await guild.channels.fetch();
       console.log(`✅ Loaded ${guild.channels.cache.size} channels from guild`);
     } catch (error) {
       console.error(`❌ Failed to fetch guild channels: ${error.message}`);
+      console.error(`   Error code: ${error.code}`);
+      console.error(`   Full error:`, error);
     }
+  } else {
+    console.warn(`⚠️ DISCORD_GUILD_ID not set`);
   }
 
   // Only register commands if running interactively (not in GitHub Actions)
