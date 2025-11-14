@@ -611,12 +611,23 @@ function loadAndFilterJobs(filters = {}) {
 // Event handlers
 client.once('ready', async () => {
   console.log(`✅ Enhanced Discord bot logged in as ${client.user.tag}`);
-  
+
+  // Fetch guild and channels to populate cache
+  if (GUILD_ID) {
+    try {
+      const guild = await client.guilds.fetch(GUILD_ID);
+      await guild.channels.fetch();
+      console.log(`✅ Loaded ${guild.channels.cache.size} channels from guild`);
+    } catch (error) {
+      console.error(`❌ Failed to fetch guild channels: ${error.message}`);
+    }
+  }
+
   // Only register commands if running interactively (not in GitHub Actions)
   if (!process.env.GITHUB_ACTIONS) {
     await registerCommands();
   }
-  
+
   // Load jobs to post
   let jobs = [];
   try {
