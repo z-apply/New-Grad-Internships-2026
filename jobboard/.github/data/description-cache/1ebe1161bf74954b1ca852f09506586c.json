@@ -1,0 +1,17 @@
+{
+  "url": "https://www.metacareers.com/jobs/1512180363340183",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Meta Reality Labs is looking for interns to help create the next generation of eye tracking for virtual and augmented reality. Our research focuses on true solutions to complex tracking problems, delivering novel technologies and algorithms fundamental to future VR and AR systems. You’ll have the unique opportunity to work with industry-leading researchers and engineers who are defining the future of AR/VR. We welcome PhD students in Computer Science, Computer Vision, Machine Learning, or similar. In particular, we are looking for candidates with experience in multimodal image/volume processing, extracting motion from multimodal data, 3D computer vision, and machine learning. We welcome students with a passion for working in a strongly collaborative team that spans research across algorithms, software, hardware design, and systems prototyping. Our internships are twelve (12) to twenty-four (24) weeks long and we have various start dates throughout the year.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://www.metacareers.com/jobs/1512180363340183",
+      "fetchedAt": "2025-11-15T09:15:26.955Z"
+    }
+  },
+  "cachedAt": 1763198126955
+}
