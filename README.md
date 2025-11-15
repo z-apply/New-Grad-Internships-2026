@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-170-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-169-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-4-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 123 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 122 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 123
+- **🔥 Current Positions**: 122
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 4 premium opportunities
 - **📅 Last Updated**: November 15, 2025
@@ -157,11 +157,10 @@
 | 🏢 **Radiance Technologies** | Software Reverse Engineer CO-OP Intern | Dayton, OH | 1d ago | Entry-Level | Software Engineering | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC-FME/Software-Reverse-Engineer-CO-OP-Intern_HR101885) |
 | 🏢 **Radiance Technologies** | Software Reverse Engineer CO-OP Intern | Wright-Patterson AFB, OH | 1d ago | Entry-Level | Software Engineering | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC-FME/Software-Reverse-Engineer-CO-OP-Intern_HR101886) |
 
-### 🏢 **Other Companies** (101 positions)
+### 🏢 **Other Companies** (100 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Interstates** | Data Analyst Intern | Sioux Falls, SD | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://www.interstates.com/careers/jobs?gh_jid=4056077009&gh_jid=4056077009) |
 | 🏢 **BAE Systems** | Software Engineering Intern – Internal Tools 2026 (hybrid) | Cedar Rapids, IA | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.baesystems.com/global/en/job/BAE1US118298BREXTERNAL/Software-Engineering-Intern-Internal-Tools-2026-hybrid) |
 | 🏢 **Atlantic Health System** | Data Management Intern - Clinical Education | Morristown, NJ | 1d ago | Entry-Level | Software Engineering | [Apply](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/23855) |
 | 🏢 **Elevance Health** | Business Analytics Intern | Chicago, IL | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IL-CHICAGO-233-S-WACKER-DR-STE-3700/Business-Analytics-Intern---Summer-2026_JR170822) |
@@ -217,7 +216,7 @@
 | 🏢 **Analog Devices** | Hardware Security Design Intern | Burlington, MA | 1d ago | Entry-Level | Security Engineering | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Hardware-Security-Design-Intern_R257898) |
 | 🏢 **Astera Labs** | Supply Chain Data Analyst Intern - 2026 | San Jose, CA | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4602747005) |
 | 🏢 **Cintas** | IT Intern – Software Engineer | Mason, OH | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers.cintas.com/job/Mason-IT-Intern-Software-Engineer-OH-45040/1342736900/?ats=successfactors) |
-| 🏢 **Veolia** | Engineering/Instrumentation Intern | Caddo Valley, AR | 18h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000093729966) |
+| 🏢 **Veolia** | Engineering/Instrumentation Intern | Caddo Valley, AR | 19h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000093729966) |
 | 🏢 **Altom Transport** | Summer 2026 Software Development Intern | Houston, TX | 18h ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/altom-transport/j/04A9461007/) |
 | 🏢 **Altom Transport** | Summer 2026 Software Development Intern | Hammond, IN | 18h ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/altom-transport/j/6C00FDED5C/) |
 | 🏢 **Tessera Labs** | Software Engineering Intern, Frontend | Remote in USA, Locations | 18h ago | Entry-Level | Frontend Development | [Apply](https://jobs.ashbyhq.com/tessera-labs/c0350717-8b4d-4a1a-af00-4c62204192fd) |
@@ -249,7 +248,7 @@
 | 🏢 **Oshkosh** | Digital Manufacturing Intern | Oshkosh, WI | 11h ago | Entry-Level | Software Engineering | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Digital-Manufacturing-Intern_R42576) |
 | 🏢 **Zoox** | Core Software Systems Intern | San Mateo, CA | 11h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/zoox/db76eba1-18cb-41f1-ab7e-f4ace0085a68/apply) |
 | 🏢 **Zoox** | System Safety Intern | San Mateo, CA | 11h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/zoox/06bbad7f-7e48-4cf6-bf87-2c9a9899fd04/apply) |
-| 🏢 **DTCC** | Data Solutions Intern | Tampa, FL | 10h ago | Entry-Level | Software Engineering | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/212170) |
+| 🏢 **DTCC** | Data Solutions Intern | Tampa, FL | 11h ago | Entry-Level | Software Engineering | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/212170) |
 | 🏢 **Moog ** | Intern – Product Engineering | Niagara Falls, NY | 11h ago | Entry-Level | Software Engineering | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Niagara-Falls-NY/Intern--Product-Engineering_R-25-13488-1) |
 | 🏢 **BorgWarner** | Web Applications/Communications | Auburn Hills, MI | 11h ago | Entry-Level | Software Engineering | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Web-Applications-Communications-Intern--Year-Round-_R2025-4462) |
 | 🏢 **Nokia** | Bell Labs AI Research Solutions Intern | Berkeley Heights, NJ | 11h ago | Entry-Level | Machine Learning & AI | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26761) |
@@ -292,7 +291,7 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 123 | 100% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 122 | 100% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
@@ -314,8 +313,8 @@
 #### 💻 Software Engineering (75 positions)
 🏢 BAE Systems • 🏢 Atlantic Health System • 🏢 Grow Financial Federal Credit Union
 
-#### 📊 Data Science & Analytics (20 positions)
-🏢 Interstates • 🏢 Elevance Health • 🏢 Great American Insurance Company
+#### 📊 Data Science & Analytics (19 positions)
+🏢 Elevance Health • 🏢 Great American Insurance Company • 🏢 Marsh
 
 #### 🧠 Machine Learning & AI (12 positions)
 🏢 Autodesk • 🎨 Adobe • 🏢 Rivian
@@ -348,7 +347,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 123 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 122 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -437,7 +436,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 123 current opportunities from 261 companies**
+**🎯 122 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
