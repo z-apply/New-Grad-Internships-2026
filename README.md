@@ -153,7 +153,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Shield AI** | Integration & Test Engineering Co-Op - Dallas - TX | Dallas, TX | 11h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/shieldai/510e75c8-20c6-4eb3-8aba-6e2ffaedd9d3/apply) |
+| 🏢 **Shield AI** | Integration & Test Engineering Co-Op - Dallas - TX | Dallas, TX | 12h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/shieldai/510e75c8-20c6-4eb3-8aba-6e2ffaedd9d3/apply) |
 | 🏢 **Radiance Technologies** | Software Reverse Engineer CO-OP Intern | Dayton, OH | 1d ago | Entry-Level | Software Engineering | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC-FME/Software-Reverse-Engineer-CO-OP-Intern_HR101885) |
 | 🏢 **Radiance Technologies** | Software Reverse Engineer CO-OP Intern | Wright-Patterson AFB, OH | 1d ago | Entry-Level | Software Engineering | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC-FME/Software-Reverse-Engineer-CO-OP-Intern_HR101886) |
 
@@ -230,11 +230,11 @@
 | 🏢 **National Renewable Energy Laboratory** | Graduate – Intern - 3 - Month | Golden, CO | 11h ago | Entry-Level | Software Engineering | [Apply](https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Graduate--3-12-month--Intern---Artificial-Intelligence-for-Power-System-Operations_R13981-1) |
 | 🏢 **National Renewable Energy Laboratory** | Post-Undergraduate/Graduate – Data Engineering Intern - Year-Round | Golden, CO | 11h ago | Entry-Level | Data Science & Analytics | [Apply](https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Post-Undergraduate-Graduate--Year-Round--Data-Engineering-Intern_R13993-1) |
 | 🏢 **National Renewable Energy Laboratory** | Post-Undergraduate/Graduate – Software Engineering Intern for Grid Modeling Applications - Year-Round | Golden, CO | 11h ago | Entry-Level | Software Engineering | [Apply](https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Post-Undergraduate-Graduate--Year-Round--Software-Engineering-Intern-for-Grid-Modeling-Applications_R13991-1) |
-| 🏢 **AbbVie** | Biologics Analytical R&D Intern - Multiple Teams | Waukegan, IL | 11h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990010318456) |
-| 🏢 **AbbVie** | Computational Data Scientist | Waukegan, IL | 11h ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990010317946) |
-| 🏢 **Toyota Research Institute** | Human Interactive Driving Intern - World Models | Mountain View, CA | 11h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149/apply) |
-| 🏢 **UiPath** | Front-End Software Engineer Intern | Bellevue, WA | 11h ago | Entry-Level | Frontend Development | [Apply](https://jobs.ashbyhq.com/uipath/dd678df8-91e3-468f-874e-f669dfc1e668/application) |
-| 🏢 **UiPath** | AI Engineer Intern | Bellevue, WA | 11h ago | Entry-Level | Frontend Development | [Apply](https://jobs.ashbyhq.com/uipath/0ccbab7e-ea2b-4afd-b6f1-a7c6f6fe3ddc/application) |
+| 🏢 **AbbVie** | Biologics Analytical R&D Intern - Multiple Teams | Waukegan, IL | 12h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990010318456) |
+| 🏢 **AbbVie** | Computational Data Scientist | Waukegan, IL | 12h ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990010317946) |
+| 🏢 **Toyota Research Institute** | Human Interactive Driving Intern - World Models | Mountain View, CA | 12h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149/apply) |
+| 🏢 **UiPath** | Front-End Software Engineer Intern | Bellevue, WA | 12h ago | Entry-Level | Frontend Development | [Apply](https://jobs.ashbyhq.com/uipath/dd678df8-91e3-468f-874e-f669dfc1e668/application) |
+| 🏢 **UiPath** | AI Engineer Intern | Bellevue, WA | 12h ago | Entry-Level | Frontend Development | [Apply](https://jobs.ashbyhq.com/uipath/0ccbab7e-ea2b-4afd-b6f1-a7c6f6fe3ddc/application) |
 | 🏢 **Bloomberg Industry Group** | Intern Engineering | Arlington, VA | 11h ago | Entry-Level | Software Engineering | [Apply](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Internship-Engineering_138786) |
 | 🏢 **Generac** | Product Management Intern | Waukesha, WI | 11h ago | Entry-Level | Software Engineering | [Apply](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Summer-2026-Product-Management-Intern_JR10402) |
 | 🏢 **Cencora** | Ecommerce Analytics Intern | Conshohocken, PA | 11h ago | Entry-Level | Data Science & Analytics | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Ecommerce-Analytics-Intern_R2514879) |
@@ -254,12 +254,12 @@
 | 🏢 **Nokia** | Bell Labs AI Research Solutions Intern | Berkeley Heights, NJ | 11h ago | Entry-Level | Machine Learning & AI | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26761) |
 | 🏢 **The Federal Reserve System** | Intern - People Analytics | Dallas, TX | 11h ago | Entry-Level | Data Science & Analytics | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/Intern-People-Analytics_R-0000030624) |
 | 🏢 **Figure** | Hardware Reliability Intern - Winter 2026 | San Jose, CA | 11h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4613067006) |
-| 🏢 **Fulton Bank** | Intern-Enterprise Innovation | Lancaster, PA | 11h ago | Entry-Level | Software Engineering | [Apply](https://careers-fult.icims.com/jobs/22826/job?mobile=true&needsRedirect=false) |
-| 🏢 **DNV** | Data Science Intern | Houston, TX | 11h ago | Entry-Level | Software Engineering | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5519) |
-| 🏢 **AGILE Space Industries** | Software Engineer Intern-Summer 2026 | Dolores, CO | 11h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/agilespaceindustries/jobs/4628882005) |
+| 🏢 **Fulton Bank** | Intern-Enterprise Innovation | Lancaster, PA | 12h ago | Entry-Level | Software Engineering | [Apply](https://careers-fult.icims.com/jobs/22826/job?mobile=true&needsRedirect=false) |
+| 🏢 **DNV** | Data Science Intern | Houston, TX | 12h ago | Entry-Level | Software Engineering | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5519) |
+| 🏢 **AGILE Space Industries** | Software Engineer Intern-Summer 2026 | Dolores, CO | 12h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/agilespaceindustries/jobs/4628882005) |
 | 🏢 **National Information Solutions Cooperative (NISC)** | Intern – GIS Implementations | Lake St Louis, MO | 11h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/nisc/jobs/7239064) |
-| 🏢 **Lightmatter** | Chip Firmware & Data Analytics – Intern - Boston | Boston, MA | 11h ago | Entry-Level | Data Science & Analytics | [Apply](https://boards.greenhouse.io/lightmatter/jobs/4982611008) |
-| 🏢 **Cerity Partners** | Investment Analyst Intern | Austin, TX | 3h ago | Entry-Level | Software Engineering | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Austin-TX/Investment-Analyst-Intern_R370) |
+| 🏢 **Lightmatter** | Chip Firmware & Data Analytics – Intern - Boston | Boston, MA | 12h ago | Entry-Level | Data Science & Analytics | [Apply](https://boards.greenhouse.io/lightmatter/jobs/4982611008) |
+| 🏢 **Cerity Partners** | Investment Analyst Intern | Austin, TX | 4h ago | Entry-Level | Software Engineering | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Austin-TX/Investment-Analyst-Intern_R370) |
 | 🏢 **Blue Shield of California** | Data Full Stack Engineer Intern | Redding, CA | 3h ago | Entry-Level | Full Stack Development | [Apply](https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20252172) |
 
 
