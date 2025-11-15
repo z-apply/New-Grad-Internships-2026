@@ -217,7 +217,7 @@
 | 🏢 **Analog Devices** | Hardware Security Design Intern | Burlington, MA | 1d ago | Entry-Level | Security Engineering | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Hardware-Security-Design-Intern_R257898) |
 | 🏢 **Astera Labs** | Supply Chain Data Analyst Intern - 2026 | San Jose, CA | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4602747005) |
 | 🏢 **Cintas** | IT Intern – Software Engineer | Mason, OH | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers.cintas.com/job/Mason-IT-Intern-Software-Engineer-OH-45040/1342736900/?ats=successfactors) |
-| 🏢 **Veolia** | Engineering/Instrumentation Intern | Caddo Valley, AR | 22h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000093729966) |
+| 🏢 **Veolia** | Engineering/Instrumentation Intern | Caddo Valley, AR | 23h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000093729966) |
 | 🏢 **Altom Transport** | Summer 2026 Software Development Intern | Houston, TX | 22h ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/altom-transport/j/04A9461007/) |
 | 🏢 **Altom Transport** | Summer 2026 Software Development Intern | Hammond, IN | 22h ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/altom-transport/j/6C00FDED5C/) |
 | 🏢 **Tessera Labs** | Software Engineering Intern, Frontend | Remote in USA, Locations | 22h ago | Entry-Level | Frontend Development | [Apply](https://jobs.ashbyhq.com/tessera-labs/c0350717-8b4d-4a1a-af00-4c62204192fd) |
@@ -245,7 +245,7 @@
 | 🏢 **Oshkosh** | Digital Manufacturing Intern | Oshkosh, WI | 15h ago | Entry-Level | Software Engineering | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Digital-Manufacturing-Intern_R42576) |
 | 🏢 **Zoox** | Core Software Systems Intern | San Mateo, CA | 15h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/zoox/db76eba1-18cb-41f1-ab7e-f4ace0085a68/apply) |
 | 🏢 **Zoox** | System Safety Intern | San Mateo, CA | 15h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/zoox/06bbad7f-7e48-4cf6-bf87-2c9a9899fd04/apply) |
-| 🏢 **DTCC** | Data Solutions Intern | Tampa, FL | 14h ago | Entry-Level | Software Engineering | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/212170) |
+| 🏢 **DTCC** | Data Solutions Intern | Tampa, FL | 15h ago | Entry-Level | Software Engineering | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/212170) |
 | 🏢 **Axalta** | AI Engineering Intern | Concordville, PA | 15h ago | Entry-Level | Machine Learning & AI | [Apply](https://axalta.wd1.myworkdayjobs.com/axalta/job/US-PA-Glen-Mills/AI-Engineering-Intern_2025-16274) |
 | 🏢 **Moog ** | Intern – Product Engineering | Niagara Falls, NY | 15h ago | Entry-Level | Software Engineering | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Niagara-Falls-NY/Intern--Product-Engineering_R-25-13488-1) |
 | 🏢 **BorgWarner** | Web Applications/Communications | Auburn Hills, MI | 15h ago | Entry-Level | Software Engineering | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Web-Applications-Communications-Intern--Year-Round-_R2025-4462) |
