@@ -123,7 +123,7 @@
 | 🔵 **Meta** | Research Scientist Intern - Computational Photography - PhD | Redmond, WA | 1d ago | Entry-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/1213006054221601) |
 | 🔵 **Meta** | Research Scientist – Physical Modeling Intern - PhD | Menlo Park, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/1371077641147770) |
 | 🔵 **Meta** | Research Scientist Intern - Eye Tracking and Health - PhD | Redmond, WA | 15h ago | Entry-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/1512180363340183) |
-| 🔵 **Meta** | Research Scientist - Edge Compute Architectures | Burlingame, CA | 3h ago | Senior | Software Engineering | [Apply](https://www.metacareers.com/jobs/1387290326251445) |
+| 🔵 **Meta** | Research Scientist - Edge Compute Architectures | Burlingame, CA | 4h ago | Senior | Software Engineering | [Apply](https://www.metacareers.com/jobs/1387290326251445) |
 | 🎬 **ByteDance** | 3D Graphics Engineer | San Jose, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.bytedance.com/en/position/7564516412456306997/detail) |
 
 ### 🏢 **Top Tech** (5 positions)
@@ -255,7 +255,7 @@
 | 🏢 **American Express** | Campus Graduate Intern Program - Data Engineer | Plantation, FL | 14h ago | Entry-Level | Data Science & Analytics | [Apply](https://aexp.eightfold.ai/careers/job/38835287) |
 | 🏢 **American Express** | Campus Undergraduate Intern Program - Technology | Phoenix, AZ | 14h ago | Entry-Level | Software Engineering | [Apply](https://aexp.eightfold.ai/careers/job/38835246) |
 | 🏢 **American Express** | Campus Undergraduate Intern Program - Data Management - Technology | NYC, Locations | 14h ago | Entry-Level | Software Engineering | [Apply](https://aexp.eightfold.ai/careers/job/38835288) |
-| 🏢 **AGCO** | Validation Engineering Co-op | Newton, KS | 3h ago | Entry-Level | Software Engineering | [Apply](https://careers.agcocorp.com/job/Hesston-Validation-Engineering-Co-op-(May-December)-KS-67062/1339186500/?ats=successfactors) |
+| 🏢 **AGCO** | Validation Engineering Co-op | Newton, KS | 4h ago | Entry-Level | Software Engineering | [Apply](https://careers.agcocorp.com/job/Hesston-Validation-Engineering-Co-op-(May-December)-KS-67062/1339186500/?ats=successfactors) |
 | 🏢 **TREK** | AI & Automation Intern | Madison, WI | 4h ago | Entry-Level | Machine Learning & AI | [Apply](https://trekbikes.wd1.myworkdayjobs.com/en-US/TREK/job/Waterloo-Wisconsin/AI---Automation-Intern_Trek113474) |
 | 🏢 **TREK** | AI Automation Initiatives Intern | Madison, WI | 4h ago | Entry-Level | Machine Learning & AI | [Apply](https://trekbikes.wd1.myworkdayjobs.com/en-US/TREK/job/Waterloo-Wisconsin/AI-Automation-Initiatives-Intern_Trek113478) |
 
