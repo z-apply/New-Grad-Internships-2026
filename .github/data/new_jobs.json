@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "job_title": "Research Scientist - Edge Compute Architectures",
+    "title": "Research Scientist - Edge Compute Architectures",
+    "employer_name": "Meta",
+    "company_name": "Meta",
+    "job_city": "Burlingame",
+    "job_state": "CA",
+    "job_country": "US",
+    "job_description": "Meta’s mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Meta are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities — we're just getting started. Meta Reality Labs Research is looking for emerging scientists and researchers with interest in full software-hardware co-design of always-on algorithms being deployed on form-factor constrained AR/VR devices. The main objective of this research is to explore methods to push the boundaries of what is possible on our constrained platforms. Our internships are sixteen (16) to twenty-four (24) weeks long and we have various start dates throughout the year.",
+    "job_apply_link": "https://www.metacareers.com/jobs/1387290326251445",
+    "url": "https://www.metacareers.com/jobs/1387290326251445",
+    "job_posted_at_datetime_utc": "2025-11-15T18:54:49.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Winter 2025",
+      "Spring 2025",
+      "Summer 2025",
+      "Fall 2025"
+    ],
+    "locations": [
+      "Burlingame, CA"
+    ],
+    "category": "AI/ML/Data",
+    "is_visible": true,
+    "id": "www-metacareers-com-jobs-1387290326251445",
+    "description_platform": "generic",
+    "description_success": true
+  }
+]
