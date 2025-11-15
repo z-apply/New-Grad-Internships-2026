@@ -210,8 +210,8 @@
 | 🏢 **Marshall Wace** | 2026 Summer Semis & Tech Hardware Intern | NYC, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mwnaintern/jobs/8206708002) |
 | 🏢 **Analog Devices** | Hardware Security Design Intern | Burlington, MA | 1d ago | Entry-Level | Security Engineering | [Apply](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Hardware-Security-Design-Intern_R257898) |
 | 🏢 **Astera Labs** | Supply Chain Data Analyst Intern - 2026 | San Jose, CA | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4602747005) |
-| 🏢 **Cintas** | IT Intern – Software Engineer | Mason, OH | 20h ago | Entry-Level | Software Engineering | [Apply](https://careers.cintas.com/job/Mason-IT-Intern-Software-Engineer-OH-45040/1342736900/?ats=successfactors) |
-| 🏢 **Veolia** | Engineering/Instrumentation Intern | Caddo Valley, AR | 14h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000093729966) |
+| 🏢 **Cintas** | IT Intern – Software Engineer | Mason, OH | 21h ago | Entry-Level | Software Engineering | [Apply](https://careers.cintas.com/job/Mason-IT-Intern-Software-Engineer-OH-45040/1342736900/?ats=successfactors) |
+| 🏢 **Veolia** | Engineering/Instrumentation Intern | Caddo Valley, AR | 15h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000093729966) |
 | 🏢 **Altom Transport** | Summer 2026 Software Development Intern | Houston, TX | 14h ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/altom-transport/j/04A9461007/) |
 | 🏢 **Altom Transport** | Summer 2026 Software Development Intern | Hammond, IN | 14h ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/altom-transport/j/6C00FDED5C/) |
 | 🏢 **Tessera Labs** | Software Engineering Intern, Frontend | Remote in USA, Locations | 14h ago | Entry-Level | Frontend Development | [Apply](https://jobs.ashbyhq.com/tessera-labs/c0350717-8b4d-4a1a-af00-4c62204192fd) |
