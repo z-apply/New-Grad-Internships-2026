@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-87-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-68-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-3-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 40 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 21 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 40
+- **🔥 Current Positions**: 21
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 3 premium opportunities
 - **📅 Last Updated**: November 16, 2025
@@ -121,7 +121,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🔵 **Meta** | Research Scientist Intern - Eye Tracking and Health - PhD | Redmond, WA | 1d ago | Entry-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/1512180363340183) |
 | 🔵 **Meta** | Research Scientist - Edge Compute Architectures | Burlingame, CA | 1d ago | Senior | Software Engineering | [Apply](https://www.metacareers.com/jobs/1387290326251445) |
-| 🔵 **Meta** | Research Scientist Intern - Multimodal and Multitasking Machine Learning - PhD | Burlingame, CA | 23h ago | Entry-Level | Machine Learning & AI | [Apply](https://www.metacareers.com/jobs/717390397985721) |
+| 🔵 **Meta** | Research Scientist Intern - Multimodal and Multitasking Machine Learning - PhD | Burlingame, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://www.metacareers.com/jobs/717390397985721) |
 
 ### 🏢 **Top Tech** (1 positions)
 
@@ -129,30 +129,11 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🔴 **Oracle** | Software Engineer - Construction & Engineering | Nashville, TN | 1d ago | Entry-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/315590) |
 
-### 🏢 **Other Companies** (36 positions)
+### 🏢 **Other Companies** (17 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Bloomberg Industry Group** | Intern Engineering | Arlington, VA | 1d ago | Entry-Level | Software Engineering | [Apply](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Internship-Engineering_138786) |
-| 🏢 **Bloomberg Industry Group** | Internship-Engineering | Arlington, VA | 1d ago | Entry-Level | Software Engineering | [Apply](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Internship--Engineering_138787) |
-| 🏢 **Tessera Labs** | Backend Software Engineer Intern | Remote in USA, Locations | 1d ago | Entry-Level | Backend Development | [Apply](https://jobs.ashbyhq.com/tessera-labs/e55f2ac2-b178-48e3-816c-1dcb2cc11a83/application) |
-| 🏢 **Tessera Labs** | Software Engineer Intern - Frontend | San Jose, CA | 1d ago | Entry-Level | Frontend Development | [Apply](https://jobs.ashbyhq.com/tessera-labs/c0350717-8b4d-4a1a-af00-4c62204192fd/application) |
-| 🏢 **Cencora** | Ecommerce Analytics Intern | Conshohocken, PA | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Ecommerce-Analytics-Intern_R2514879) |
-| 🏢 **Illumio** | Application Developer Intern | Sunnyvale, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/illumio/b2e55528-205c-47e8-8695-915dacbc6503/application) |
-| 🏢 **CME Group** | Generative AI & Automation Intern - IT Compliance & Risk - Summer 2026 | Chicago, IL | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Generative-AI---Automation-Intern--IT-Compliance---Risk----Summer-2026_33333-1) |
-| 🏢 **HCSC** | Associate Enterprise Data Analyst Intern | Chicago, IL | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Associate-Enterprise-Data-Analyst-Intern_R0053194) |
-| 🏢 **HCSC** | Associate Enterprise Data Analyst Intern | Richardson, TX | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Associate-Enterprise-Data-Analyst-Intern_R0053193) |
-| 🏢 **Axalta** | Market Research & Data Analyst Intern | Troy, MI | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://axalta.wd1.myworkdayjobs.com/axalta/job/Greater-Detroit/Market-Research---Data-Analyst-Intern_2025-16022) |
-| 🏢 **Axalta** | AI Engineering Intern | Concordville, PA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://axalta.wd1.myworkdayjobs.com/axalta/job/US-PA-Glen-Mills/AI-Engineering-Intern_2025-16274) |
-| 🏢 **Octaura** | Intern Software Engineer | NYC, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/octaura/jobs/4662934007) |
-| 🏢 **Oshkosh** | Digital Manufacturing Intern | Oshkosh, WI | 1d ago | Entry-Level | Software Engineering | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Digital-Manufacturing-Intern_R42576) |
-| 🏢 **Zoox** | Core Software Systems Intern | San Mateo, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/zoox/db76eba1-18cb-41f1-ab7e-f4ace0085a68/apply) |
-| 🏢 **Zoox** | System Safety Intern | San Mateo, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/zoox/06bbad7f-7e48-4cf6-bf87-2c9a9899fd04/apply) |
 | 🏢 **DTCC** | Data Solutions Intern | Tampa, FL | 1d ago | Entry-Level | Software Engineering | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/212170) |
-| 🏢 **Moog ** | Intern – Product Engineering | Niagara Falls, NY | 1d ago | Entry-Level | Software Engineering | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Niagara-Falls-NY/Intern--Product-Engineering_R-25-13488-1) |
-| 🏢 **BorgWarner** | Web Applications/Communications | Auburn Hills, MI | 1d ago | Entry-Level | Software Engineering | [Apply](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Web-Applications-Communications-Intern--Year-Round-_R2025-4462) |
-| 🏢 **Micron Technology** | Intern Machine Learning Engineer | Richardson, TX | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR85472) |
-| 🏢 **Nokia** | Bell Labs AI Research Solutions Intern | Berkeley Heights, NJ | 2d ago | Entry-Level | Machine Learning & AI | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26761) |
 | 🏢 **Philips** | Intern – Ultrasound Imaging Acoustics - Bothell - WA | Bothell, WA | 1d ago | Entry-Level | Software Engineering | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell/Intern---Ultrasound-Imaging-Acoustics---Bothell--WA---Summer-2026_567433) |
 | 🏢 **Cerity Partners** | Investment Analyst Intern | Austin, TX | 1d ago | Entry-Level | Software Engineering | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Austin-TX/Investment-Analyst-Intern_R370) |
 | 🏢 **Blue Shield of California** | Data Full Stack Engineer Intern | Redding, CA | 1d ago | Entry-Level | Full Stack Development | [Apply](https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20252172) |
@@ -199,39 +180,33 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 39 | 98% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 20 | 95% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
-| 🔴 Manager         | 1 | 3% | 2+ years of experience |
+| 🔴 Manager         | 1 | 5% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
-- **NYC, Locations**: 5 positions
-- **Arlington, VA**: 2 positions
-- **Chicago, IL**: 2 positions
-- **Richardson, TX**: 2 positions
-- **San Mateo, CA**: 2 positions
+- **NYC, Locations**: 4 positions
 - **Madison, WI**: 2 positions
 - **Burlingame, CA**: 2 positions
-- **Remote in USA, Locations**: 1 positions
+- **Tampa, FL**: 1 positions
+- **Nashville, TN**: 1 positions
+- **Bothell, WA**: 1 positions
+- **Austin, TX**: 1 positions
+- **Redding, CA**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (24 positions)
-🏢 Bloomberg Industry Group • 🏢 Illumio • 🏢 Octaura
+#### 💻 Software Engineering (15 positions)
+🏢 DTCC • 🔴 Oracle • 🏢 Philips
 
-#### 🧠 Machine Learning & AI (7 positions)
-🏢 CME Group • 🏢 Axalta • 🏢 Micron Technology
+#### 🧠 Machine Learning & AI (3 positions)
+🏢 TREK • 🔵 Meta
 
-#### 📊 Data Science & Analytics (6 positions)
-🏢 Cencora • 🏢 HCSC • 🏢 Axalta
-
-#### ⚙️ Backend Development (1 positions)
-🏢 Tessera Labs
-
-#### 🎨 Frontend Development (1 positions)
-🏢 Tessera Labs
+#### 📊 Data Science & Analytics (2 positions)
+🏢 American Express
 
 #### 🌐 Full Stack Development (1 positions)
 🏢 Blue Shield of California
@@ -240,7 +215,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 40 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 21 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -329,7 +304,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 40 current opportunities from 261 companies**
+**🎯 21 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
