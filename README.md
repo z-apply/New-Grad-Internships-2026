@@ -120,7 +120,7 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🔵 **Meta** | Research Scientist Intern - Eye Tracking and Health - PhD | Redmond, WA | 1d ago | Entry-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/1512180363340183) |
-| 🔵 **Meta** | Research Scientist - Edge Compute Architectures | Burlingame, CA | 19h ago | Senior | Software Engineering | [Apply](https://www.metacareers.com/jobs/1387290326251445) |
+| 🔵 **Meta** | Research Scientist - Edge Compute Architectures | Burlingame, CA | 20h ago | Senior | Software Engineering | [Apply](https://www.metacareers.com/jobs/1387290326251445) |
 | 🔵 **Meta** | Research Scientist Intern - Multimodal and Multitasking Machine Learning - PhD | Burlingame, CA | 15h ago | Entry-Level | Machine Learning & AI | [Apply](https://www.metacareers.com/jobs/717390397985721) |
 
 ### 🏢 **Top Tech** (4 positions)
@@ -198,7 +198,7 @@
 | 🏢 **American Express** | Campus Undergraduate Intern Program - Technology | Phoenix, AZ | 1d ago | Entry-Level | Software Engineering | [Apply](https://aexp.eightfold.ai/careers/job/38835246) |
 | 🏢 **American Express** | Campus Undergraduate Intern Program - Data Management - Technology | NYC, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://aexp.eightfold.ai/careers/job/38835288) |
 | 🏢 **Gusto** | Product Management Intern - Summer 2026 - Master’s/MBA | SF, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7374311) |
-| 🏢 **AGCO** | Validation Engineering Co-op | Newton, KS | 19h ago | Entry-Level | Software Engineering | [Apply](https://careers.agcocorp.com/job/Hesston-Validation-Engineering-Co-op-(May-December)-KS-67062/1339186500/?ats=successfactors) |
+| 🏢 **AGCO** | Validation Engineering Co-op | Newton, KS | 20h ago | Entry-Level | Software Engineering | [Apply](https://careers.agcocorp.com/job/Hesston-Validation-Engineering-Co-op-(May-December)-KS-67062/1339186500/?ats=successfactors) |
 | 🏢 **TREK** | AI & Automation Intern | Madison, WI | 20h ago | Entry-Level | Machine Learning & AI | [Apply](https://trekbikes.wd1.myworkdayjobs.com/en-US/TREK/job/Waterloo-Wisconsin/AI---Automation-Intern_Trek113474) |
 | 🏢 **TREK** | AI Automation Initiatives Intern | Madison, WI | 20h ago | Entry-Level | Machine Learning & AI | [Apply](https://trekbikes.wd1.myworkdayjobs.com/en-US/TREK/job/Waterloo-Wisconsin/AI-Automation-Initiatives-Intern_Trek113478) |
 | 🏢 **The Aerospace Corporation** | Graduate Intern - Enterprise Resiliency Modeling and Simulation | Chantilly, VA | 15h ago | Entry-Level | Software Engineering | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Enterprise-Resiliency-Modeling-and-Simulation-Graduate-Intern_R013978) |
