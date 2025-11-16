@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "job_title": "Software Engineering Co-Op",
+    "title": "Software Engineering Co-Op",
+    "employer_name": "Viavi Solutions",
+    "company_name": "Viavi Solutions",
+    "job_city": "Germantown",
+    "job_state": "MD",
+    "job_country": "US",
+    "job_description": "Summary: VIAVI (NASDAQ: VIAV) has a 90+ year history of technical innovations that have evolved to keep pace and address our customer’s most pressing business issues. We make equipment, software, and systems that help to plan, deploy, certify, monitor, and optimize all kinds of networks - like those for mobile phones, service providers, large businesses and data centers. VIAVI is also a leader in high performance thin film optical coatings and engineered diffusers, providing light management solutions to anti-counterfeiting, consumer electronics, automotive, defense and instrumentation markets.We are the people behind the products that help keep the world connected – at home, school, work, at play, and everywhere in between. VIAVI employees are fierce about supporting customer success and we welcome people who bring their best every day to the company - to question, to collaborate and to push for solutions that will delight our customers.Duties & Responsibilities: Duties & Responsibilities: Capture a great opportunity to build your real-world SW Development skills as a Software Engineering Co-op at Viavi Solutions. Be part of a professional team to design, implement, test and debug SW that validates critical networks worldwide. Your code may span a range of hardware-interfacing up through the on-board graphical user interface. You may participate in the design and architecture reviews to meet customer needs and future product enhancements.Desired QualificationsCompletion of at least two years of undergraduate education toward a BSEE/BSCE/BSCSDemonstrated experience designing, developing, and testing C/C++ (or equivalent OO) softwareDemonstrated knowledge of software engineering design conceptsExperience in Linux development environment is preferredIf you have what it takes to push boundaries and seize opportunities, apply to join our team today.VIAVI Solutions is an equal opportunity and affirmative action employer – minorities/females/veterans/persons with disabilities.Pre-Requisites / Skills / Experience Requirements: Job Posting Pay Range:18to34Exceptional qualifications, experience and location may impact salary. VIAVI offers a competitive benefits package that includes paid time off, health, life and disability insurance, 401(k), and a bonus program.",
+    "job_apply_link": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_250003872-1",
+    "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_250003872-1",
+    "job_posted_at_datetime_utc": "2025-11-16T23:19:05.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Winter 2025"
+    ],
+    "locations": [
+      "Germantown, MD"
+    ],
+    "category": "Software",
+    "is_visible": true,
+    "id": "viavisolutions-wd1-myworkdayjobs-com-careers-job-germantown-md-usa-software-engineering-co-op_250003872-1",
+    "description_platform": "workday",
+    "description_success": true
+  }
+]
