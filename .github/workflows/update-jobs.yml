@@ -56,6 +56,8 @@ jobs:
         DISCORD_SUPPLY_CHANNEL_ID:    "1429366422613786674"
         DISCORD_PM_CHANNEL_ID:         "1429366331836207126"
         DISCORD_HR_CHANNEL_ID:         "1429366524459745401"
+        # Encrypted routing logs password
+        LOG_ENCRYPT_PASSWORD:          ${{ secrets.LOG_ENCRYPT_PASSWORD }}
 
     - name: Check for changes
       id: verify-changed-files
