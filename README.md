@@ -193,7 +193,7 @@
 | 🏢 **AGCO** | Validation Engineering Co-op | Newton, KS | 22h ago | Entry-Level | Software Engineering | [Apply](https://careers.agcocorp.com/job/Hesston-Validation-Engineering-Co-op-(May-December)-KS-67062/1339186500/?ats=successfactors) |
 | 🏢 **TREK** | AI & Automation Intern | Madison, WI | 22h ago | Entry-Level | Machine Learning & AI | [Apply](https://trekbikes.wd1.myworkdayjobs.com/en-US/TREK/job/Waterloo-Wisconsin/AI---Automation-Intern_Trek113474) |
 | 🏢 **TREK** | AI Automation Initiatives Intern | Madison, WI | 22h ago | Entry-Level | Machine Learning & AI | [Apply](https://trekbikes.wd1.myworkdayjobs.com/en-US/TREK/job/Waterloo-Wisconsin/AI-Automation-Initiatives-Intern_Trek113478) |
-| 🏢 **The Aerospace Corporation** | Graduate Intern - Enterprise Resiliency Modeling and Simulation | Chantilly, VA | 17h ago | Entry-Level | Software Engineering | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Enterprise-Resiliency-Modeling-and-Simulation-Graduate-Intern_R013978) |
+| 🏢 **The Aerospace Corporation** | Graduate Intern - Enterprise Resiliency Modeling and Simulation | Chantilly, VA | 18h ago | Entry-Level | Software Engineering | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Enterprise-Resiliency-Modeling-and-Simulation-Graduate-Intern_R013978) |
 
 
 
