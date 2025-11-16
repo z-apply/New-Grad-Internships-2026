@@ -124,7 +124,7 @@
 | 🔵 **Meta** | Research Scientist – Physical Modeling Intern - PhD | Menlo Park, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/1371077641147770) |
 | 🔵 **Meta** | Research Scientist Intern - Eye Tracking and Health - PhD | Redmond, WA | 22h ago | Entry-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/1512180363340183) |
 | 🔵 **Meta** | Research Scientist - Edge Compute Architectures | Burlingame, CA | 10h ago | Senior | Software Engineering | [Apply](https://www.metacareers.com/jobs/1387290326251445) |
-| 🔵 **Meta** | Research Scientist Intern - Multimodal and Multitasking Machine Learning - PhD | Burlingame, CA | 5h ago | Entry-Level | Machine Learning & AI | [Apply](https://www.metacareers.com/jobs/717390397985721) |
+| 🔵 **Meta** | Research Scientist Intern - Multimodal and Multitasking Machine Learning - PhD | Burlingame, CA | 6h ago | Entry-Level | Machine Learning & AI | [Apply](https://www.metacareers.com/jobs/717390397985721) |
 
 ### 🏢 **Top Tech** (4 positions)
 
