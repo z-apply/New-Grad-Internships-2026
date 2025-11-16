@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-111-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-107-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-3-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 64 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 60 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 64
+- **🔥 Current Positions**: 60
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 3 premium opportunities
 - **📅 Last Updated**: November 16, 2025
@@ -120,7 +120,7 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🔵 **Meta** | Research Scientist Intern - Eye Tracking and Health - PhD | Redmond, WA | 1d ago | Entry-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/1512180363340183) |
-| 🔵 **Meta** | Research Scientist - Edge Compute Architectures | Burlingame, CA | 21h ago | Senior | Software Engineering | [Apply](https://www.metacareers.com/jobs/1387290326251445) |
+| 🔵 **Meta** | Research Scientist - Edge Compute Architectures | Burlingame, CA | 22h ago | Senior | Software Engineering | [Apply](https://www.metacareers.com/jobs/1387290326251445) |
 | 🔵 **Meta** | Research Scientist Intern - Multimodal and Multitasking Machine Learning - PhD | Burlingame, CA | 17h ago | Entry-Level | Machine Learning & AI | [Apply](https://www.metacareers.com/jobs/717390397985721) |
 
 ### 🏢 **Top Tech** (4 positions)
@@ -138,14 +138,10 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Shield AI** | Integration & Test Engineering Co-Op - Dallas - TX | Dallas, TX | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/shieldai/510e75c8-20c6-4eb3-8aba-6e2ffaedd9d3/apply) |
 
-### 🏢 **Other Companies** (56 positions)
+### 🏢 **Other Companies** (52 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **REGENT** | Embedded Software Engineering Intern | North Kingstown, RI | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/regent/ef64cbcf-5184-43a1-a048-842f89f6cd0b) |
-| 🏢 **DocuSign** | Software Engineer Intern | Seattle, WA | 1d ago | Entry-Level | Software Engineering | [Apply](https://uscareers-docusign.icims.com/jobs/28179/software-engineer-intern/job) |
-| 🏢 **Anima** | Intern/New Grad Software Engineer | Remote in USA, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/anima/86ddfd6e-6aee-4ded-b9d0-440608763fb0) |
-| 🏢 **ALSO** | Software Engineering Intern, Firmware - Summer 2026 | Palo Alto, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/ridealso/3451e5c5-342c-4b7c-855c-df8e3ac94065) |
 | 🏢 **Hologic** | Co-Op – Software Engineering - Surgical | Marlborough, MA | 1d ago | Entry-Level | Software Engineering | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10344) |
 | 🏢 **National Renewable Energy Laboratory** | Graduate – Intern - 3 - Month | Golden, CO | 1d ago | Entry-Level | Software Engineering | [Apply](https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Graduate--3-12-month--Intern---Artificial-Intelligence-for-Power-System-Operations_R13981-1) |
 | 🏢 **National Renewable Energy Laboratory** | Post-Undergraduate/Graduate – Data Engineering Intern - Year-Round | Golden, CO | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Post-Undergraduate-Graduate--Year-Round--Data-Engineering-Intern_R13993-1) |
@@ -194,7 +190,7 @@
 | 🏢 **American Express** | Campus Undergraduate Intern Program - Technology | Phoenix, AZ | 1d ago | Entry-Level | Software Engineering | [Apply](https://aexp.eightfold.ai/careers/job/38835246) |
 | 🏢 **American Express** | Campus Undergraduate Intern Program - Data Management - Technology | NYC, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://aexp.eightfold.ai/careers/job/38835288) |
 | 🏢 **Gusto** | Product Management Intern - Summer 2026 - Master’s/MBA | SF, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7374311) |
-| 🏢 **AGCO** | Validation Engineering Co-op | Newton, KS | 21h ago | Entry-Level | Software Engineering | [Apply](https://careers.agcocorp.com/job/Hesston-Validation-Engineering-Co-op-(May-December)-KS-67062/1339186500/?ats=successfactors) |
+| 🏢 **AGCO** | Validation Engineering Co-op | Newton, KS | 22h ago | Entry-Level | Software Engineering | [Apply](https://careers.agcocorp.com/job/Hesston-Validation-Engineering-Co-op-(May-December)-KS-67062/1339186500/?ats=successfactors) |
 | 🏢 **TREK** | AI & Automation Intern | Madison, WI | 22h ago | Entry-Level | Machine Learning & AI | [Apply](https://trekbikes.wd1.myworkdayjobs.com/en-US/TREK/job/Waterloo-Wisconsin/AI---Automation-Intern_Trek113474) |
 | 🏢 **TREK** | AI Automation Initiatives Intern | Madison, WI | 22h ago | Entry-Level | Machine Learning & AI | [Apply](https://trekbikes.wd1.myworkdayjobs.com/en-US/TREK/job/Waterloo-Wisconsin/AI-Automation-Initiatives-Intern_Trek113478) |
 | 🏢 **The Aerospace Corporation** | Graduate Intern - Enterprise Resiliency Modeling and Simulation | Chantilly, VA | 17h ago | Entry-Level | Software Engineering | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Enterprise-Resiliency-Modeling-and-Simulation-Graduate-Intern_R013978) |
@@ -228,7 +224,7 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 63 | 98% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 59 | 98% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
 | 🔴 Manager         | 1 | 2% | 2+ years of experience |
 
@@ -238,17 +234,17 @@
 - **NYC, Locations**: 5 positions
 - **San Jose, CA**: 5 positions
 - **Golden, CO**: 3 positions
-- **Remote in USA, Locations**: 2 positions
 - **Dallas, TX**: 2 positions
 - **Bellevue, WA**: 2 positions
 - **Arlington, VA**: 2 positions
 - **Chicago, IL**: 2 positions
+- **Richardson, TX**: 2 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (38 positions)
-🏢 REGENT • 🏢 DocuSign • 🏢 Anima
+#### 💻 Software Engineering (34 positions)
+🏢 Hologic • 🏢 National Renewable Energy Laboratory • 🏢 Toyota Research Institute
 
 #### 📊 Data Science & Analytics (10 positions)
 🏢 Cencora • 🏢 HCSC • 🏢 Axalta
@@ -272,7 +268,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 64 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 60 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -361,7 +357,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 64 current opportunities from 261 companies**
+**🎯 60 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
