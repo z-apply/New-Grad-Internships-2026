@@ -1,0 +1,17 @@
+{
+  "url": "https://www.metacareers.com/jobs/717390397985721",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Meta’s mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Meta are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities — we're just getting started. Meta Reality Labs Research is looking for upcoming scientists and researchers with great interest in algorithm/hardware co-design and acceleration of AI machine learning applications, efficient sensing, and ML algorithms for AR/VR applications. Our team specializes in developing state-of-the-art hardware optimized algorithms for machine perception. With the vision of always-on AI assistance, our team is focusing on cutting edge systems that can facilitate and bring AI assistants powered by LLMs to wearables systems. This internship will focus on aspects of foundational AI technologies around multitasking, multimodal understanding (audio, visual, spatial, etc), privacy, or others that support AI assistant functionalities. Our internships are twelve (12) to twenty-four (24) weeks long and we have various start dates throughout the year.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://www.metacareers.com/jobs/717390397985721",
+      "fetchedAt": "2025-11-16T00:06:25.349Z"
+    }
+  },
+  "cachedAt": 1763251585350
+}
