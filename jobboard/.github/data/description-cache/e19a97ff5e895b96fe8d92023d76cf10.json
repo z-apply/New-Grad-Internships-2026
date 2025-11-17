@@ -1,0 +1,17 @@
+{
+  "url": "https://jobs-fmglobal.icims.com/jobs/16039/job?mobile=true&needsRedirect=false",
+  "data": {
+    "success": true,
+    "platform": "icims",
+    "description": "<h2>Overview </h2> <p>Established nearly two centuries ago, FM is a leading mutual insurance company whose capital, scientific research capability and engineering expertise are solely dedicated to property risk management and the resilience of its policyholder-owners. These owners, who share the belief that the majority of property loss is preventable, represent many of the world’s largest organizations, including one of every four Fortune 500 companies. They work with FM to better understand the hazards that can impact their business continuity to make cost-effective risk management decisions, combining property loss prevention with insurance protection.</p> <h2>Responsibilities</h2> <p>Join our Innovation Team and help shape the future of technology. We’re seeking a highly motivated graduate student with a strong foundation in computer science and a passion for solving complex problems through cutting-edge software solutions. You’ll work on real-world projects involving AI, cloud-native architectures, and scalable systems that have a global impact.</p> <p>&nbsp;</p> <p><strong>Key Responsibilities</strong></p> <ul> <li>Collaborate with cross-functional teams to design, develop, and deploy innovative software solutions.</li> <li>Build and optimize microservices using Spring Boot, FastAPI, and Docker/Kubernetes.</li> <li>Contribute to AI/ML initiatives including emotion recognition, misinformation detection, and precision agriculture.</li> <li>Develop APIs and backend systems for scalable, secure, and high-performance applications.</li> <li>Participate in CI/CD pipeline improvements and automated testing using Jenkins, Git, and Cucumber.</li> <li>Analyze and visualize data using Python, Pandas, and PySpark to support product and business decisions.</li> <li>Engage in research and prototyping of emerging technologies including geospatial visualization, IoT, and cloud-native ML.</li> </ul> <h2>Qualifications</h2> <ul> <li>Currently enrolled in a master’s program in Computer Science or related field.</li> <li>Bachelor’s degree in engineering (Electronics/Instrumentation or related field).</li> <li>Proficiency in programming languages: Python, Java, C++, JavaScript.</li> <li>Experience with frameworks and tools: React.js, Django, Spring Boot, FastAPI, Docker, Kubernetes.</li> <li>Familiarity with cloud platforms (AWS, GCP), databases (PostgreSQL, MongoDB, Redis), and data science libraries (NumPy, Pandas, Scikit-learn, PyTorch).</li> <li>Excellent problem-solving, communication, and collaboration skills.</li> </ul> <p><strong>Preferred Experience</strong></p> <ul> <li>Prior internships or full-time roles in software engineering in a relatable field</li> <li>Experience with CI/CD, microservices architecture, and API development.</li> <li>Hands-on projects involving machine learning, computer vision, or data visualization.</li> <li>Contributions to open-source or personal tech projects.</li> </ul> <p>FM is an Equal Opportunity Employer and is committed to attracting, developing, and retaining a diverse workforce.</p>",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://jobs-fmglobal.icims.com/jobs/16039/job?mobile=true&needsRedirect=false",
+      "fetchedAt": "2025-11-17T23:45:22.194Z"
+    }
+  },
+  "cachedAt": 1763423122194
+}
