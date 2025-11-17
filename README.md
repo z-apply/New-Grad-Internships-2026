@@ -9,9 +9,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-76-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-75-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-1-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 29 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 28 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,9 +69,9 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 29
+- **🔥 Current Positions**: 28
 - **🏢 Companies**: 261 companies
-- **⭐ FAANG+ Jobs**: 1 premium opportunities
+- **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 17, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
@@ -114,12 +114,6 @@
 ---
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
-
-### 🏢 **FAANG+** (1 positions)
-
-| Company | Role | Location | Posted | Level | Category | Apply |
-|---------|------|----------|--------|-------|----------|-------|
-| 🔵 **Meta** | Research Scientist Intern - Multimodal and Multitasking Machine Learning - PhD | Burlingame, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://www.metacareers.com/jobs/717390397985721) |
 
 ### 🛡️ **Defense & Aerospace** (1 positions)
 
@@ -188,7 +182,7 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 29 | 100% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 28 | 100% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
@@ -200,9 +194,9 @@
 - **Houston, TX**: 2 positions
 - **Princeton, NJ**: 2 positions
 - **Austin, TX**: 2 positions
-- **Burlingame, CA**: 1 positions
 - **Germantown, MD**: 1 positions
 - **Markham, IL**: 1 positions
+- **Anaheim, CA**: 1 positions
 
 ---
 
@@ -210,8 +204,8 @@
 #### 💻 Software Engineering (23 positions)
 🏢 Viavi Solutions • 🏢 Altom Transport
 
-#### 🧠 Machine Learning & AI (4 positions)
-🔵 Meta • 🏢 St. Jude Children's Research Hospital • 🏢 Persona AI
+#### 🧠 Machine Learning & AI (3 positions)
+🏢 St. Jude Children's Research Hospital • 🏢 Persona AI • 🏢 KLA
 
 #### 📊 Data Science & Analytics (2 positions)
 🏢 Invesco • 🏢 Santander
@@ -220,7 +214,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 29 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 28 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -309,7 +303,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 29 current opportunities from 261 companies**
+**🎯 28 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
