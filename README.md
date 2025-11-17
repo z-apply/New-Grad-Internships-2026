@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-68-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-65-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-3-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 21 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 18 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,10 +69,10 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 21
+- **🔥 Current Positions**: 18
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 3 premium opportunities
-- **📅 Last Updated**: November 16, 2025
+- **📅 Last Updated**: November 17, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
 
@@ -123,18 +123,10 @@
 | 🔵 **Meta** | Research Scientist - Edge Compute Architectures | Burlingame, CA | 1d ago | Senior | Software Engineering | [Apply](https://www.metacareers.com/jobs/1387290326251445) |
 | 🔵 **Meta** | Research Scientist Intern - Multimodal and Multitasking Machine Learning - PhD | Burlingame, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://www.metacareers.com/jobs/717390397985721) |
 
-### 🏢 **Top Tech** (1 positions)
+### 🏢 **Other Companies** (15 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🔴 **Oracle** | Software Engineer - Construction & Engineering | Nashville, TN | 1d ago | Entry-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/315590) |
-
-### 🏢 **Other Companies** (17 positions)
-
-| Company | Role | Location | Posted | Level | Category | Apply |
-|---------|------|----------|--------|-------|----------|-------|
-| 🏢 **DTCC** | Data Solutions Intern | Tampa, FL | 1d ago | Entry-Level | Software Engineering | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/212170) |
-| 🏢 **Philips** | Intern – Ultrasound Imaging Acoustics - Bothell - WA | Bothell, WA | 1d ago | Entry-Level | Software Engineering | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell/Intern---Ultrasound-Imaging-Acoustics---Bothell--WA---Summer-2026_567433) |
 | 🏢 **Cerity Partners** | Investment Analyst Intern | Austin, TX | 1d ago | Entry-Level | Software Engineering | [Apply](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Austin-TX/Investment-Analyst-Intern_R370) |
 | 🏢 **Blue Shield of California** | Data Full Stack Engineer Intern | Redding, CA | 1d ago | Entry-Level | Full Stack Development | [Apply](https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20252172) |
 | 🏢 **Nestle** | Nestlé Professional Product Development Intern | Solon, OH | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobdetails.nestle.com/job/Solon-Nestl%C3%A9-Professional-Product-Development-Intern-OH-44139/1253953901/?ats=successfactors) |
@@ -149,7 +141,7 @@
 | 🏢 **TREK** | AI & Automation Intern | Madison, WI | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://trekbikes.wd1.myworkdayjobs.com/en-US/TREK/job/Waterloo-Wisconsin/AI---Automation-Intern_Trek113474) |
 | 🏢 **TREK** | AI Automation Initiatives Intern | Madison, WI | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://trekbikes.wd1.myworkdayjobs.com/en-US/TREK/job/Waterloo-Wisconsin/AI-Automation-Initiatives-Intern_Trek113478) |
 | 🏢 **The Aerospace Corporation** | Graduate Intern - Enterprise Resiliency Modeling and Simulation | Chantilly, VA | 1d ago | Entry-Level | Software Engineering | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Enterprise-Resiliency-Modeling-and-Simulation-Graduate-Intern_R013978) |
-| 🏢 **Viavi Solutions** | Software Engineering Co-Op | Germantown, MD | 0h ago | Entry-Level | Software Engineering | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_250003872-1) |
+| 🏢 **Viavi Solutions** | Software Engineering Co-Op | Germantown, MD | 1h ago | Entry-Level | Software Engineering | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_250003872-1) |
 
 
 
@@ -180,9 +172,9 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 20 | 95% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 17 | 94% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
-| 🔴 Manager         | 1 | 5% | 2+ years of experience |
+| 🔴 Manager         | 1 | 6% | 2+ years of experience |
 
 ---
 
@@ -190,17 +182,17 @@
 - **NYC, Locations**: 4 positions
 - **Madison, WI**: 2 positions
 - **Burlingame, CA**: 2 positions
-- **Tampa, FL**: 1 positions
-- **Nashville, TN**: 1 positions
-- **Bothell, WA**: 1 positions
 - **Austin, TX**: 1 positions
 - **Redding, CA**: 1 positions
+- **Solon, OH**: 1 positions
+- **Plantation, FL**: 1 positions
+- **Phoenix, AZ**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (15 positions)
-🏢 DTCC • 🔴 Oracle • 🏢 Philips
+#### 💻 Software Engineering (12 positions)
+🏢 Cerity Partners • 🏢 Nestle • 🏢 American Express
 
 #### 🧠 Machine Learning & AI (3 positions)
 🏢 TREK • 🔵 Meta
@@ -215,7 +207,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 21 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 18 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -304,7 +296,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 21 current opportunities from 261 companies**
+**🎯 18 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
@@ -312,6 +304,6 @@ No archived jobs available.
 
 ---
 
-**Last Updated**: November 16, 2025 • **Next Update**: Daily at 9 AM UTC
+**Last Updated**: November 17, 2025 • **Next Update**: Daily at 9 AM UTC
 
 </div>
