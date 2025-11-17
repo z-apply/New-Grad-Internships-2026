@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-65-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-60-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-2-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 18 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 13 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 18
+- **🔥 Current Positions**: 13
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 2 premium opportunities
 - **📅 Last Updated**: November 17, 2025
@@ -122,15 +122,10 @@
 | 🔵 **Meta** | Research Scientist - Edge Compute Architectures | Burlingame, CA | 1d ago | Senior | Software Engineering | [Apply](https://www.metacareers.com/jobs/1387290326251445) |
 | 🔵 **Meta** | Research Scientist Intern - Multimodal and Multitasking Machine Learning - PhD | Burlingame, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://www.metacareers.com/jobs/717390397985721) |
 
-### 🏢 **Other Companies** (16 positions)
+### 🏢 **Other Companies** (11 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **American Express** | Campus Graduate Intern Program - Data Management - Technology | NYC, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://aexp.eightfold.ai/careers/job/38835291) |
-| 🏢 **American Express** | Campus Undergraduate Intern Program - Management Information Systems & Analytics - Technology | NYC, Locations | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://aexp.eightfold.ai/careers/job/38835249) |
-| 🏢 **American Express** | Campus Graduate Intern Program - Data Engineer | Plantation, FL | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://aexp.eightfold.ai/careers/job/38835287) |
-| 🏢 **American Express** | Campus Undergraduate Intern Program - Technology | Phoenix, AZ | 1d ago | Entry-Level | Software Engineering | [Apply](https://aexp.eightfold.ai/careers/job/38835246) |
-| 🏢 **American Express** | Campus Undergraduate Intern Program - Data Management - Technology | NYC, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://aexp.eightfold.ai/careers/job/38835288) |
 | 🏢 **AGCO** | Validation Engineering Co-op | Newton, KS | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers.agcocorp.com/job/Hesston-Validation-Engineering-Co-op-(May-December)-KS-67062/1339186500/?ats=successfactors) |
 | 🏢 **TREK** | AI & Automation Intern | Madison, WI | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://trekbikes.wd1.myworkdayjobs.com/en-US/TREK/job/Waterloo-Wisconsin/AI---Automation-Intern_Trek113474) |
 | 🏢 **TREK** | AI Automation Initiatives Intern | Madison, WI | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://trekbikes.wd1.myworkdayjobs.com/en-US/TREK/job/Waterloo-Wisconsin/AI-Automation-Initiatives-Intern_Trek113478) |
@@ -138,10 +133,10 @@
 | 🏢 **Viavi Solutions** | Software Engineering Co-Op | Germantown, MD | 9h ago | Entry-Level | Software Engineering | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_250003872-1) |
 | 🏢 **Altom Transport** | Software Development Intern | Markham, IL | 1h ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/altom-transport/j/6C00FDED5C/apply) |
 | 🏢 **Altom Transport** | Software Development Intern | Houston, TX | 1h ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/altom-transport/j/04A9461007/apply) |
-| 🏢 **St. Jude Children's Research Hospital** | Intern - Web Software Engineer | Memphis, TN | 0h ago | Entry-Level | Software Engineering | [Apply](https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---Web-Software-Engineer--Memphis--TN-_R0010294) |
-| 🏢 **St. Jude Children's Research Hospital** | Intern - AI Software Engineer | Memphis, TN | 0h ago | Entry-Level | Machine Learning & AI | [Apply](https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---AI-Software-Engineer--Memphis--TN-_R0010291) |
-| 🏢 **St. Jude Children's Research Hospital** | Summer Intern - IT | Memphis, TN | 0h ago | Entry-Level | Software Engineering | [Apply](https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---IT_R0010295) |
-| 🏢 **St. Jude Children's Research Hospital** | Summer 2026 Intern - Donor Data Management - Memphis, TN | Memphis, TN | 0h ago | Entry-Level | Software Engineering | [Apply](https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---Donor-Data-Management--Memphis--TN-_R0010323-1) |
+| 🏢 **St. Jude Children's Research Hospital** | Intern - Web Software Engineer | Memphis, TN | 1h ago | Entry-Level | Software Engineering | [Apply](https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---Web-Software-Engineer--Memphis--TN-_R0010294) |
+| 🏢 **St. Jude Children's Research Hospital** | Intern - AI Software Engineer | Memphis, TN | 1h ago | Entry-Level | Machine Learning & AI | [Apply](https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---AI-Software-Engineer--Memphis--TN-_R0010291) |
+| 🏢 **St. Jude Children's Research Hospital** | Summer Intern - IT | Memphis, TN | 1h ago | Entry-Level | Software Engineering | [Apply](https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---IT_R0010295) |
+| 🏢 **St. Jude Children's Research Hospital** | Summer 2026 Intern - Donor Data Management - Memphis, TN | Memphis, TN | 1h ago | Entry-Level | Software Engineering | [Apply](https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---Donor-Data-Management--Memphis--TN-_R0010323-1) |
 
 
 
@@ -172,39 +167,36 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 17 | 94% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 12 | 92% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
-| 🔴 Manager         | 1 | 6% | 2+ years of experience |
+| 🔴 Manager         | 1 | 8% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
 - **Memphis, TN**: 4 positions
-- **NYC, Locations**: 3 positions
 - **Madison, WI**: 2 positions
 - **Burlingame, CA**: 2 positions
-- **Plantation, FL**: 1 positions
-- **Phoenix, AZ**: 1 positions
 - **Newton, KS**: 1 positions
 - **Chantilly, VA**: 1 positions
+- **Germantown, MD**: 1 positions
+- **Markham, IL**: 1 positions
+- **Houston, TX**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (12 positions)
-🏢 American Express
+#### 💻 Software Engineering (9 positions)
+🏢 AGCO • 🔵 Meta • 🏢 The Aerospace Corporation
 
 #### 🧠 Machine Learning & AI (4 positions)
 🏢 TREK • 🔵 Meta
-
-#### 📊 Data Science & Analytics (2 positions)
-🏢 American Express
 
 ---
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 18 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 13 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -293,7 +285,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 18 current opportunities from 261 companies**
+**🎯 13 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
