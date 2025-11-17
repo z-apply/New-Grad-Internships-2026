@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-75-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-72-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-2-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 28 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 25 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 28
+- **🔥 Current Positions**: 25
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 2 premium opportunities
 - **📅 Last Updated**: November 17, 2025
@@ -128,35 +128,32 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **CACI** | Embedded Software Development Intern - Summer 2026 | Livingston, NJ | 2h ago | Entry-Level | Software Engineering | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/US-NJ-Florham-Park/Embedded-Software-Development-Intern---Summer-2026_319286) |
 
-### 🏢 **Other Companies** (25 positions)
+### 🏢 **Other Companies** (22 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **AGCO** | Validation Engineering Co-op | Newton, KS | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers.agcocorp.com/job/Hesston-Validation-Engineering-Co-op-(May-December)-KS-67062/1339186500/?ats=successfactors) |
-| 🏢 **TREK** | AI & Automation Intern | Madison, WI | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://trekbikes.wd1.myworkdayjobs.com/en-US/TREK/job/Waterloo-Wisconsin/AI---Automation-Intern_Trek113474) |
-| 🏢 **TREK** | AI Automation Initiatives Intern | Madison, WI | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://trekbikes.wd1.myworkdayjobs.com/en-US/TREK/job/Waterloo-Wisconsin/AI-Automation-Initiatives-Intern_Trek113478) |
 | 🏢 **The Aerospace Corporation** | Graduate Intern - Enterprise Resiliency Modeling and Simulation | Chantilly, VA | 1d ago | Entry-Level | Software Engineering | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Enterprise-Resiliency-Modeling-and-Simulation-Graduate-Intern_R013978) |
 | 🏢 **Viavi Solutions** | Software Engineering Co-Op | Germantown, MD | 19h ago | Entry-Level | Software Engineering | [Apply](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-Op_250003872-1) |
 | 🏢 **Altom Transport** | Software Development Intern | Markham, IL | 11h ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/altom-transport/j/6C00FDED5C/apply) |
 | 🏢 **Altom Transport** | Software Development Intern | Houston, TX | 11h ago | Entry-Level | Software Engineering | [Apply](https://apply.workable.com/altom-transport/j/04A9461007/apply) |
-| 🏢 **St. Jude Children's Research Hospital** | Intern - Web Software Engineer | Memphis, TN | 10h ago | Entry-Level | Software Engineering | [Apply](https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---Web-Software-Engineer--Memphis--TN-_R0010294) |
-| 🏢 **St. Jude Children's Research Hospital** | Intern - AI Software Engineer | Memphis, TN | 10h ago | Entry-Level | Machine Learning & AI | [Apply](https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---AI-Software-Engineer--Memphis--TN-_R0010291) |
-| 🏢 **St. Jude Children's Research Hospital** | Summer Intern - IT | Memphis, TN | 10h ago | Entry-Level | Software Engineering | [Apply](https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---IT_R0010295) |
-| 🏢 **St. Jude Children's Research Hospital** | Summer 2026 Intern - Donor Data Management - Memphis, TN | Memphis, TN | 10h ago | Entry-Level | Software Engineering | [Apply](https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---Donor-Data-Management--Memphis--TN-_R0010323-1) |
+| 🏢 **St. Jude Children's Research Hospital** | Intern - Web Software Engineer | Memphis, TN | 11h ago | Entry-Level | Software Engineering | [Apply](https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---Web-Software-Engineer--Memphis--TN-_R0010294) |
+| 🏢 **St. Jude Children's Research Hospital** | Intern - AI Software Engineer | Memphis, TN | 11h ago | Entry-Level | Machine Learning & AI | [Apply](https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---AI-Software-Engineer--Memphis--TN-_R0010291) |
+| 🏢 **St. Jude Children's Research Hospital** | Summer Intern - IT | Memphis, TN | 11h ago | Entry-Level | Software Engineering | [Apply](https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---IT_R0010295) |
+| 🏢 **St. Jude Children's Research Hospital** | Summer 2026 Intern - Donor Data Management - Memphis, TN | Memphis, TN | 11h ago | Entry-Level | Software Engineering | [Apply](https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---Donor-Data-Management--Memphis--TN-_R0010323-1) |
 | 🏢 **RTX** | 2026 Intern – Software Engineering Intern - CA | Anaheim, CA | 7h ago | Entry-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA550-Fullerton-CA-Bldg-675-1801-West-Hughes-Drive-Building-675-Fullerton-CA-92834-USA/XMLNAME-2026-Intern---Software-Engineering-Intern---Onsite--CA-_01806456) |
 | 🏢 **RTX** | 2026 Intern – Software Engineer Intern - CA | San Diego, CA | 7h ago | Entry-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA806-8650-Balboa-Avenue-San-Diego-8650-Balboa-Avenue-San-Antonio-Building-San-Diego-CA-92123-USA/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite--CA-_01806360) |
 | 🟢 **Waymo** | 2026 Summer Intern, MS/PhD, Software Engineer, Planner Reasoning ML/DL | Mountain View, CA | 3h ago | Entry-Level | Software Engineering | [Apply](https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-software-engineer-planner-reasoning-ml-dl-mountain-view-california-united-states?gh_jid=7393132) |
 | 🏢 **Persona AI** | Machine Learning Internship, Manipulation | Houston, TX | 3h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/personainc.ai/6773dc35-24a5-458d-bc56-17a73ae00fb0) |
 | 🏢 **Smith+Nephew** | Intern Robotics Software | Pittsburgh, PA | 3h ago | Entry-Level | Software Engineering | [Apply](https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Pittsburgh-PA/Intern-Robotics-Software--Pittsburgh--PA-_R86302) |
 | 🏢 **SRI** | Drexel University Co-op: Embedded Software Engineering | Princeton, NJ | 3h ago | Entry-Level | Software Engineering | [Apply](https://careers-sri.icims.com/jobs/6262/drexel-university-co-op%3a-embedded-software-engineering/job) |
-| 🏢 **SRI** | Drexel University Co-op: Software Engineering | Princeton, NJ | 2h ago | Entry-Level | Software Engineering | [Apply](https://careers-sri.icims.com/jobs/6268/drexel-university-co-op%3a-software-engineering/job) |
+| 🏢 **SRI** | Drexel University Co-op: Software Engineering | Princeton, NJ | 3h ago | Entry-Level | Software Engineering | [Apply](https://careers-sri.icims.com/jobs/6268/drexel-university-co-op%3a-software-engineering/job) |
 | 🏢 **Berkshire Hathaway Energy** | Intern Renewable Generation Engineer | Des Moines, IA | 2h ago | Entry-Level | Software Engineering | [Apply](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003911) |
-| 🏢 **Nasdaq** | Intelligent Automation Intern | NYC, Locations | 1h ago | Entry-Level | Software Engineering | [Apply](https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/USA---New-York-City---New-York/Intelligent-Automation-Intern---2026-Summer-Internship_R0024288) |
-| 🏢 **Invesco** | Quantitative Research Intern | NYC, Locations | 1h ago | Entry-Level | Software Engineering | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Quantitative-Research-Intern_R-12329-1) |
-| 🏢 **Invesco** | Portfolio Engineering and Analytics Intern - Portfolio Team | Boston, MA | 1h ago | Entry-Level | Data Science & Analytics | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Boston-Massachusetts/Portfolio-Engineering-and-Analytics-Intern_R-12332-1) |
-| 🏢 **PTC** | ALM Product Management Intern | Boston, MA | 1h ago | Entry-Level | Software Engineering | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/ALM-Product-Management-Intern_JR111126) |
-| 🏢 **Santander** | Data & Analytics Intern | Boston, MA | 1h ago | Entry-Level | Data Science & Analytics | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/Data---Analytics-Intern_Req1508508) |
-| 🏢 **Santander** | Deposit Product Intern | Boston, MA | 1h ago | Entry-Level | Software Engineering | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/Deposit-Product-Intern_Req1508544) |
+| 🏢 **Nasdaq** | Intelligent Automation Intern | NYC, Locations | 2h ago | Entry-Level | Software Engineering | [Apply](https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/USA---New-York-City---New-York/Intelligent-Automation-Intern---2026-Summer-Internship_R0024288) |
+| 🏢 **Invesco** | Portfolio Engineering and Analytics Intern - Portfolio Team | Boston, MA | 2h ago | Entry-Level | Data Science & Analytics | [Apply](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Boston-Massachusetts/Portfolio-Engineering-and-Analytics-Intern_R-12332-1) |
+| 🏢 **PTC** | ALM Product Management Intern | Boston, MA | 2h ago | Entry-Level | Software Engineering | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/ALM-Product-Management-Intern_JR111126) |
+| 🏢 **Santander** | Data & Analytics Intern | Boston, MA | 2h ago | Entry-Level | Data Science & Analytics | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/Data---Analytics-Intern_Req1508508) |
+| 🏢 **Santander** | Deposit Product Intern | Boston, MA | 2h ago | Entry-Level | Software Engineering | [Apply](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/Deposit-Product-Intern_Req1508544) |
 
 
 
@@ -187,7 +184,7 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 27 | 96% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 24 | 96% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
 | 🔴 Manager         | 1 | 4% | 2+ years of experience |
 
@@ -196,21 +193,21 @@
 ## 🌍 Top Locations
 - **Memphis, TN**: 4 positions
 - **Boston, MA**: 4 positions
-- **Madison, WI**: 2 positions
 - **Burlingame, CA**: 2 positions
 - **Houston, TX**: 2 positions
 - **Princeton, NJ**: 2 positions
-- **NYC, Locations**: 2 positions
 - **Newton, KS**: 1 positions
+- **Chantilly, VA**: 1 positions
+- **Germantown, MD**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (21 positions)
+#### 💻 Software Engineering (20 positions)
 🏢 AGCO • 🔵 Meta • 🏢 The Aerospace Corporation
 
-#### 🧠 Machine Learning & AI (5 positions)
-🏢 TREK • 🔵 Meta
+#### 🧠 Machine Learning & AI (3 positions)
+🔵 Meta • 🏢 St. Jude Children's Research Hospital • 🏢 Persona AI
 
 #### 📊 Data Science & Analytics (2 positions)
 🏢 Invesco • 🏢 Santander
@@ -219,7 +216,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 28 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 25 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -308,7 +305,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 28 current opportunities from 261 companies**
+**🎯 25 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
