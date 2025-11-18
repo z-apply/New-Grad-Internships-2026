@@ -1,0 +1,17 @@
+{
+  "url": "https://www.mlb.com/careers/opportunities?gh_jid=7389396",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "HomeMLB OpportunitiesMLB Network OpportunitiesClub OpportunitiesLocationsInclusionarrow-expand-15589arrow-contract-15590This link leads to the machine readable files that are made available in response to the federal Transparency in Coverage Rule and includes negotiated service rates and out-of-network allowed amounts between health plans and healthcare providers. The machine-readable files are formatted to allow researchers, regulators and application developers to more easily access and analyze data.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://www.mlb.com/careers/opportunities?gh_jid=7389396",
+      "fetchedAt": "2025-11-18T01:13:11.663Z"
+    }
+  },
+  "cachedAt": 1763428391664
+}

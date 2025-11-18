@@ -1,0 +1,22 @@
+{
+  "url": "https://job-boards.greenhouse.io/figureai/jobs/4618805006",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Figure is an AI robotics company developing autonomous general-purpose humanoid robots. The goal of the company is to ship humanoid robots with human level intelligence. Its robots are engineered to perform a variety of tasks in the home and commercial markets. Figure is headquartered in San Jose, CA. We are looking for an Firmware Engineer Intern for Summer 2026 to support the implementation and test of key aspects of our Humanoid software. Responsibilities: Deliver high quality C/C++ code in a real-time embedded environment. Bring up, debug, and validate firmware on the Humanoid hardware platform, such as actuators, sensors, power distribution system. Optimize performance of firmware to meet product requirements. Develop test scripts in Python to support test automation or robot calibration. Work cross functionally with System Integration, Software Test, and Embedded Software teams to successfully and autonomously ship new features. Contribute to the integration of projects into the Continuous Integration and Continuous Deployment (CI/CD) infrastructure. Support hardware/software integration in the lab. Requirements: Graduate student, senior student, or recent graduate in Computer Engineering or related field. Minimum 10 weeks internship, 1 to 2 terms preferred. Ability to showcase extra-academic activities working on hardware/software projects. Fluent with C/C++ and Python. Good knowledge of computer architecture and real-time operating systems Familiar with communication buses and protocols like CAN, SPI, I2C, UART etc. Comfortable using lab instruments (Oscilloscopes, logic analyzers…) and debugging tools. Bonus Qualifications: Experience with low level communication protocol driver development, Ethernet and CAN preferred. Demonstrated taking features or products from cradle to grave with high levels of ownership. Experience with motor control systems. Experience with the Bazel build system. Experience with Docker containers.",
+    "requirements": [
+      "Good knowledge of computer architecture and real-time operating systems",
+      "Experience with low level communication protocol driver development, Ethernet and CAN preferred.",
+      "Experience with motor control systems.",
+      "Experience with the Bazel build system.",
+      "Experience with Docker containers."
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/figureai/jobs/4618805006",
+      "fetchedAt": "2025-11-18T01:13:59.808Z"
+    }
+  },
+  "cachedAt": 1763428439808
+}

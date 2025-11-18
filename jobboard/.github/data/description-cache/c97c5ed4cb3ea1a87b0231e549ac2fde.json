@@ -1,0 +1,17 @@
+{
+  "url": "https://www.metacareers.com/jobs/820968180849489",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Reality Labs (RL) teams are looking for exceptional interns to help us create next generation interaction technologies for virtual and augmented reality. Join a full-stack team working on computer vision, machine learning, and on-device deployment. We are looking for applications interested in (but not limited to) the following areas: -Geometry-aware vision models -Domain generalization -Domain adaptation -On-device model optimization -Vision foundation models Our internships are twelve (12) to twenty-four (24) weeks long and we have various start dates throughout the year.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://www.metacareers.com/jobs/820968180849489",
+      "fetchedAt": "2025-11-18T01:13:58.522Z"
+    }
+  },
+  "cachedAt": 1763428438523
+}
