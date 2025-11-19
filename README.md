@@ -152,7 +152,7 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Blue Origin** | Engineering - Undergraduate | Washington, Locations | 14h ago | Entry-Level | Software Engineering | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Summer-2026--Engineering-Intern---Undergraduate_R56855) |
-| 🏢 **Radiance Technologies** | Reverse Engineer Intern | Wright-Patterson AFB, OH | 21h ago | Entry-Level | Software Engineering | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC-FME/Reverse-Engineer-Intern_HR101889) |
+| 🏢 **Radiance Technologies** | Reverse Engineer Intern | Wright-Patterson AFB, OH | 22h ago | Entry-Level | Software Engineering | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC-FME/Reverse-Engineer-Intern_HR101889) |
 | 🏢 **CACI** | Software Development Intern - Summer 2026 | Springfield, VA | 22h ago | Entry-Level | Software Engineering | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Springfield/Software-Development-Intern---Summer-2026_319718) |
 
 ### 🏢 **Other Companies** (85 positions)
@@ -220,9 +220,9 @@
 | 🏢 **ALSAC** | Summer 2026 Intern - Data Science | Memphis, TN | 1d ago | Entry-Level | Software Engineering | [Apply](https://alsacstjude.wd1.myworkdayjobs.com/en-US/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---Data-Science--Memphis--TN-or-Remote-_R0010296) |
 | 🏢 **Red Bull** | 2026 Internship - Spring - Data Science | Livingston, NJ | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/RedBull/744000094222026) |
 | 🏢 **Zebra Technologies** | 2026 Summer Internship - US - AI Software Engineer | Lake Grove, NY | 21h ago | Entry-Level | Machine Learning & AI | [Apply](https://zebra.eightfold.ai/careers/job/343636218622) |
-| 🏢 **CAE** | R&D Engineering | Tampa, FL | 21h ago | Entry-Level | Software Engineering | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Tampa-FL-USA/R-D-Engineering-Co-op_118718) |
-| 🏢 **Robert Bosch Venture Capital** | Service Engineer Intern | Vernon Hills, IL | 21h ago | Entry-Level | Backend Development | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000094249865) |
-| 🏢 **Robert Bosch Venture Capital** | Quality Intern/Co-op | Florence, KY | 21h ago | Entry-Level | Backend Development | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000094240345) |
+| 🏢 **CAE** | R&D Engineering | Tampa, FL | 22h ago | Entry-Level | Software Engineering | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Tampa-FL-USA/R-D-Engineering-Co-op_118718) |
+| 🏢 **Robert Bosch Venture Capital** | Service Engineer Intern | Vernon Hills, IL | 22h ago | Entry-Level | Backend Development | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000094249865) |
+| 🏢 **Robert Bosch Venture Capital** | Quality Intern/Co-op | Florence, KY | 22h ago | Entry-Level | Backend Development | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000094240345) |
 | 🏢 **PTC** | Application Engineer Intern | San Mateo, CA | 22h ago | Entry-Level | Software Engineering | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Foster-City-CA-USA/Application-Engineer-Intern_JR111176) |
 | 🏢 **Hunt Oil Company** | ServiceNow Developer | Dallas, TX | 22h ago | Entry-Level | Software Engineering | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/840) |
 | 🏢 **Hunt Oil Company** | AI Engineer | Dallas, TX | 22h ago | Entry-Level | Machine Learning & AI | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/839) |
