@@ -9,9 +9,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-139-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-132-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-6-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-1-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 92 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 85 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,9 +69,9 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 92
+- **🔥 Current Positions**: 85
 - **🏢 Companies**: 261 companies
-- **⭐ FAANG+ Jobs**: 6 premium opportunities
+- **⭐ FAANG+ Jobs**: 1 premium opportunities
 - **📅 Last Updated**: November 19, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 
@@ -115,15 +115,10 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **FAANG+** (6 positions)
+### 🏢 **FAANG+** (1 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 📦 **Amazon** | Applied Science Intern - PhD Student Science Recruiting | Seattle, WA | 1d ago | Entry-Level | Frontend Development | [Apply](https://amazon.jobs/en/jobs/3127852/2026-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting) |
-| 📦 **Amazon** | 2026 Applied Science Internship - Computer Vision - United States | Boston, MA | 1d ago | Entry-Level | Software Engineering | [Apply](https://amazon.jobs/en/jobs/3127856/2026-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting) |
-| 📦 **Amazon** | 2026 Applied Science Internship - Information & Knowledge Management - Machine Learning | Palo Alto, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/3127862/2026-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) |
-| 📦 **Amazon** | Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning | Palo Alto, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en/jobs/3127851/2026-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) |
-| 📦 **Amazon** | Applied Science Intern - PhD Student Science Recruiting | Seattle, WA | 1d ago | Entry-Level | Frontend Development | [Apply](https://amazon.jobs/en/jobs/3127849/2026-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting) |
 | 🍎 **Apple** | Engineering Program Management Internships | United States, Locations | 22h ago | Entry-Level | Software Engineering | [Apply](https://jobs.apple.com/en-us/details/200606141) |
 
 ### 🏢 **Top Tech** (2 positions)
@@ -154,16 +149,13 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Blue Origin** | Engineering - Undergraduate | Washington, Locations | 16h ago | Entry-Level | Software Engineering | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Summer-2026--Engineering-Intern---Undergraduate_R56855) |
-| 🏢 **Radiance Technologies** | Reverse Engineer Intern | Wright-Patterson AFB, OH | 23h ago | Entry-Level | Software Engineering | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC-FME/Reverse-Engineer-Intern_HR101889) |
+| 🏢 **Radiance Technologies** | Reverse Engineer Intern | Wright-Patterson AFB, OH | 1d ago | Entry-Level | Software Engineering | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC-FME/Reverse-Engineer-Intern_HR101889) |
 | 🏢 **CACI** | Software Development Intern - Summer 2026 | Springfield, VA | 1d ago | Entry-Level | Software Engineering | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Springfield/Software-Development-Intern---Summer-2026_319718) |
 
-### 🏢 **Other Companies** (75 positions)
+### 🏢 **Other Companies** (73 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Major League Baseball** | Intern - Technology | NYC, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://www.mlb.com/careers/opportunities?gh_jid=7389240) |
-| 🏢 **Major League Baseball** | Organizational Intern - Baseball Operations Analyst | Philadelphia, PA | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7529085003) |
-| 🏢 **Nasdaq** | Software Developer/Engineer Intern | Atlanta, GA | 1d ago | Entry-Level | Software Engineering | [Apply](https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/USA---Atlanta---Georgia/Software-Developer-Engineer-Intern---2026-Summer-Internship_R0024173) |
 | 🏢 **The Federal Reserve System** | Intern | Dallas, TX | 1d ago | Entry-Level | Software Engineering | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/Summer-Internship---ITS_R-0000030675) |
 | 🏢 **The Federal Reserve System** | Intern-ITS S&R Enablement | Dallas, TX | 1d ago | Entry-Level | Software Engineering | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/ITS-S-R-Enablement-Intern_R-0000030668) |
 | 🏢 **The Federal Reserve System** | Intern-ITS Software Engineering | Dallas, TX | 1d ago | Entry-Level | Software Engineering | [Apply](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/Summer-Internship-ITS-Software-Engineering_R-0000030638) |
@@ -199,6 +191,7 @@
 | 🏢 **Amperity** | Product Manager Intern - Summer 2026 | Seattle, WA | 1d ago | Entry-Level | Product Management | [Apply](https://amperity.com/careers/7404496?gh_jid=7404496&gh_src=053ff1fc1us&gh_jid=7404496) |
 | 🏢 **Applied Materials** | Computer Science Intern | Austin, TX | 1d ago | Entry-Level | Software Engineering | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2026-Computer-Science-Intern--Bachelors---Austin--TX_R2517648) |
 | 🏢 **Keysight Technologies** | Product Support Intern | Santa Rosa, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.keysight.com/jobs/50841?lang=en-us&icims=1) |
+| 🏢 **Major League Baseball** | Organizational Intern - Baseball Operations Analyst | Philadelphia, PA | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7529085003) |
 | 🏢 **DriveTime** | Software Engineering Intern | Tempe, AZ | 1d ago | Entry-Level | Software Engineering | [Apply](https://drivetime.wd1.myworkdayjobs.com/drivetime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineering-Intern_R13925) |
 | 🏢 **PulteGroup** | Software/AI Engineer Intern | Atlanta, GA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://pultegroup.wd1.myworkdayjobs.com/pgi/job/Atlanta-GA/Software-AI-Engineer-Intern_JR8300) |
 | 🏢 **Skyworks** | IC Development (Software) | Austin, TX | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers.skyworksinc.com/job/Austin-IC-Development-(Software)-Summer-Intern-(May-'26-Aug-'26)-TX-73301/75987-en_US/) |
@@ -206,12 +199,12 @@
 | 🏢 **ALSAC** | Summer 2026 Intern - Data Science | Memphis, TN | 1d ago | Entry-Level | Software Engineering | [Apply](https://alsacstjude.wd1.myworkdayjobs.com/en-US/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---Data-Science--Memphis--TN-or-Remote-_R0010296) |
 | 🏢 **Red Bull** | 2026 Internship - Spring - Data Science | Livingston, NJ | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/RedBull/744000094222026) |
 | 🏢 **Zebra Technologies** | 2026 Summer Internship - US - AI Software Engineer | Lake Grove, NY | 23h ago | Entry-Level | Machine Learning & AI | [Apply](https://zebra.eightfold.ai/careers/job/343636218622) |
-| 🏢 **CAE** | R&D Engineering | Tampa, FL | 23h ago | Entry-Level | Software Engineering | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Tampa-FL-USA/R-D-Engineering-Co-op_118718) |
-| 🏢 **Robert Bosch Venture Capital** | Service Engineer Intern | Vernon Hills, IL | 23h ago | Entry-Level | Backend Development | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000094249865) |
-| 🏢 **Robert Bosch Venture Capital** | Quality Intern/Co-op | Florence, KY | 23h ago | Entry-Level | Backend Development | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000094240345) |
-| 🏢 **PTC** | Application Engineer Intern | San Mateo, CA | 23h ago | Entry-Level | Software Engineering | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Foster-City-CA-USA/Application-Engineer-Intern_JR111176) |
-| 🏢 **Hunt Oil Company** | ServiceNow Developer | Dallas, TX | 23h ago | Entry-Level | Software Engineering | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/840) |
-| 🏢 **Hunt Oil Company** | AI Engineer | Dallas, TX | 23h ago | Entry-Level | Machine Learning & AI | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/839) |
+| 🏢 **CAE** | R&D Engineering | Tampa, FL | 1d ago | Entry-Level | Software Engineering | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Tampa-FL-USA/R-D-Engineering-Co-op_118718) |
+| 🏢 **Robert Bosch Venture Capital** | Service Engineer Intern | Vernon Hills, IL | 1d ago | Entry-Level | Backend Development | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000094249865) |
+| 🏢 **Robert Bosch Venture Capital** | Quality Intern/Co-op | Florence, KY | 1d ago | Entry-Level | Backend Development | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000094240345) |
+| 🏢 **PTC** | Application Engineer Intern | San Mateo, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Foster-City-CA-USA/Application-Engineer-Intern_JR111176) |
+| 🏢 **Hunt Oil Company** | ServiceNow Developer | Dallas, TX | 1d ago | Entry-Level | Software Engineering | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/840) |
+| 🏢 **Hunt Oil Company** | AI Engineer | Dallas, TX | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/839) |
 | 🏢 **RTX** | Intern – Software Engineer Platform Intern | Richardson, TX | 1d ago | Entry-Level | DevOps & Infrastructure | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/TX232-Richardson-1727-CityLine-1727-East-CityLine-Drive-Building-C27-Richardson-TX-75082-USA/XMLNAME-2026-Intern---Software-Engineer-Platform-Intern---Onsite--TX-_01807480) |
 | 🏢 **RTX** | Intern – Software Development Intern | Tewksbury, MA | 1d ago | Entry-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Intern---Software-Development-Intern---Onsite--MA-_01805993) |
 | 🏢 **RTX** | 2026 Intern – Software Engineer Platform Intern - TX | Richardson, TX | 1d ago | Entry-Level | DevOps & Infrastructure | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/TX232-Richardson-1727-CityLine-1727-East-CityLine-Drive-Building-C27-Richardson-TX-75082-USA/XMLNAME-2026-Intern---Software-Engineer-Platform-Intern---Onsite--TX-_01807481) |
@@ -266,7 +259,7 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 90 | 98% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 83 | 98% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
 | 🔴 Manager         | 2 | 2% | 2+ years of experience |
 
@@ -274,28 +267,25 @@
 
 ## 🌍 Top Locations
 - **San Mateo, CA**: 6 positions
-- **Seattle, WA**: 5 positions
 - **Dallas, TX**: 5 positions
 - **Austin, TX**: 5 positions
-- **NYC, Locations**: 3 positions
-- **Atlanta, GA**: 3 positions
-- **Palo Alto, CA**: 3 positions
+- **Seattle, WA**: 3 positions
 - **LA, Locations**: 3 positions
+- **Irvine, CA**: 2 positions
+- **San Jose, CA**: 2 positions
+- **Canoga Park, LA**: 2 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (59 positions)
-🏢 Major League Baseball • 🏢 Nasdaq • 📦 Amazon
+#### 💻 Software Engineering (56 positions)
+🏢 The Federal Reserve System • 🏢 The Walt Disney Company • 🏢 Blizzard Entertainment
 
-#### 🧠 Machine Learning & AI (19 positions)
-📦 Amazon • 🏢 Zoox
+#### 🧠 Machine Learning & AI (17 positions)
+🏢 Zoox • 🏢 CoStar Group • 🏢 Mercedes-Benz
 
 #### 📊 Data Science & Analytics (5 positions)
 🏢 Trimble • 🏢 Charter Manufacturing
-
-#### 🎨 Frontend Development (3 positions)
-📦 Amazon • 🏢 Genuine Parts Company
 
 #### 📋 Product Management (2 positions)
 🏢 Amperity • 🏢 Typeface
@@ -306,11 +296,14 @@
 #### ☁️ DevOps & Infrastructure (2 positions)
 🏢 RTX
 
+#### 🎨 Frontend Development (1 positions)
+🏢 Genuine Parts Company
+
 ---
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 92 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 85 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -399,7 +392,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 92 current opportunities from 261 companies**
+**🎯 85 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
