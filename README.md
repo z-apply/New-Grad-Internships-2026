@@ -130,7 +130,7 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🎮 **NVIDIA** | Machine Learning Intern | Houston, TX | 14h ago | Entry-Level | Machine Learning & AI | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern_JR2007996) |
+| 🎮 **NVIDIA** | Machine Learning Intern | Houston, TX | 15h ago | Entry-Level | Machine Learning & AI | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern_JR2007996) |
 | 🔴 **Oracle** | Undergrad Software Engineer Intern - Fusion | San Carlos, CA | 14h ago | Entry-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/305901) |
 
 ### 🛒 **Consumer & E-Commerce** (1 positions)
@@ -225,9 +225,9 @@
 | 🏢 **ALSAC** | Summer 2026 Intern - Data Science | Memphis, TN | 23h ago | Entry-Level | Software Engineering | [Apply](https://alsacstjude.wd1.myworkdayjobs.com/en-US/careersalsacstjude/job/Memphis-TN/Summer-2026-Intern---Data-Science--Memphis--TN-or-Remote-_R0010296) |
 | 🏢 **Red Bull** | 2026 Internship - Spring - Data Science | Livingston, NJ | 23h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/RedBull/744000094222026) |
 | 🏢 **Zebra Technologies** | 2026 Summer Internship - US - AI Software Engineer | Lake Grove, NY | 15h ago | Entry-Level | Machine Learning & AI | [Apply](https://zebra.eightfold.ai/careers/job/343636218622) |
-| 🏢 **CAE** | R&D Engineering | Tampa, FL | 15h ago | Entry-Level | Software Engineering | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Tampa-FL-USA/R-D-Engineering-Co-op_118718) |
+| 🏢 **CAE** | R&D Engineering | Tampa, FL | 16h ago | Entry-Level | Software Engineering | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Tampa-FL-USA/R-D-Engineering-Co-op_118718) |
 | 🏢 **Robert Bosch Venture Capital** | Service Engineer Intern | Vernon Hills, IL | 16h ago | Entry-Level | Backend Development | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000094249865) |
-| 🏢 **Robert Bosch Venture Capital** | Quality Intern/Co-op | Florence, KY | 15h ago | Entry-Level | Backend Development | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000094240345) |
+| 🏢 **Robert Bosch Venture Capital** | Quality Intern/Co-op | Florence, KY | 16h ago | Entry-Level | Backend Development | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000094240345) |
 | 🏢 **Hunt Oil Company** | ServiceNow Developer | Dallas, TX | 16h ago | Entry-Level | Software Engineering | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/840) |
 | 🏢 **Hunt Oil Company** | AI Engineer | Dallas, TX | 16h ago | Entry-Level | Machine Learning & AI | [Apply](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/839) |
 | 🏢 **Centene** | Data Science Analyst Intern | Remote in USA, Locations | 16h ago | Entry-Level | Software Engineering | [Apply](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Data-Science-Analyst-Intern--Undergraduate---Summer-2026-_1619601) |
@@ -247,7 +247,7 @@
 | 🏢 **Genuine Parts Company** | Technology Intern-Payments - Payments | Atlanta, GA | 15h ago | Entry-Level | Frontend Development | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Technology-Intern-Payments---Summer-2026_R25_0000041714) |
 | 🏢 **DTCC** | Business Intelligence Intern | Boston, MA | 15h ago | Entry-Level | Software Engineering | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/211734) |
 | 🏢 **Lumen Technologies** | Intern – Network Engineer - Summer 2026 | Denver, CO | 15h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lumen.com/global/en/job/340265) |
-| 🏢 **Traversal** | AI Engineer – Intern | NYC, Locations | 8h ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/traversal/jobs/4974264008) |
+| 🏢 **Traversal** | AI Engineer – Intern | NYC, Locations | 9h ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/traversal/jobs/4974264008) |
 
 
 
