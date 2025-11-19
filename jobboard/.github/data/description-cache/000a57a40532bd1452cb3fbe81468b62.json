@@ -1,0 +1,17 @@
+{
+  "url": "https://jobs.apple.com/en-us/details/200606141",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Apply for a Engineering Program Management Internships job at Apple. Read about the role and find out if it’s right for you.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://jobs.apple.com/en-us/details/200606141",
+      "fetchedAt": "2025-11-19T15:39:55.380Z"
+    }
+  },
+  "cachedAt": 1763566795380
+}
