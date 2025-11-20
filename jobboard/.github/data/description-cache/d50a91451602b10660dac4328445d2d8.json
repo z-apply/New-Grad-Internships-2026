@@ -1,0 +1,22 @@
+{
+  "url": "https://job-boards.greenhouse.io/courierhealth/jobs/4932830007",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Courier Health is on a mission to solve one of the biggest and most meaningful opportunities in healthcare: reinvent how people living with chronic and rare diseases are supported. We are building the future of patient engagement for life sciences companies. Our software is leveraged by biopharma companies to support patients in their complex journey from diagnosis to initiating and remaining on therapy to achieve optimal health outcomes.***Please note - Currently we are only considering individuals who will be graduating in December of 2026 or May/June of 2027** What You'll Do 10 - 12 week summer internship based out of our new NYC office in NoMad Play a key role in building new features for our core products Improve the speed and reliability of existing applications Work with other employees to find new product opportunities Help us scale the company, the culture, and our products Who You Are A rising senior pursuing a BS computer science or related field Experience in at least one modern programming language Experience or desire to learn how to build complex applications on AWS services Inspired by our mission to improve healthcare through technology Seeks simple approaches to complex problems Proven track record of being an independent self-starter Bonus Points Experience with TypeScript, React, GraphQL, Postgres, Terraform Experience with AWS services, such as DynamoDB, API Gateway, Lambda, or AppSync Prior internship experience working on building software products, particularly in the healthcare space Why You'll Love Working Here Fast growing team that works hard, but also emphasizes the celebration of milestones Highly competitive pay New office in the NoMad area of NYC loaded up with drinks and snacks A highly collaborative and supportive team culture Team events Career coaching opportunities The compensation for this role will be $45 per hour, based upon a 40 hour work week. There is an additional housing stipend included as well. Courier Health is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.",
+    "requirements": [
+      "Experience in at least one modern programming language",
+      "Experience or desire to learn how to build complex applications on AWS services",
+      "Experience with TypeScript, React, GraphQL, Postgres, Terraform",
+      "Experience with AWS services, such as DynamoDB, API Gateway, Lambda, or AppSync",
+      "Prior internship experience working on building software products, particularly in the healthcare space"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/courierhealth/jobs/4932830007",
+      "fetchedAt": "2025-11-20T23:15:31.510Z"
+    }
+  },
+  "cachedAt": 1763680531511
+}
