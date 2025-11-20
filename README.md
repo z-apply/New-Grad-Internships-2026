@@ -201,11 +201,11 @@
 | 🏢 **Typeface** | PhD Research (Applied AI) Intern | Palo Alto, CA | 0h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/typeface/jobs/4987347007) |
 | 🏢 **Typeface** | ML Engineer Intern | Palo Alto, CA | 0h ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/typeface/jobs/4986825007) |
 | 🏢 **VSP Vision** | Internship - Software Engineer | Remote in USA, Locations | 14h ago | Entry-Level | Software Engineering | [Apply](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-8772) |
-| 🏢 **Cisco** | AI Machine Learning Engineer 2 - Intern | San Jose, CA | 13h ago | Entry-Level | Machine Learning & AI | [Apply](https://careers.cisco.com/global/en/job/2000461) |
-| 🏢 **Cisco** | AI Machine Learning Engineer 1 - Intern | San Jose, CA | 13h ago | Entry-Level | Machine Learning & AI | [Apply](https://careers.cisco.com/global/en/job/2000454) |
-| 🏢 **Cisco** | Hardware Engineer PhD – Co-op | Austin, TX | 13h ago | Entry-Level | Software Engineering | [Apply](https://careers.cisco.com/global/en/job/2000136) |
+| 🏢 **Cisco** | AI Machine Learning Engineer 2 - Intern | San Jose, CA | 14h ago | Entry-Level | Machine Learning & AI | [Apply](https://careers.cisco.com/global/en/job/2000461) |
+| 🏢 **Cisco** | AI Machine Learning Engineer 1 - Intern | San Jose, CA | 14h ago | Entry-Level | Machine Learning & AI | [Apply](https://careers.cisco.com/global/en/job/2000454) |
+| 🏢 **Cisco** | Hardware Engineer PhD – Co-op | Austin, TX | 14h ago | Entry-Level | Software Engineering | [Apply](https://careers.cisco.com/global/en/job/2000136) |
 | 🏢 **The Aerospace Corporation** | Sensor Performance and Data Processing Grad Intern | Chantilly, VA | 10h ago | Entry-Level | Software Engineering | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Sensor-Performance-and-Data-Processing-Grad-Intern_R014036) |
-| 🏢 **Veolia** | Engineering Instrumentation Intern | Caddo Valley, AR | 2h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000094485285) |
+| 🏢 **Veolia** | Engineering Instrumentation Intern | Caddo Valley, AR | 3h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000094485285) |
 | 🏢 **Truveta** | ML PhD Intern - LLMs & Generative AI | Seattle, WA | 0h ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/truveta/jobs/5712997004) |
 | 🏢 **OCC** | Year-Round Intern - Quantitative Risk Management | Chicago, IL | 0h ago | Entry-Level | Software Engineering | [Apply](https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---Quantitative-Risk-Management_REQ-4483-1) |
 | 🏢 **Microchip Technology** | Intern (Data Analyst) | Gresham, OR | 0h ago | Entry-Level | Data Science & Analytics | [Apply](https://microchiphr.wd5.myworkdayjobs.com/en-US/external/job/OR---Gresham/Intern--Data-Analyst-_R2302-25) |
