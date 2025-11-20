@@ -1,0 +1,17 @@
+{
+  "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7863",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Fluke is seeking an Embedded Software Intern to join our dynamic Firmware Engineering team in Everett, WA for summer 2026! This internship offers an opportunity for a motivated student to gain hands-on experience in developing firmware for our core fluke portfolio products, interfacing with external automation, and leveraging existing tools and automation for our cutting-edge hardware products. As an intern, you will work closely with experienced engineers, collaborate with cross-functional teams, and contribute to the improvement of our testing capabilities. Join Fluke and be part of our mission to drive innovation in the world of test and measurement through advanced testing processes and infrastructure enhancements. Responsibilities - Develop firmware for an upcoming core product line using. - Collaborate with the Firmware Engineering team to expand Fluke's existing product and platform test coverage. - Utilize Python and cloud-based systems to create scripts, tools, and auto...",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7863",
+      "fetchedAt": "2025-11-20T20:25:15.735Z"
+    }
+  },
+  "cachedAt": 1763670315735
+}
