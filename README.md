@@ -173,8 +173,8 @@
 | 🏢 **Trimble** | Data Analyst Intern | Dayton, OH | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Data-Analyst-Intern_R52694) |
 | 🏢 **Chubb** | Business Intelligence Intern | Chicago, IL | 1d ago | Entry-Level | Software Engineering | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/27844) |
 | 🏢 **General Dynamics Mission Systems** | Intern FPGA Engineer for Space and Embedded Crypto Solutions | Scottsdale, AZ | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/68590/job?mobile=true&needsRedirect=false) |
-| 🏢 **General Dynamics Mission Systems** | Intern Software Engineer | Scottsdale, AZ | 0h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/68290/intern-software-engineer/job) |
-| 🏢 **General Dynamics Mission Systems** | Software Intern Engineer - Tactical Radios | Scottsdale, AZ | 0h ago | Entry-Level | Mobile Development | [Apply](https://careers-gdms.icims.com/jobs/68798/software-intern-engineer---tactical-radios/job) |
+| 🏢 **General Dynamics Mission Systems** | Intern Software Engineer | Scottsdale, AZ | 1h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/68290/intern-software-engineer/job) |
+| 🏢 **General Dynamics Mission Systems** | Software Intern Engineer - Tactical Radios | Scottsdale, AZ | 1h ago | Entry-Level | Mobile Development | [Apply](https://careers-gdms.icims.com/jobs/68798/software-intern-engineer---tactical-radios/job) |
 | 🏢 **Amgen** | R&D Protein Footprinting Data Analysis Intern | San Bruno, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---South-San-Francisco/R-D-Protein-Footprinting-Data-Analysis-Grad-Intern_R-230569) |
 | 🏢 **Amgen** | R&D Medical Data Analytics Program – Grad Intern | LA, Locations | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Los-Angeles/R-D-Medical-Data-Analytics-Program---Grad-Intern_R-230834) |
 | 🏢 **Apex Fintech Solutions** | Software Engineer Intern - Business Automation | Austin, TX | 1d ago | Entry-Level | Software Engineering | [Apply](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/SWE-Intern--Business-Automation-_JR103898) |
@@ -213,7 +213,7 @@
 | 🏢 **Motorola** | Android Platform Software Engineering Intern | Plantation, FL | 1h ago | Entry-Level | Mobile Development | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2026_R56709) |
 | 🏢 **Mechanize** | Software Engineering Intern | San Francisco, CA | 1h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e) |
 | 🏢 **KBR** | Software Application Developer Intern for GOES-R Series Satellites | Silver Spring, MD | 1h ago | Entry-Level | Software Engineering | [Apply](https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Silver-Spring-Maryland/Software-Application-Developer-Intern-for-GOES-R-Series-Satellites_R2115543) |
-| 🏢 **DocuSign** | Site Reliability Software Engineer Intern | Seattle, WA | 0h ago | Entry-Level | Software Engineering | [Apply](https://uscareers-docusign.icims.com/jobs/28219/site-reliability-software-engineer-intern/job) |
+| 🏢 **DocuSign** | Site Reliability Software Engineer Intern | Seattle, WA | 1h ago | Entry-Level | Software Engineering | [Apply](https://uscareers-docusign.icims.com/jobs/28219/site-reliability-software-engineer-intern/job) |
 
 
 
