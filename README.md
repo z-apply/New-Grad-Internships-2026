@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-116-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-112-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-1-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 69 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 65 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 69
+- **🔥 Current Positions**: 65
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 1 premium opportunities
 - **📅 Last Updated**: November 20, 2025
@@ -152,14 +152,10 @@
 | 🏢 **Radiance Technologies** | Reverse Engineer Intern | Wright-Patterson AFB, OH | 1d ago | Entry-Level | Software Engineering | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC-FME/Reverse-Engineer-Intern_HR101889) |
 | 🏢 **CACI** | Software Development Intern - Summer 2026 | Springfield, VA | 1d ago | Entry-Level | Software Engineering | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Springfield/Software-Development-Intern---Summer-2026_319718) |
 
-### 🏢 **Other Companies** (57 positions)
+### 🏢 **Other Companies** (53 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Amperity** | Software Development Engineer Intern | Seattle, WA | 1d ago | Entry-Level | Software Engineering | [Apply](https://amperity.com/careers/7404458?gh_jid=7404458&gh_src=053ff1fc1us&gh_jid=7404458) |
-| 🏢 **Amperity** | Product Manager Intern - Summer 2026 | Seattle, WA | 1d ago | Entry-Level | Product Management | [Apply](https://amperity.com/careers/7404496?gh_jid=7404496&gh_src=053ff1fc1us&gh_jid=7404496) |
-| 🏢 **Northrop Grumman** | 2026 Software Engineer Intern - Woodland Hills CA | Canoga Park, LA | 1d ago | Entry-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2026-Software-Engineer-Intern---Woodland-Hills-CA_R10214782) |
-| 🏢 **Applied Materials** | Computer Science Intern | Austin, TX | 1d ago | Entry-Level | Software Engineering | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2026-Computer-Science-Intern--Bachelors---Austin--TX_R2517648) |
 | 🏢 **Keysight Technologies** | Product Support Intern | Santa Rosa, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.keysight.com/jobs/50841?lang=en-us&icims=1) |
 | 🏢 **Major League Baseball** | Organizational Intern - Baseball Operations Analyst | Philadelphia, PA | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7529085003) |
 | 🏢 **DriveTime** | Software Engineering Intern | Tempe, AZ | 1d ago | Entry-Level | Software Engineering | [Apply](https://drivetime.wd1.myworkdayjobs.com/drivetime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineering-Intern_R13925) |
@@ -243,36 +239,33 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 68 | 99% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 64 | 98% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
-| 🔴 Manager         | 1 | 1% | 2+ years of experience |
+| 🔴 Manager         | 1 | 2% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
-- **Austin, TX**: 5 positions
 - **San Mateo, CA**: 5 positions
-- **Seattle, WA**: 2 positions
+- **Austin, TX**: 4 positions
 - **Atlanta, GA**: 2 positions
 - **Dallas, TX**: 2 positions
 - **Richardson, TX**: 2 positions
 - **Denver, CO**: 2 positions
 - **Houston, TX**: 2 positions
+- **Remote in USA, Locations**: 2 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (42 positions)
-🏢 Amperity • 🏢 Northrop Grumman • 🏢 Applied Materials
+#### 💻 Software Engineering (39 positions)
+🚗 Uber • 🏢 Keysight Technologies • 🏢 Major League Baseball
 
 #### 🧠 Machine Learning & AI (16 positions)
 🏢 PulteGroup • 🏢 Zebra Technologies • 🏢 Hunt Oil Company
 
 #### 📊 Data Science & Analytics (4 positions)
 🏢 Charter Manufacturing • 🏢 Trimble • 🏢 Amgen
-
-#### 📋 Product Management (2 positions)
-🏢 Amperity • 🏢 Typeface
 
 #### ⚙️ Backend Development (2 positions)
 🏢 Robert Bosch Venture Capital
@@ -283,11 +276,14 @@
 #### 🎨 Frontend Development (1 positions)
 🏢 Genuine Parts Company
 
+#### 📋 Product Management (1 positions)
+🏢 Typeface
+
 ---
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 69 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 65 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -376,7 +372,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 69 current opportunities from 261 companies**
+**🎯 65 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
