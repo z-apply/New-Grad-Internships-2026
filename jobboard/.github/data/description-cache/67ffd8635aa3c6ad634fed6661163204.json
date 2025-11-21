@@ -1,0 +1,24 @@
+{
+  "url": "https://job-boards.greenhouse.io/genies/jobs/7534272003",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Genies is an avatar technology company powering the next era of interactive digital identity through AI companions. With the Avatar Framework and intuitive creation tools, Genies enables developers, talent, and creators to generate and deploy game-ready AI companions. The company’s technology stack supports full customization, AI-generated fashion and props, and seamless integration of user-generated content (UGC). Backed by investors including Bob Iger, Silver Lake, BOND, and NEA, Genies’ mission is to become the visual and interactive layer for the LLM-powered internet. About the opportunity We are looking for a Backend Software Engineer Intern (LLM) to join our AI Engineering Team based in San Francisco, CA or Los Angeles, CA. The team is responsible for developing the backend infrastructure powering the Genies Avatar AI framework. You will contribute to the next generation of AI 3D avatar entertainment experience, and be involved with designing, coding, and testing software according to the requirements and system plans. You will be expected to collaborate with senior engineers and other team members to develop software solutions, troubleshoot issues, and maintain the quality of our software. You will also be responsible for documenting their work for future reference and improvement. Our internship program has a minimum duration of 12 weeks. Key Responsibilities Develop and deploy LLM agent systems within our AI-powered avatar framework. Design and implement scalable and efficient backend systems to support AI applications Collaborate with AI and NLP experts to integrate LLM, and LLM-based systems and algorithms into our avatar ecosystem. Work with Docker, Kubernetes, and AWS for AI model deployment and scalability Contribute to code reviews, debugging, and testing to ensure high-quality deliverables. Minimum Qualifications Currently pursuing OR a recent graduate from a Master's degree or Bachelor's in Computer Science, Engineering, Machine Learning, or related field. Course or internship experience related to the following areas : Operating Systems, Data Structures & Algorithms, Machine Learning Strong programming skills in Python, Java, or C++ Excellent written and verbal communication skills Basic understanding of AI/LLM concepts and enthusiasm for learning advanced techniques. Preferred Qualifications Experience in building ML /LLM powered software systems. Previous Computer Science/Software Engineering Internship experience Solid understanding of LLM agents, retrieval-augmented generation (RAG), and prompt engineering. Experience with AWS, Docker and Kubernetes Experience with CI/CD pipelines Experience with API design, schema design Here's why you'll love working at Genies: Salary $40-$50 per hour. You'll work with a team that you’ll be able to learn from and grow with, including support for your own professional development You'll be at the helm of your own career, shaping it with your own innovative contributions to a nascent team and product with flexible hours and a hybrid(office+home) policy You'll enjoy the culture and perks of a startup, with the stability of being well funded Flexible paid time off, sick time, and paid company holidays, in addition to paid parental leave, bereavement leave, and jury duty leave for full-time employees Health & wellness support through programs such as monthly wellness reimbursement Choice of MacBook or windows laptop Genies is an equal opportunity employer committed to promoting an inclusive work environment free of discrimination and harassment. We value diversity, inclusion, and aim to provide a sense of belonging for everyone.",
+    "requirements": [
+      "Currently pursuing OR a recent graduate from a  Master's degree or Bachelor's in Computer Science, Engineering, Machine Learning, or related field.",
+      "Course or internship experience related to the following areas : Operating Systems, Data Structures & Algorithms, Machine Learning",
+      "Experience in building ML /LLM powered software systems.",
+      "Previous Computer Science/Software Engineering Internship experience",
+      "Experience with AWS, Docker and Kubernetes",
+      "Experience with  CI/CD pipelines",
+      "Experience with API design, schema design"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/genies/jobs/7534272003",
+      "fetchedAt": "2025-11-21T01:14:32.105Z"
+    }
+  },
+  "cachedAt": 1763687672106
+}

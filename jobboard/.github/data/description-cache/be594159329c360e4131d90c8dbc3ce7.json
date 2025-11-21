@@ -1,0 +1,17 @@
+{
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/316198",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Oracle Veteran Internship Program (OVIP) - US Veteran transitioning from active service or active-duty Military Spouse new to corporate experience preferred",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/316198",
+      "fetchedAt": "2025-11-21T01:14:35.284Z"
+    }
+  },
+  "cachedAt": 1763687675284
+}
