@@ -1,1 +1,227 @@
-[]
+[
+  {
+    "job_title": "MPP Data Analytics Intern",
+    "title": "MPP Data Analytics Intern",
+    "employer_name": "Federal Home Loan Bank of Indianapolis",
+    "company_name": "Federal Home Loan Bank of Indianapolis",
+    "job_city": "Indianapolis",
+    "job_state": "IN",
+    "job_country": "US",
+    "job_description": "Are you ready to turn your classroom knowledge into real-world experience?Do you enjoy collaborating with others and working as part of a team? If so, the Federal Home Loan Bank of Indianapolis (FHLBank) invites you to apply for our 2026 Summer Internship Program!We’re looking for well-rounded, motivated students to join us for a 10-week paid internship where you’ll gain hands-on experience, build your professional network, and develop valuable skills in a dynamic business environment.What You’ll ExperienceAs an MPP Data Analytics Intern at FHLBank, you’ll:Design and build interactive Power BI reports and dashboards to deliver insights to internal stakeholdersClean, transform, and analyze large datasets from sources such as SQL, Oracle, and Dynamics 365Collaborate with team members and business units to gather requirements and deliver impactful visualizationsPerform data validation and troubleshoot existing reportsDocument processes and contribute to dashboard design and data governance best practicesDevelop technical skills in SQL and Power BIApply strong problem-solving and communication skills to collaborate across teams and present analytical results effectivelyContribute to meaningful projects that align with your field of studyGain exposure to the finance and banking industryParticipate in team-building activities, a group project, a community service event, and professional development sessions (including dining etiquette!)Who We’re Looking ForWe’re seeking students who:Have completed at least their sophomore year of undergraduate studies. Graduate students are encouraged to apply!Are majoring in Business Administration, Management Information Systems, Data Analytics, Computer Science, or related fieldsBasic experience or coursework with Power BI or other data visualization tools, including DAX and Power QueryFamiliarity with Microsoft Excel and Microsoft AccessExperience with SQL, Microsoft Azure, and Fabric is a plusCommunicate effectively, both in writing and verballyWork well independently and in team settingsAre detail-oriented, organized, and eager to solve problemsProgram Highlights10-week paid internship: Monday, June 1 to Friday, August 7Flexible hybrid workforce model: Onsite three days a week and two days remote.Competitive hourly rate“Dress for your day” dress code: You choose the appropriate work attire based on what your day looks like.Professional development and networking opportunitiesInclusive and collaborative work environmentReady to apply? Submit your resume and cover letter. We look forward to learning more about you!The Federal Home Loan Bank of Indianapolis is an Equal Opportunity Employer.",
+    "job_apply_link": "https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/MPP-Data-Analytics-Intern_R564",
+    "url": "https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/MPP-Data-Analytics-Intern_R564",
+    "job_posted_at_datetime_utc": "2025-11-21T23:28:16.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Summer 2026"
+    ],
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "category": "AI/ML/Data",
+    "is_visible": true,
+    "id": "fhlbi-wd1-myworkdayjobs-com-fhlbi_careers-job-indianapolis-mpp-data-analytics-intern_r564",
+    "description_platform": "workday",
+    "description_success": true
+  },
+  {
+    "job_title": "Quantitative Research Analyst Intern",
+    "title": "Quantitative Research Analyst Intern",
+    "employer_name": "Stevens Capital Management",
+    "company_name": "Stevens Capital Management",
+    "job_city": "Villanova",
+    "job_state": "PA",
+    "job_country": "US",
+    "job_description": "We're seeking exceptionally motivated students with a strong interest in the financial markets to contribute to our empirical research process. The range of research ideas to investigate is open-ended and will depend on a candidate's background and strengths. Opportunities, including full-time summer internships and part-time work throughout the school year, are available for qualified students at each of the undergraduate, masters and PhD levels. Primary Responsibilities Read and analyze academic research or other source material pertaining to anomalies in the global financial markets. Build data sets and conduct statistical analysis on the data. Requirements Substantial progress toward a degree (graduate level preferred) in a quantitative discipline (e.g. statistics, econometrics, mathematics, engineering, physics or computer science) or finance (with extensive coursework in quantitative disciplines). Programming experience, ideally including R, C++ and/or Python. Experience with regression analysis. Strong interest in learning how to build, organize and analyze large data sets. Strong organizational and communication skills.",
+    "job_apply_link": "https://job-boards.greenhouse.io/ftandinternships/jobs/1304473",
+    "url": "https://job-boards.greenhouse.io/ftandinternships/jobs/1304473",
+    "job_posted_at_datetime_utc": "2025-11-21T23:30:13.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Winter 2025"
+    ],
+    "locations": [
+      "Villanova, PA"
+    ],
+    "category": "Quant",
+    "is_visible": true,
+    "id": "job-boards-greenhouse-io-ftandinternships-jobs-1304473",
+    "description_platform": "greenhouse",
+    "description_success": true
+  },
+  {
+    "job_title": "Developer Internship",
+    "title": "Developer Internship",
+    "employer_name": "Stevens Capital Management",
+    "company_name": "Stevens Capital Management",
+    "job_city": "Villanova",
+    "job_state": "PA",
+    "job_country": "US",
+    "job_description": "We're seeking highly motivated students who possess strong technical skills and the ability to work in a fast-paced collaborative environment. Primary Responsibilities: Develop new software and enhance existing systems. Create tools to process, store and analyze quote, trade and financial data. Work closely with our traders, quantitative research analysts, implementation programmers and other groups to provide software solutions. Requirements of the Candidate include: Pursuing an undergraduate or graduate level degree in Computer Science or Mathematics. C++ and/or Java programming knowledge or experience in a Linux environment preferred. Excellent academic record. Strong problem solving skills. Knowledge of shell scripts and other languages including Perl, Bash or CSH is a plus. Knowledge of relational databases including Sybase, SQL Server and Oracle is a plus.",
+    "job_apply_link": "https://job-boards.greenhouse.io/ftandinternships/jobs/1304476",
+    "url": "https://job-boards.greenhouse.io/ftandinternships/jobs/1304476",
+    "job_posted_at_datetime_utc": "2025-11-21T23:30:17.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Winter 2025"
+    ],
+    "locations": [
+      "Villanova, PA"
+    ],
+    "category": "Software",
+    "is_visible": true,
+    "id": "job-boards-greenhouse-io-ftandinternships-jobs-1304476",
+    "description_platform": "greenhouse",
+    "description_success": true
+  },
+  {
+    "job_title": "Fraud Data Analyst",
+    "title": "Fraud Data Analyst",
+    "employer_name": "Bandwidth",
+    "company_name": "Bandwidth",
+    "job_city": "Raleigh",
+    "job_state": "NC",
+    "job_country": "US",
+    "job_description": "Who We Are: Bandwidth, a prior “Best of EC” award winner, is a global software company that helps enterprises deliver exceptional experiences through voice, messaging, and emergency services. Reaching 65+ countries and over 90 percent of the global economy, we're the only provider offering an owned communications cloud that delivers advanced automation, AI integrations, global reach, and premium human support. Bandwidth is trusted for mission-critical communications by the Global 2000, hyperscalers, and SaaS builders! At Bandwidth, your music matters when you are part of the BAND. We celebrate differences and encourage BANDmates to be their authentic selves. #jointheband What We Are Looking For: As the Summer 2026 Fraud Analyst Intern with Bandwidth Fraud Mitigation team, you will assist with stopping fraud and unwanted traffic across Bandwidth’s Network. Being a part of this team, you will understand how we monitor our network for fraudulent and unwanted activity, how we look for new patterns, and how we stop fraudsters in their tracks. What You'll Do: Assist with data analysis to improve Bandwidth’s ability to detect and stop fraudulent and unwanted traffic. Create and improve automation to alert our Fraud Analysts of potentially fraudulent traffic. Assist in drafting requirements for new tools, methods, and visualizations to improve Fraud Mitigation efficiency. Understand how to detect patterns and find fraudulent anomalies. What You Need: Working towards a Bachelors or graduate degree in Computer Science, Statistics, Analytics, or other fraud fighting course of study Interest in preventing, detecting, and stopping fraud and unwanted activities. Experience with analytics methods to identify trends, statistical significance, and anomalies. Comfort working large datasets. Experience using a business intelligence application such as Sigma, Domo, Tableau, or PowerBI to show trends, and present insights that meaningfully help make decisions. Bonus Points: Python, or other programming/scripting, experience for manipulating large datasets. SQL / Snowflake Experience Experience in fraud identification/investigation. The Whole Person Promise: At Bandwidth, we’re pretty proud of our corporate culture, which is rooted in our “Whole Person Promise.” We promise all employees that they can have meaningful work AND a full life, and we provide a work environment geared toward enriching your body, mind, and spirit. How do we do that? Well… Are you ready for an awesome internship experience? At Bandwidth we’re all about making your time with us fun and fulfilling! Take a break with our 90-minute workout lunch to energize your day, or roll up your sleeves for some cool volunteer activities that give back to our community. You'll also get to meet and connect with our leaders who can share their wisdom and advice. And let’s not forget the fun social activities to bond with your fellow interns! Join us for a summer full of learning, laughter, and new experiences—let’s make some great memories together! Are you excited about the position and its responsibilities, but not sure if you’re 100% qualified? Do you feel you can work to help us crush the mission? If you answered ‘yes’ to both of these questions, we encourage you to apply! You won’t want to miss the opportunity to be a part of the BAND. Applicant Privacy Notice",
+    "job_apply_link": "https://job-boards.greenhouse.io/bandwidth/jobs/7408355",
+    "url": "https://job-boards.greenhouse.io/bandwidth/jobs/7408355",
+    "job_posted_at_datetime_utc": "2025-11-21T23:29:29.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Summer 2026"
+    ],
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "category": "AI/ML/Data",
+    "is_visible": true,
+    "id": "job-boards-greenhouse-io-bandwidth-jobs-7408355",
+    "description_platform": "greenhouse",
+    "description_success": true
+  },
+  {
+    "job_title": "Quantitative Research Analyst Internship",
+    "title": "Quantitative Research Analyst Internship",
+    "employer_name": "Stevens Capital Management",
+    "company_name": "Stevens Capital Management",
+    "job_city": "Villanova",
+    "job_state": "PA",
+    "job_country": "US",
+    "job_description": "We're seeking exceptionally motivated students with a strong interest in the financial markets to contribute to our empirical research process. The range of research ideas to investigate is open-ended and will depend on a candidate's background and strengths. Opportunities, including full-time summer internships and part-time work throughout the school year, are available for qualified students at each of the undergraduate, masters and PhD levels. Primary Responsibilities Read and analyze academic research or other source material pertaining to anomalies in the global financial markets. Build data sets and conduct statistical analysis on the data. Requirements Substantial progress toward a degree (graduate level preferred) in a quantitative discipline (e.g. statistics, econometrics, mathematics, engineering, physics or computer science) or finance (with extensive coursework in quantitative disciplines). Programming experience, ideally including R, C++ and/or Python. Experience with regression analysis. Strong interest in learning how to build, organize and analyze large data sets. Strong organizational and communication skills.",
+    "job_apply_link": "https://job-boards.greenhouse.io/scminternships/jobs/1146416",
+    "url": "https://job-boards.greenhouse.io/scminternships/jobs/1146416",
+    "job_posted_at_datetime_utc": "2025-11-21T23:30:18.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Summer 2026"
+    ],
+    "locations": [
+      "Villanova, PA"
+    ],
+    "category": "Quant",
+    "is_visible": true,
+    "id": "job-boards-greenhouse-io-scminternships-jobs-1146416",
+    "description_platform": "greenhouse",
+    "description_success": true
+  },
+  {
+    "job_title": "Developer Intern",
+    "title": "Developer Intern",
+    "employer_name": "Stevens Capital Management",
+    "company_name": "Stevens Capital Management",
+    "job_city": "Villanova",
+    "job_state": "PA",
+    "job_country": "US",
+    "job_description": "We're seeking highly motivated students who possess strong technical skills and the ability to work in a fast-paced collaborative environment. Primary Responsibilities: Develop new software and enhance existing systems. Create tools to process, store and analyze quote, trade and financial data. Work closely with our traders, quantitative research analysts, implementation programmers and other groups to provide software solutions. Requirements of the Candidate include: Pursuing an undergraduate or graduate level degree in Computer Science or Mathematics. C++ and/or Java programming knowledge or experience in a Linux environment preferred. Excellent academic record. Strong problem solving skills. Knowledge of shell scripts and other languages including Perl, Bash or CSH is a plus. Knowledge of relational databases including Sybase, SQL Server and Oracle is a plus.",
+    "job_apply_link": "https://job-boards.greenhouse.io/scminternships/jobs/1146391",
+    "url": "https://job-boards.greenhouse.io/scminternships/jobs/1146391",
+    "job_posted_at_datetime_utc": "2025-11-21T23:30:22.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Winter 2025"
+    ],
+    "locations": [
+      "Villanova, PA"
+    ],
+    "category": "Software",
+    "is_visible": true,
+    "id": "job-boards-greenhouse-io-scminternships-jobs-1146391",
+    "description_platform": "greenhouse",
+    "description_success": true
+  },
+  {
+    "job_title": "Software Engineer Summer Intern",
+    "title": "Software Engineer Summer Intern",
+    "employer_name": "Findhelp, A Public Benefit Corporation",
+    "company_name": "Findhelp, A Public Benefit Corporation",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "US",
+    "job_description": "Hispanic or LatinoA person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race.White (Not Hispanic or Latino)A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.Black or African American (Not Hispanic or Latino)A person having origins in any of the black racial groups of Africa.Native Hawaiian or Other Pacific Islander (Not Hispanic or Latino)A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.Asian (Not Hispanic or Latino)A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.American Indian or Alaska Native (Not Hispanic or Latino)A person having origins in any of the original peoples of North and South America (including Central America), and who maintain tribal affiliation or community attachment.Two or More Races (Not Hispanic or Latino)All persons who identify with more than one of the above five races.",
+    "job_apply_link": "https://jobs.lever.co/findhelp/651c32a0-195e-4db7-9ad7-cccbd58f8975/apply",
+    "url": "https://jobs.lever.co/findhelp/651c32a0-195e-4db7-9ad7-cccbd58f8975/apply",
+    "job_posted_at_datetime_utc": "2025-11-21T23:09:39.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Summer 2026"
+    ],
+    "locations": [
+      "Austin, TX"
+    ],
+    "category": "Software",
+    "is_visible": true,
+    "id": "jobs-lever-co-findhelp-651c32a0-195e-4db7-9ad7-cccbd58f8975-apply",
+    "description_platform": "lever",
+    "description_success": true
+  },
+  {
+    "job_title": "Software Engineer Intern",
+    "title": "Software Engineer Intern",
+    "employer_name": "Root Access",
+    "company_name": "Root Access",
+    "job_city": "NYC",
+    "job_state": "Locations",
+    "job_country": "US",
+    "job_description": "This is a paid in-person spring internship that requires 16 hours/week commitment. Must be based in NYC or near. Our office is located in Midtown Manhattan. Company Overview: Root Access is an applied AI company building developer tools for embedded engineers. We help hardware teams program mankind’s most important machines across industrial, defense, automotive, and more. Role Overview We’re looking for a Software Engineer Intern who’s excited to help build the future of developer tooling. You’ll build real features end-to-end and assist in validating AI-assisted engineering workflows. You’ll also contribute to core product development ranging from frontend interfaces to backend systems, integrations, automation scripts, or new developer experience tooling. What You’ll Do Design, build, and debug software tools and systems using Python, TypeScript, or Rust. Use our internal AI-powered developer tools to prototype and enhance engineering workflows. Help implement and test key product features like project generation, build automation, and developer-facing APIs. Provide structured feedback on usability, bugs, and edge cases—you’re part of the product feedback loop. Build demo apps, scripts, or workflows that stress-test our tools and showcase new features. Read technical docs, specs, and code to verify model output and ensure reliability (yes, we still read docs). You might be a good fit if you: Have experience building CLI tools, dev scripts, small web or backend apps Think hardware is really cool with some hobbyist-level experience programming MCUs Have used or contributed to build systems or developer tools (e.g., VS Code extensions, CLIs, GitHub Actions) Ideal Candidates will: Come in with previous work or internship experience shipping to production Be hungry to contribute to an ambitious startup",
+    "job_apply_link": "https://jobs.ashbyhq.com/root-access/6f004058-c03f-43d6-b2e9-fa37e6844e68/application",
+    "url": "https://jobs.ashbyhq.com/root-access/6f004058-c03f-43d6-b2e9-fa37e6844e68/application",
+    "job_posted_at_datetime_utc": "2025-11-21T23:11:49.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Winter 2025"
+    ],
+    "locations": [
+      "NYC"
+    ],
+    "category": "Software",
+    "is_visible": true,
+    "id": "jobs-ashbyhq-com-root-access-6f004058-c03f-43d6-b2e9-fa37e6844e68-application",
+    "description_platform": "ashby",
+    "description_success": true
+  },
+  {
+    "job_title": "Firmware Engineer",
+    "title": "Firmware Engineer",
+    "employer_name": "Root Access",
+    "company_name": "Root Access",
+    "job_city": "NYC",
+    "job_state": "Locations",
+    "job_country": "US",
+    "job_description": "This is a paid in-person spring internship that requires 16 hours/week commitment. Must be based in NYC or near. Our office is located in Midtown Manhattan. Company Overview: Root Access is an applied AI company building developer tools for embedded engineers. We help hardware teams program mankind’s most important machines across industrial, defense, automotive, and more. Role Overview We’re looking for a Firmware Engineer Intern who’s excited to help build the future of embedded systems tooling. You’ll be an internal beta user, write firmware for real dev boards, and help us validate AI-assisted workflows. You’ll also contribute to embedded projects for testing peripherals, validating board files, or exploring new toolchains. What You’ll Do: Write and debug embedded firmware (e.g., STM32, ESP32, nRF52) using C/C++ and Rust. Use our internal AI-powered tools to generate/configure firmware Help test features like pin mapping, driver generation, clock tree config, and build tool integrations. Provide structured feedback on usability, bugs, and edge cases (you’re part of the product loop). Build demo projects, scripts, or workflows that help us validate tool reliability and usability. Read datasheets and vendor docs to cross-verify model output (yep, still a thing). You'll be a good fit if you: Have hands-on experience with microcontrollers (STM32, Nordic, TI, etc.) Know your way around basic embedded peripherals: UART, I2C, SPI, GPIO, timers Have worked with at toolchains (e.g., PlatformIO, STM32CubeIDE, Zephyr, Keil) Are curious about how firmware dev tools could be better—and want to shape that future Ideal Candidates will: Have a Masters in Electrical Engineering or Computer Engineering (or actively pursuing) Come in with previous work or internship experience programming firmware Be hungry to contribute to an ambitious startup",
+    "job_apply_link": "https://jobs.ashbyhq.com/root-access/46f71ad0-5072-47c5-97fb-6ddc5098d564/application",
+    "url": "https://jobs.ashbyhq.com/root-access/46f71ad0-5072-47c5-97fb-6ddc5098d564/application",
+    "job_posted_at_datetime_utc": "2025-11-21T23:11:46.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Spring 2026"
+    ],
+    "locations": [
+      "NYC"
+    ],
+    "category": "Hardware",
+    "is_visible": true,
+    "id": "jobs-ashbyhq-com-root-access-46f71ad0-5072-47c5-97fb-6ddc5098d564-application",
+    "description_platform": "ashby",
+    "description_success": true
+  }
+]
