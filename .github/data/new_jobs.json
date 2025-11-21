@@ -1,1 +1,177 @@
-[]
+[
+  {
+    "job_title": "Machine Learning Engineer Intern",
+    "title": "Machine Learning Engineer Intern",
+    "employer_name": "Root Access",
+    "company_name": "Root Access",
+    "job_city": "New York City",
+    "job_state": "NY",
+    "job_country": "US",
+    "job_description": "This is a paid in-person spring internship that requires 16 hours/week commitment. Must be based in NYC or near. Our office is located in Midtown Manhattan. Company Overview: Root Access is an applied AI company building developer tools for embedded engineers. We help hardware teams program mankind’s most important machines across industrial, defense, automotive, and more. Role Overview We’re looking for an Machine Learning Engineer Intern who’s excited to help build the future of AI-assisted development tooling. You’ll act as an internal beta user, train and evaluate real models, and help us validate AI-accelerated workflows. You’ll also contribute to ML projects across dataset preparation, model experimentation, benchmarking, and exploring new frameworks or inference toolchains. What You’ll Do: Train, evaluate, and debug machine learning models (e.g., deep learning, classical ML, multimodal models) using Python, PyTorch, and related frameworks. Use our internal AI-powered tooling to accelerate model development, dataset preparation, experiment tracking, and deployment workflows. Help test features like dataset validation, automated hyperparameter search, model introspection, and inference/runtime integrations. Provide structured feedback on usability, model behavior, edge cases, and failure modes (you’re part of the product loop). Build demo models, evaluation scripts, or experiment workflows that help us validate reliability and usability of the platform. Read academic papers, model cards, and technical documentation to cross-verify model performance and expected behavior. You'll be a good fit if you: Have hands-on experience training ML models (vision, NLP, or embedded/edge ML all welcome). Know your way around core ML concepts: model architectures, loss functions, optimization, evaluation metrics. Have experience with ML toolchains and workflows (e.g., PyTorch Lightning, Hugging Face, ONNX, TensorRT, Weights &amp; Biases). Are curious about how AI development tools could be radically better—and want to help shape that future. Ideal candidates will: Have a Master’s in Mathematics, Data Science, or Engineering. Bring prior work or internship experience with model training, ML research, or applied AI engineering. Be hungry to contribute to an ambitious startup.",
+    "job_apply_link": "https://jobs.ashbyhq.com/root-access/6a3f17bd-6690-4c3d-865b-f1093ae500fa",
+    "url": "https://jobs.ashbyhq.com/root-access/6a3f17bd-6690-4c3d-865b-f1093ae500fa",
+    "job_posted_at_datetime_utc": "2025-11-21T16:09:25.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Spring 2026"
+    ],
+    "locations": [
+      "New York City, NY"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "is_visible": true,
+    "id": "jobs-ashbyhq-com-root-access-6a3f17bd-6690-4c3d-865b-f1093ae500fa",
+    "description_platform": "ashby",
+    "description_success": true
+  },
+  {
+    "job_title": "Firmware Engineer Intern",
+    "title": "Firmware Engineer Intern",
+    "employer_name": "Root Access",
+    "company_name": "Root Access",
+    "job_city": "New York City",
+    "job_state": "NY",
+    "job_country": "US",
+    "job_description": "This is a paid in-person spring internship that requires 16 hours/week commitment. Must be based in NYC or near. Our office is located in Midtown Manhattan. Company Overview: Root Access is an applied AI company building developer tools for embedded engineers. We help hardware teams program mankind’s most important machines across industrial, defense, automotive, and more. Role Overview We’re looking for a Firmware Engineer Intern who’s excited to help build the future of embedded systems tooling. You’ll be an internal beta user, write firmware for real dev boards, and help us validate AI-assisted workflows. You’ll also contribute to embedded projects for testing peripherals, validating board files, or exploring new toolchains. What You’ll Do: Write and debug embedded firmware (e.g., STM32, ESP32, nRF52) using C/C++ and Rust. Use our internal AI-powered tools to generate/configure firmware Help test features like pin mapping, driver generation, clock tree config, and build tool integrations. Provide structured feedback on usability, bugs, and edge cases (you’re part of the product loop). Build demo projects, scripts, or workflows that help us validate tool reliability and usability. Read datasheets and vendor docs to cross-verify model output (yep, still a thing). You'll be a good fit if you: Have hands-on experience with microcontrollers (STM32, Nordic, TI, etc.) Know your way around basic embedded peripherals: UART, I2C, SPI, GPIO, timers Have worked with at toolchains (e.g., PlatformIO, STM32CubeIDE, Zephyr, Keil) Are curious about how firmware dev tools could be better—and want to shape that future Ideal Candidates will: Have a Masters in Electrical Engineering or Computer Engineering (or actively pursuing) Come in with previous work or internship experience programming firmware Be hungry to contribute to an ambitious startup",
+    "job_apply_link": "https://jobs.ashbyhq.com/root-access/46f71ad0-5072-47c5-97fb-6ddc5098d564",
+    "url": "https://jobs.ashbyhq.com/root-access/46f71ad0-5072-47c5-97fb-6ddc5098d564",
+    "job_posted_at_datetime_utc": "2025-11-21T16:10:33.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Spring 2026"
+    ],
+    "locations": [
+      "New York City, NY"
+    ],
+    "category": "Hardware Engineering",
+    "is_visible": true,
+    "id": "jobs-ashbyhq-com-root-access-46f71ad0-5072-47c5-97fb-6ddc5098d564",
+    "description_platform": "ashby",
+    "description_success": true
+  },
+  {
+    "job_title": "Software Engineer Intern",
+    "title": "Software Engineer Intern",
+    "employer_name": "Root Access",
+    "company_name": "Root Access",
+    "job_city": "New York City",
+    "job_state": "NY",
+    "job_country": "US",
+    "job_description": "This is a paid in-person spring internship that requires 16 hours/week commitment. Must be based in NYC or near. Our office is located in Midtown Manhattan. Company Overview: Root Access is an applied AI company building developer tools for embedded engineers. We help hardware teams program mankind’s most important machines across industrial, defense, automotive, and more. Role Overview We’re looking for a Software Engineer Intern who’s excited to help build the future of developer tooling. You’ll build real features end-to-end and assist in validating AI-assisted engineering workflows. You’ll also contribute to core product development ranging from frontend interfaces to backend systems, integrations, automation scripts, or new developer experience tooling. What You’ll Do Design, build, and debug software tools and systems using Python, TypeScript, or Rust. Use our internal AI-powered developer tools to prototype and enhance engineering workflows. Help implement and test key product features like project generation, build automation, and developer-facing APIs. Provide structured feedback on usability, bugs, and edge cases—you’re part of the product feedback loop. Build demo apps, scripts, or workflows that stress-test our tools and showcase new features. Read technical docs, specs, and code to verify model output and ensure reliability (yes, we still read docs). You might be a good fit if you: Have experience building CLI tools, dev scripts, small web or backend apps Think hardware is really cool with some hobbyist-level experience programming MCUs Have used or contributed to build systems or developer tools (e.g., VS Code extensions, CLIs, GitHub Actions) Ideal Candidates will: Come in with previous work or internship experience shipping to production Be hungry to contribute to an ambitious startup",
+    "job_apply_link": "https://jobs.ashbyhq.com/root-access/6f004058-c03f-43d6-b2e9-fa37e6844e68",
+    "url": "https://jobs.ashbyhq.com/root-access/6f004058-c03f-43d6-b2e9-fa37e6844e68",
+    "job_posted_at_datetime_utc": "2025-11-21T16:11:13.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Spring 2026"
+    ],
+    "locations": [
+      "New York City, NY"
+    ],
+    "category": "Software Engineering",
+    "is_visible": true,
+    "id": "jobs-ashbyhq-com-root-access-6f004058-c03f-43d6-b2e9-fa37e6844e68",
+    "description_platform": "ashby",
+    "description_success": true
+  },
+  {
+    "job_title": "AI Automation Intern",
+    "title": "AI Automation Intern",
+    "employer_name": "Advantmed",
+    "company_name": "Advantmed",
+    "job_city": "Remote in USA",
+    "job_state": "Locations",
+    "job_country": "US",
+    "job_description": "🌟 About the RoleWe are looking for a curious and enthusiastic AI Automation Intern to join our team. In this role, you will help design, develop, and implement AI-driven automation solutions that increase efficiency and reduce manual work across the or...",
+    "job_apply_link": "https://apply.workable.com/advantmed/j/45F5E3C394/",
+    "url": "https://apply.workable.com/advantmed/j/45F5E3C394/",
+    "job_posted_at_datetime_utc": "2025-11-21T16:12:14.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Summer 2026"
+    ],
+    "locations": [
+      "Remote in USA"
+    ],
+    "category": "Data Science, AI & Machine Learning",
+    "is_visible": true,
+    "id": "apply-workable-com-advantmed-j-45f5e3c394",
+    "description_platform": "generic",
+    "description_success": true
+  },
+  {
+    "job_title": "Software Engineering Intern",
+    "title": "Software Engineering Intern",
+    "employer_name": "The Walt Disney Company",
+    "company_name": "The Walt Disney Company",
+    "job_city": "Lake Buena Vista",
+    "job_state": "FL",
+    "job_country": "US",
+    "job_description": "Job Posting Title:Software Engineering Intern, Summer 2026 Req ID:10135955Job Description:About the Role & Program: The Walt Disney Company has spent 100 years immersing audiences in new and stunning experiences using groundbreaking technology. Your work as a Disney intern would inspire innovation and bring fresh perspectives to impact guests and consumers worldwide. “We Power the Magic!” That’s our motto at Disney Experiences Technology (DXT). Our team creates world-class immersive digital experiences for the Company’s premier vacation brands including Disney’s Parks & Resorts worldwide, Disney Cruise Line, Aulani, A Disney Resort & Spa, and Disney Vacation Club. We are responsible for the end-to-end digital and physical Guest experience for all technology & digital-led initiatives across the Attractions & Entertainment, Food & Beverage, Resorts & Transportation and Merchandise lines of business as well as other initiatives including MyDisneyExperience and Hey, Disney! What You Will Do:Will participate in Agile Development Studio working on the Point of Sale Technology Applications to provide enhanced functionalityProvide status updates on a Daily-basis for their current workCollaborate with the team to discuss implementation details for specific user stories that will improve our product (POS system)Engage with the team during Scrum ceremonies such as Sprint planning, retrospective and refinement.Work closely with our mentor thru the day to discuss about challenges, lessons learned and action items to move towards the next goal.Deliver stories/bugs thru the sprint according to the established commitments during Sprint planning.Qualifications:Problem Solving and analysis skillsStrong understanding of Computer Science fundamentalsExperience in Java Experience in Relational Database Management SystemsExcellent written, verbal and interpersonal communication skillsTime management skillsUnderstanding of Agile development practicesPreferred Qualifications & Skills:Experience in JavaExperience in Go langExperience in PHP and Code igniterExperience on Design patternsRequired Education:Currently enrolled undergraduate student in an accredited college/university, pursuing a Bachelor’s degree in Computer Science, Computer Engineering, Software Engineering, Management Information Systems, Information Technology or related field.Eligibility Requirements & Program Information: Be enrolled in an accredited college/university pursuing a degree taking at least one class in the semester/quarter (spring/fall) prior to participation in the internship program AND returning to school the semester/quarter following the internship OR currently participating in a Disney College Program or Disney Internship.Current Disney Interns, College, International, or Culinary Program Participants: You may only work for ONE consecutive year (12 months) in any combination of an internship and/or program. Be at least 18 years of agePossess unrestricted work authorization Additional Information:Able to have a consistent, reliable work schedule throughout the internship Fully available from M-F, 40 hours each week for the entire program duration: May/June - August/September 2026 (12 weeks)Able to provide own housing for the duration of the internship program Able to provide/have reliable transportation to/from work The pay rate for this role in Orlando, FL is $42 per hour. Select benefits may be provided as part of the compensation package, such as medical, financial, and/or other benefits, dependent on the level and position offered. To learn more about our benefits visit: https://jobs.disneycareers.com/benefits.Job Posting Segment:DX TechnologyJob Posting Primary Business:CommercePrimary Job Posting Category:Technology InternEmployment Type:Full timePrimary City, State, Region, Postal Code:Lake Buena Vista, FL, USAAlternate City, State, Region, Postal Code:Date Posted:2025-11-20",
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Software-Engineering-Intern--Summer-2026-_10135955",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Software-Engineering-Intern--Summer-2026-_10135955",
+    "job_posted_at_datetime_utc": "2025-11-21T16:13:14.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Summer 2026"
+    ],
+    "locations": [
+      "Lake Buena Vista, FL"
+    ],
+    "category": "Software Engineering",
+    "is_visible": true,
+    "id": "disney-wd5-myworkdayjobs-com-en-us-disneycareerdc-job-lake-buena-vista-fl-usa-software-engineering-intern-summer-2026-_10135955",
+    "description_platform": "workday",
+    "description_success": true
+  },
+  {
+    "job_title": "2026 Summer Intern: Software Engineering II (Bentonville)",
+    "title": "2026 Summer Intern: Software Engineering II (Bentonville)",
+    "employer_name": "Walmart",
+    "company_name": "Walmart",
+    "job_city": "Bentonville",
+    "job_state": "AR",
+    "job_country": "US",
+    "job_description": "Position Summary...What you'll do...Respect the Individual: Demonstrates and encourages respect for others drives a positive associate and customermember experience for all embraces differences in people cultures ideas and experiences supports workplaces where associated feel seen and connected through a culture of belonging so all associates thrive and perform contributes to an environment allowing everyone to bring their best selves to workRespect the Individual: Demonstrates engagement and commitment to the team developing others through feedback coaching mentoring and developmental opportunities and recognizes others contributions and accomplishmentsRespect the Individual: Builds strong and trusting relationships with team members and business partners works collaboratively to achieve objectives communicates with impact and listens attentively to a range of audiences and demonstrates energy and positivity for own workAct with Integrity: Maintains and promotes the highest standards of integrity ethics and compliance models the Walmart values and leads by example to foster our culture supports Walmarts goal of becoming a regenerative company by making a positive impact for associates customers and the world around us eg creating a sense of belonging eliminating waste participating in local givingAct with Integrity: Follows the law our code of conduct and company policies and encourages others to do the same supports an environment where associates feel comfortable sharing concerns reinforces our culture of nonretaliation listens to concerns raised by associates and takes action acts with accountability for achieving results in a way that is consistent with our valuesAct with Integrity: Is consistently humble selfaware honest and transparentServe our Customers and Members Delivers results while putting the customermember first and applying an omnimerchant mindset and acts with an Every Day LowCost mindset to drive value and Every Day Low Prices for customersmembersServe our Customers and Members Adopts a broad perspective that considers data analytics customermember insights and different parts of the business when making plansStrive for Excellence: Consistently raises the bar and seeks to improve demonstrates curiosity and a growth mindset seeks feedback asks thoughtful questions supports innovation and intelligent risktaking and exhibits resilience in the face of setbacksStrive for Excellence: Implements and supports continuous improvements and willingly embraces new digital tools and ways of working At Walmart, we offer competitive pay and other great benefits for a happier mind, body, and wallet! For information about benefits and eligibility, see One.Walmart. Bentonville, Arkansas US-09401: The hourly wage range for this position is $19.00 - $35.00* Sunnyvale, California US-04396: The hourly wage range for this position is $25.00 - $46.00* *The actual hourly rate will equal or exceed the required minimum wage applicable to the job location.ㅤㅤㅤㅤ‎ Minimum Qualifications...Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications. Preferred Qualifications...Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.Primary Location...702 Sw 8Th St, Bentonville, AR 72716, United States of AmericaWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
+    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME-2026-Summer-Intern--Software-Engineering-II--Bentonville-_R-2354856",
+    "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME-2026-Summer-Intern--Software-Engineering-II--Bentonville-_R-2354856",
+    "job_posted_at_datetime_utc": "2025-11-21T16:14:22.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Summer 2026"
+    ],
+    "locations": [
+      "Bentonville, AR"
+    ],
+    "category": "Software Engineering",
+    "is_visible": true,
+    "id": "walmart-wd5-myworkdayjobs-com-en-us-walmartexternal-job-bentonville-ar-xmlname-2026-summer-intern-software-engineering-ii-bentonville-_r-2354856",
+    "description_platform": "workday",
+    "description_success": true
+  },
+  {
+    "job_title": "Software Engineer Internship (10-15 hrs/week)",
+    "title": "Software Engineer Internship (10-15 hrs/week)",
+    "employer_name": "Western Governors University",
+    "company_name": "Western Governors University",
+    "job_city": "Nashville",
+    "job_state": "TN",
+    "job_country": "US",
+    "job_description": "If you’re passionate about building a better future for individuals, communities, and our country—and you’re committed to working hard to play your part in building that future—consider WGU as the next step in your career.Driven by a mission to expand access to higher education through online, competency-based degree programs, WGU is also committed to being a great place to work for a diverse workforce of student-focused professionals. The university has pioneered a new way to learn in the 21st century, one that has received praise from academic, industry, government, and media leaders. Whatever your role, working for WGU gives you a part to play in helping students graduate, creating a better tomorrow for themselves and their families.The salary range for this position takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs.At WGU, it is not typical for an individual to be hired at or near the top of the range for their position, and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is: Grade: Technical 401Pay Range: $28.60 - $42.93Job DescriptionJob Summary*PART-TIME, 10-15 hours/week*Craft Education (acquired by WGU September 2024) is seeking an intern to join our growing engineering team for a part-time internship opportunity. Interns will be exposed to a variety of technical projects revolving around Craft's scaling SaaS Platform.ResponsibilitiesAssist in maintaining and updating departmental databases, spreadsheets, and content management systemsAssist in developing and testing software applications using Java and Angular frameworks.Contribute to building and deploying applications on AWS cloud servicesSupport the implementation and troubleshooting of office technology, software applications, and digital toolsHelp create and update technical documentation, user guides, and standard operating proceduresPerform data entry, validation, cleanup, and basic reporting using Excel, Google Sheets, or database toolsAid in system testing, form development, and workflow automation projects using platforms like Google Workspace, Microsoft 365, or institution-specific toolsProvide first-level technical support to staff and faculty, including software setup, printer troubleshooting, and login/access issuesContribute to process improvement initiatives through research, analysis, and documentationCollaborate with IT staff or business analysts on technology-driven projects or service requestsPresent a final project or summary of learning to the team at the end of the internship.This job description includes a general representation of job requirements rather than a comprehensive inventory of all required responsibilities or work activities. The contents of this document or related job requirements may change at any time with or without notice.Knowledge, Skills, and AbilitiesBasic understanding of databases, spreadsheets, and office productivity tools (e.g., Excel formulas, Google Forms, SharePoint)Familiarity with help desk, ticketing systems, or cloud-based tools is a plusStrong analytical, technical troubleshooting, and organizational skillsComfortable learning and using new systems and applicationsAbility to be comfortable with ambiguity and asking for help when neededExcellent verbal and written communication skillsAbility to maintain confidentiality and follow data security protocolsSelf-motivated with strong attention to detailExperienceCurrently enrolled in or recently completed a degree in Computer Science, Information Technology, or a related field.Good foundation in Java programming and understanding of object-oriented principles.Exposure to front-end development with Angular (or similar JavaScript frameworks).Basic knowledge of AWS cloud services and cloud-native concepts.Must be eligible to work in the United States without sponsorship during the internship period.Must be in good academic standing with an expected graduation date.Position & Application DetailsPart-time Regular Positions (classified as regular and working less than 30 standard weekly hours): This is a part-time, regular position (classified for less than 30 SWH) that is eligible for vision and mental healthcare; flexible spending account; voluntary life insurance; accident, critical illness and hospital indemnity supplemental coverages; legal and identity theft coverage; retirement savings plan; wellbeing program; discounted WGU tuition; and prorated paid holidays and accrued sick time.How to Apply: If interested, an application will need to be submitted online. Internal WGU employees will need to apply through the internal job board in Workday.Additional InformationDisclaimer: The job posting highlights the most critical responsibilities and requirements of the job. It’s not all-inclusive. Accommodations: Applicants with disabilities who require assistance or accommodation during the application or interview process should contact our Talent Acquisition team at recruiting@wgu.edu.Equal Employment Opportunity: All qualified applicants will receive consideration for employment without regard to any protected characteristic as required by law.",
+    "job_apply_link": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Nashville-Office/Software-Engineer-Internship--10-15-hrs-week-_JR-023680",
+    "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Nashville-Office/Software-Engineer-Internship--10-15-hrs-week-_JR-023680",
+    "job_posted_at_datetime_utc": "2025-11-21T16:15:05.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Summer 2026"
+    ],
+    "locations": [
+      "Nashville, TN"
+    ],
+    "category": "Software Engineering",
+    "is_visible": true,
+    "id": "wgu-wd5-myworkdayjobs-com-en-us-external-job-nashville-office-software-engineer-internship-10-15-hrs-week-_jr-023680",
+    "description_platform": "workday",
+    "description_success": true
+  }
+]

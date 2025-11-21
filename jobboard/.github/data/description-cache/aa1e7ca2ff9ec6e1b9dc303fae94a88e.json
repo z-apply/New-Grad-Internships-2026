@@ -1,0 +1,16 @@
+{
+  "url": "https://jobs.ashbyhq.com/root-access/46f71ad0-5072-47c5-97fb-6ddc5098d564",
+  "data": {
+    "success": true,
+    "platform": "ashby",
+    "description": "This is a paid in-person spring internship that requires 16 hours/week commitment. Must be based in NYC or near. Our office is located in Midtown Manhattan. Company Overview: Root Access is an applied AI company building developer tools for embedded engineers. We help hardware teams program mankind’s most important machines across industrial, defense, automotive, and more. Role Overview We’re looking for a Firmware Engineer Intern who’s excited to help build the future of embedded systems tooling. You’ll be an internal beta user, write firmware for real dev boards, and help us validate AI-assisted workflows. You’ll also contribute to embedded projects for testing peripherals, validating board files, or exploring new toolchains. What You’ll Do: Write and debug embedded firmware (e.g., STM32, ESP32, nRF52) using C/C++ and Rust. Use our internal AI-powered tools to generate/configure firmware Help test features like pin mapping, driver generation, clock tree config, and build tool integrations. Provide structured feedback on usability, bugs, and edge cases (you’re part of the product loop). Build demo projects, scripts, or workflows that help us validate tool reliability and usability. Read datasheets and vendor docs to cross-verify model output (yep, still a thing). You'll be a good fit if you: Have hands-on experience with microcontrollers (STM32, Nordic, TI, etc.) Know your way around basic embedded peripherals: UART, I2C, SPI, GPIO, timers Have worked with at toolchains (e.g., PlatformIO, STM32CubeIDE, Zephyr, Keil) Are curious about how firmware dev tools could be better—and want to shape that future Ideal Candidates will: Have a Masters in Electrical Engineering or Computer Engineering (or actively pursuing) Come in with previous work or internship experience programming firmware Be hungry to contribute to an ambitious startup",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "ashby",
+      "url": "https://jobs.ashbyhq.com/root-access/46f71ad0-5072-47c5-97fb-6ddc5098d564",
+      "fetchedAt": "2025-11-21T16:20:29.844Z"
+    }
+  },
+  "cachedAt": 1763742029844
+}
