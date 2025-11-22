@@ -162,7 +162,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🚀 **SpaceX** | Engineering Intern/Co-op | Bastrop, TX | 1d ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/spacex/jobs/8149123002) |
 | 🏢 **The Boeing Company** | Assembly Mechanic Apprenticeship-Electrical | Hazelwood, MO | 1d ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Florissant-MO/Assembly-Mechanic-Apprenticeship-Electrical_JR2025460173) |
-| 🏢 **Radiance Technologies** | R&D Software Engineer/Computer Scientist Intern | Huntsville, AL | 7h ago | Entry-Level | Software Engineering | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/R-D-Software-Engineer-Computer-Scientist-Intern_HR101899) |
+| 🏢 **Radiance Technologies** | R&D Software Engineer/Computer Scientist Intern | Huntsville, AL | 8h ago | Entry-Level | Software Engineering | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/R-D-Software-Engineer-Computer-Scientist-Intern_HR101899) |
 | 🏢 **Moog** | Intern, Software Engineering | Torrance, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Intern--Software-Engineering_R-25-14912) |
 
 ### 🏢 **Other Companies** (160 positions)
@@ -276,7 +276,7 @@
 | 🏢 **Intuitive Surgical** | AI Research Intern | Sunnyvale, CA | 1d ago | Entry-Level | Frontend Development | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000094742485) |
 | 🏢 **Intuitive Surgical** | AI Research Intern | Sunnyvale, CA | 14h ago | Entry-Level | Frontend Development | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000094876248) |
 | 🏢 **Northrop Grumman** | Engineering Intern | Mesa, AZ | 1d ago | Entry-Level | Software Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Mesa/XMLNAME-2026-Engineering-Intern---Mesa-AZ_R10215191) |
-| 🏢 **Field AI** | Field Application Engineer - Intern | Houston, TX | 23h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/field-ai/53c70577-39c3-42e0-a7d6-e608a82fdc28/apply) |
+| 🏢 **Field AI** | Field Application Engineer - Intern | Houston, TX | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/field-ai/53c70577-39c3-42e0-a7d6-e608a82fdc28/apply) |
 | 🏢 **Lennar Corporation** | Future Builders Internship Program - Project Analysis | Miami, FL | 1d ago | Entry-Level | Frontend Development | [Apply](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Future-Builders-Internship-Program---Project-Analysis_R25_0000004801) |
 | 🏢 **Kimley-Horn** | Software Engineer Intern | Norcross, GA | 23h ago | Entry-Level | Software Engineering | [Apply](https://careers-kimley-horn.icims.com/jobs/20824/job?mobile=true&needsRedirect=false) |
 | 🏢 **Mercer Advisors** | Data Intern - Technology | Remote in USA, Locations | 23h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/merceradvisors/jobs/4985987008) |
@@ -316,12 +316,12 @@
 | 🏢 **Match Group** | Machine Learning Engineer Intern | Palo Alto, CA | 7h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/matchgroup/ce55175b-fdd1-40ca-9407-7cc5e1533982/apply) |
 | 🏢 **Match Group** | Android Engineer Intern | Palo Alto, CA | 7h ago | Entry-Level | Mobile Development | [Apply](https://jobs.lever.co/matchgroup/84135a99-e009-4764-8e88-f0dba164d097/apply) |
 | 🏢 **Match Group** | iOS Engineer Intern | LA, Locations | 7h ago | Entry-Level | Mobile Development | [Apply](https://jobs.lever.co/matchgroup/178e6f99-ddbb-43e1-9e4c-fe2b524e0861/apply) |
-| 🏢 **Zscaler** | People Analytics Intern | San Jose, CA | 7h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/4989490007) |
-| 🏢 **Zscaler** | Product Manager - Zscaler Internet Acess | San Jose, CA | 7h ago | Entry-Level | Product Management | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/4989118007) |
+| 🏢 **Zscaler** | People Analytics Intern | San Jose, CA | 8h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/4989490007) |
+| 🏢 **Zscaler** | Product Manager - Zscaler Internet Acess | San Jose, CA | 8h ago | Entry-Level | Product Management | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/4989118007) |
 | 🏢 **Micron Technology** | Registered Apprentice - Equipment Technician | Boise, ID | 7h ago | Entry-Level | Frontend Development | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Registered-Apprentice---Equipment-Technician_JR86429) |
 | 🏢 **Upstart** | Machine Learning Engineer Intern | Remote in USA, Locations | 7h ago | Entry-Level | Machine Learning & AI | [Apply](https://careers.upstart.com/jobs?gh_jid=7409227) |
 | 🏢 **Chubb** | Enrollment Data Analyst Intern | Chicago, IL | 6h ago | Entry-Level | Data Science & Analytics | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/27853) |
-| 🏢 **Bose** | Data Platform Co-op | Framingham, MA | 6h ago | Entry-Level | DevOps & Infrastructure | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DevOps-and-Infrastructure-Co-op_R28323) |
+| 🏢 **Bose** | Data Platform Co-op | Framingham, MA | 7h ago | Entry-Level | DevOps & Infrastructure | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DevOps-and-Infrastructure-Co-op_R28323) |
 | 🏢 **FactSet** | Product Development Intern | Austin, TX | 7h ago | Entry-Level | Software Engineering | [Apply](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/New-York-NY-USA/Product-Development-Intern---Americas--Summer-2026--_R30436) |
 | 🏢 **Hewlett Packard (HP)** | Data Analysis - Cybersecurity Intern | Spring, TX | 7h ago | Entry-Level | Security Engineering | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Data-Analysis---Cybersecurity-Intern_UNI3409-1) |
 | 🏢 **CVS Health** | Data Engineering Graduate Internship - Summer 2026 | Needham, MA | 6h ago | Entry-Level | Data Science & Analytics | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Engineering-Graduate-Internship---Summer-2026_R0752479) |
