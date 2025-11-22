@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-202-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-197-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 155 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 150 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 155
+- **🔥 Current Positions**: 150
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 22, 2025
@@ -156,16 +156,15 @@
 | 🏢 **JP Morgan Chase** | Machine Learning Engineer - Asset Wealth Management | NYC, Locations | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210687370) |
 | 🏢 **M&T Bank** | 2026 Corporate Summer Internship Program - Marketing Domain Analytics | Baltimore, MD | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://mtb.wd5.myworkdayjobs.com/Campus/job/Baltimore-MD/XMLNAME-2026-Corporate-Summer-Internship-Program---Marketing-Domain-Analytics_R80758) |
 
-### 🛡️ **Defense & Aerospace** (4 positions)
+### 🛡️ **Defense & Aerospace** (3 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🚀 **SpaceX** | Engineering Intern/Co-op | Bastrop, TX | 1d ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/spacex/jobs/8149123002) |
-| 🏢 **The Boeing Company** | Assembly Mechanic Apprenticeship-Electrical | Hazelwood, MO | 1d ago | Entry-Level | Software Engineering | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Florissant-MO/Assembly-Mechanic-Apprenticeship-Electrical_JR2025460173) |
 | 🏢 **Radiance Technologies** | R&D Software Engineer/Computer Scientist Intern | Huntsville, AL | 13h ago | Entry-Level | Software Engineering | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/R-D-Software-Engineer-Computer-Scientist-Intern_HR101899) |
 | 🏢 **Moog** | Intern, Software Engineering | Torrance, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Intern--Software-Engineering_R-25-14912) |
 
-### 🏢 **Other Companies** (130 positions)
+### 🏢 **Other Companies** (126 positions)
 
 #### 🏢 **Cisco** (14 positions)
 
@@ -192,27 +191,25 @@
 | 🏢 **Truveta** | ML PhD Intern - LLMs & Generative AI | Seattle, WA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/truveta/jobs/5712997004) |
 | 🏢 **OCC** | Year-Round Intern - Quantitative Risk Management | Chicago, IL | 1d ago | Entry-Level | Software Engineering | [Apply](https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---Quantitative-Risk-Management_REQ-4483-1) |
 | 🏢 **Microchip Technology** | Intern (Data Analyst) | Gresham, OR | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://microchiphr.wd5.myworkdayjobs.com/en-US/external/job/OR---Gresham/Intern--Data-Analyst-_R2302-25) |
-| 🏢 **Microchip Technology** | Intern Data Analyst | Fairview, OR | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern--Data-Analyst-_R2302-25) |
 | 🏢 **Skydio** | Wireless Software Engineer Intern | San Mateo, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://www.skydio.com/jobs/7494672003?gh_jid=7494672003) |
 | 🏢 **Motorola** | Android Platform Software Engineering Intern | Plantation, FL | 1d ago | Entry-Level | Mobile Development | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2026_R56709) |
 | 🏢 **Motorola** | Android Platform Software Engineer Intern | Plantation, FL | 1d ago | Entry-Level | Mobile Development | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2026_R56709) |
 | 🏢 **Mechanize** | Software Engineering Intern | San Francisco, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e) |
 | 🏢 **KBR** | Software Application Developer Intern for GOES-R Series Satellites | Silver Spring, MD | 1d ago | Entry-Level | Software Engineering | [Apply](https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Silver-Spring-Maryland/Software-Application-Developer-Intern-for-GOES-R-Series-Satellites_R2115543) |
-| 🏢 **KBR** | Reverse Engineer Intern | Beavercreek, OH | 12h ago | Entry-Level | Software Engineering | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Reverse-Engineer-Intern_R2115286) |
-| 🏢 **KBR** | Reverse Engineer Intern | Beavercreek, OH | 12h ago | Entry-Level | Software Engineering | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Reverse-Engineer-Intern_R2115374) |
+| 🏢 **KBR** | Reverse Engineer Intern | Beavercreek, OH | 13h ago | Entry-Level | Software Engineering | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Reverse-Engineer-Intern_R2115286) |
+| 🏢 **KBR** | Reverse Engineer Intern | Beavercreek, OH | 13h ago | Entry-Level | Software Engineering | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Reverse-Engineer-Intern_R2115374) |
 | 🏢 **General Dynamics Mission Systems** | Intern Software Engineer | Scottsdale, AZ | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/68290/intern-software-engineer/job) |
 | 🏢 **General Dynamics Mission Systems** | Software Intern Engineer - Tactical Radios | Scottsdale, AZ | 1d ago | Entry-Level | Mobile Development | [Apply](https://careers-gdms.icims.com/jobs/68798/software-intern-engineer---tactical-radios/job) |
 | 🏢 **General Dynamics Mission Systems** | Software Engineer Intern | Orlando, FL | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/68290/job?mobile=true&needsRedirect=false) |
 | 🏢 **General Dynamics Mission Systems** | Engineering Intern | Annapolis Junction, MD | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69167/job?mobile=true&needsRedirect=false) |
 | 🏢 **General Dynamics Mission Systems** | Engineer Intern | Scottsdale, AZ | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69360/job?mobile=true&needsRedirect=false) |
-| 🏢 **General Dynamics Mission Systems** | Software Engineer | Bridgewater, MA | 13h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69052/job?mobile=true&needsRedirect=false) |
+| 🏢 **General Dynamics Mission Systems** | Software Engineer | Bridgewater, MA | 14h ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69052/job?mobile=true&needsRedirect=false) |
 | 🏢 **DocuSign** | Site Reliability Software Engineer Intern | Seattle, WA | 1d ago | Entry-Level | Software Engineering | [Apply](https://uscareers-docusign.icims.com/jobs/28219/site-reliability-software-engineer-intern/job) |
 | 🏢 **NBCUniversal** | Data Science & Analytics Internships - Summer 2026 | NYC, Locations | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000092795436) |
 | 🏢 **KLA** | KLAS Intern | Ann Arbor, MI | 1d ago | Entry-Level | Software Engineering | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/KLAS-Summer-Intern_2532577-1) |
 | 🏢 **KLA** | Advanced Algorithm Intern | Boston, MA | 1d ago | Entry-Level | Software Engineering | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Advanced-Algorithm-Intern_2532229) |
 | 🏢 **Lightmatter** | API and Database | Boston, MA | 1d ago | Entry-Level | Backend Development | [Apply](https://boards.greenhouse.io/lightmatter/jobs/4988938008) |
 | 🟢 **Waymo** | Intern - ML Training Infra and Efficiency | Mountain View, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://careers.withwaymo.com/jobs?gh_jid=7395734) |
-| 🏢 **LexisNexis Risk Solutions** | Product Management Intern-Government | Alpharetta, GA | 1d ago | Entry-Level | Software Engineering | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Product-Management-Intern--Government_R105114) |
 | 🏢 **NinjaTrader** | Software Engineer Intern - Fcm - Summer 2026 | Chicago, IL | 1d ago | Entry-Level | Software Engineering | [Apply](https://ninjatrader.com/careers/internships/?gh_jid=4613356006) |
 | 🏢 **NinjaTrader** | Web Engineer Intern | Chicago, IL | 1d ago | Entry-Level | Software Engineering | [Apply](https://ninjatrader.com/careers/internships/?gh_jid=4613355006) |
 | 🏢 **NinjaTrader** | Machine Learning Intern | Chicago, IL | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://ninjatrader.com/careers/internships/?gh_jid=4617723006) |
@@ -239,7 +236,6 @@
 | 🏢 **Mohawk** | Data Analytics Intern - Summer 2025 | Georgia, Locations | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://careers.mohawkind.com/job/Data-Analytics-Intern-Summer-2025-Geor/1342061900/?ats=successfactors) |
 | 🏢 **David Yurman** | Planning Analytics Intern | NYC, Locations | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Planning-Analytics-Intern_R-100668) |
 | 🏢 **Astranis** | Environmental Test Intern | SF, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4583848006) |
-| 🏢 **The Aerospace Corporation** | Software Tools and Assurance Grad Intern | El Segundo, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Software-Tools-and-Assurance-Grad-Intern_R013993) |
 | 🏢 **Tenstorrent** | Intern – Scaleout Software - Distributed Systems & Infrastructure | Santa Clara, CA | 1d ago | Entry-Level | DevOps & Infrastructure | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4976514007) |
 | 🏢 **Corning** | Software Engineer Intern | Webster, NY | 1d ago | Entry-Level | Software Engineering | [Apply](https://corningjobs.corning.com/job/Fairport-Software-Engineering-Intern-Summer-2026-NY-14450/1344128900/?ats=successfactors) |
 | 🏢 **State Street** | State Street Product Management Team - Business Analyst Intern | Boston, MA | 1d ago | Entry-Level | Software Engineering | [Apply](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Product-Management-Team---Business-Analyst-Internship---Summer-2026_R-780121) |
@@ -253,7 +249,7 @@
 | 🏢 **Keysight Technologies** | Product Management Intern | Santa Rosa, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.keysight.com/jobs/50926?lang=en-us&icims=1) |
 | 🏢 **Rubrik** | Software Engineering Intern | Palo Alto, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://www.rubrik.com/company/careers/departments/job.7065744?gh_jid=7065744) |
 | 🏢 **Intuitive Surgical** | AI Research Intern | Sunnyvale, CA | 1d ago | Entry-Level | Frontend Development | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000094742485) |
-| 🏢 **Intuitive Surgical** | AI Research Intern | Sunnyvale, CA | 19h ago | Entry-Level | Frontend Development | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000094876248) |
+| 🏢 **Intuitive Surgical** | AI Research Intern | Sunnyvale, CA | 20h ago | Entry-Level | Frontend Development | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000094876248) |
 | 🏢 **Field AI** | Field Application Engineer - Intern | Houston, TX | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/field-ai/53c70577-39c3-42e0-a7d6-e608a82fdc28/apply) |
 | 🏢 **Kimley-Horn** | Software Engineer Intern | Norcross, GA | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-kimley-horn.icims.com/jobs/20824/job?mobile=true&needsRedirect=false) |
 | 🏢 **Mercer Advisors** | Data Intern - Technology | Remote in USA, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/merceradvisors/jobs/4985987008) |
@@ -261,30 +257,29 @@
 | 🏢 **Fulton Bank** | Intern – Commercial Strategy & Product | Lancaster, PA | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-fult.icims.com/jobs/22891/job?mobile=true&needsRedirect=false) |
 | 🏢 **Seagate Technology ** | Advanced Data Storage Material Discovery | Bloomington, MN | 1d ago | Entry-Level | Software Engineering | [Apply](https://seagatecareers.com/job/Bloomington-Advanced-Data-Storage-Material-Discovery-Intern-MN/1344689500/?ats=successfactors) |
 | 🏢 **Seagate Technology ** | Intern – Advanced Signal Processing and Embedded Engineer | Shakopee, MN | 1d ago | Entry-Level | Software Engineering | [Apply](https://seagatecareers.com/job/Shakopee-Intern-Advanced-Signal-Processing-and-Embedded-Engineer-MN/1344464700/?ats=successfactors) |
-| 🏢 **Trimble** | Software Engineer Intern | Dayton, OH | 1d ago | Entry-Level | Software Engineering | [Apply](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/Software-Engineering-Intern_R53099) |
 | 🏢 **Intuit** | Product Manager Intern | Mountain View, CA | 1d ago | Entry-Level | Frontend Development | [Apply](https://jobs.intuit.com/job/mountain-view/summer-2026-product-manager-intern/27595/88653400736) |
 | 🏢 **Enveda Biosciences** | Data Science Intern | Boulder, CO | 1d ago | Entry-Level | Mobile Development | [Apply](https://jobs.lever.co/envedabio/f1c510ba-349c-45fc-97a2-bd379954243b/apply) |
 | 🏢 **Dominion Energy** | Intern – System Operations Center Engineering | Richmond, VA | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers.dominionenergy.com/job/RICHMOND-Intern-System-Operations-Center-Engineering-VA-23227/1344464000/?ats=successfactors) |
-| 🏢 **Root Access** | Machine Learning Engineer Intern | New York City, NY | 20h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/root-access/6a3f17bd-6690-4c3d-865b-f1093ae500fa) |
-| 🏢 **Root Access** | Firmware Engineer Intern | New York City, NY | 20h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/46f71ad0-5072-47c5-97fb-6ddc5098d564) |
-| 🏢 **Root Access** | Software Engineer Intern | New York City, NY | 20h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/6f004058-c03f-43d6-b2e9-fa37e6844e68) |
-| 🏢 **Root Access** | Software Engineer Intern | NYC, Locations | 13h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/6f004058-c03f-43d6-b2e9-fa37e6844e68/application) |
-| 🏢 **Root Access** | Firmware Engineer | NYC, Locations | 13h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/46f71ad0-5072-47c5-97fb-6ddc5098d564/application) |
-| 🏢 **Advantmed** | AI Automation Intern | Remote in USA, Locations | 20h ago | Entry-Level | Machine Learning & AI | [Apply](https://apply.workable.com/advantmed/j/45F5E3C394/) |
-| 🏢 **The Walt Disney Company** | Software Engineering Intern | Lake Buena Vista, FL | 20h ago | Entry-Level | Software Engineering | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Software-Engineering-Intern--Summer-2026-_10135955) |
-| 🏢 **Walmart** | 2026 Summer Intern: Software Engineering II (Bentonville) | Bentonville, AR | 20h ago | Entry-Level | Software Engineering | [Apply](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME-2026-Summer-Intern--Software-Engineering-II--Bentonville-_R-2354856) |
-| 🏢 **Western Governors University** | Software Engineer Internship (10-15 hrs/week) | Nashville, TN | 20h ago | Entry-Level | Software Engineering | [Apply](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Nashville-Office/Software-Engineer-Internship--10-15-hrs-week-_JR-023680) |
+| 🏢 **Root Access** | Machine Learning Engineer Intern | New York City, NY | 21h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/root-access/6a3f17bd-6690-4c3d-865b-f1093ae500fa) |
+| 🏢 **Root Access** | Firmware Engineer Intern | New York City, NY | 21h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/46f71ad0-5072-47c5-97fb-6ddc5098d564) |
+| 🏢 **Root Access** | Software Engineer Intern | New York City, NY | 21h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/6f004058-c03f-43d6-b2e9-fa37e6844e68) |
+| 🏢 **Root Access** | Software Engineer Intern | NYC, Locations | 14h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/6f004058-c03f-43d6-b2e9-fa37e6844e68/application) |
+| 🏢 **Root Access** | Firmware Engineer | NYC, Locations | 14h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/46f71ad0-5072-47c5-97fb-6ddc5098d564/application) |
+| 🏢 **Advantmed** | AI Automation Intern | Remote in USA, Locations | 21h ago | Entry-Level | Machine Learning & AI | [Apply](https://apply.workable.com/advantmed/j/45F5E3C394/) |
+| 🏢 **The Walt Disney Company** | Software Engineering Intern | Lake Buena Vista, FL | 21h ago | Entry-Level | Software Engineering | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Software-Engineering-Intern--Summer-2026-_10135955) |
+| 🏢 **Walmart** | 2026 Summer Intern: Software Engineering II (Bentonville) | Bentonville, AR | 21h ago | Entry-Level | Software Engineering | [Apply](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME-2026-Summer-Intern--Software-Engineering-II--Bentonville-_R-2354856) |
+| 🏢 **Western Governors University** | Software Engineer Internship (10-15 hrs/week) | Nashville, TN | 21h ago | Entry-Level | Software Engineering | [Apply](https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Nashville-Office/Software-Engineer-Internship--10-15-hrs-week-_JR-023680) |
 | 🏢 **Visa** | Systems Engineer Intern | Austin, TX | 19h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/Visa/744000094856846) |
-| 🏢 **Visa** | Software Engineer - Intern - Summer 2026 Ashburn - VA | Ashburn, VA | 17h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/Visa/744000094853665) |
-| 🏢 **Visa** | Software Engineer – Intern - Summer 2026 - Foster City | San Mateo, CA | 17h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/Visa/744000094848481) |
+| 🏢 **Visa** | Software Engineer - Intern - Summer 2026 Ashburn - VA | Ashburn, VA | 18h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/Visa/744000094853665) |
+| 🏢 **Visa** | Software Engineer – Intern - Summer 2026 - Foster City | San Mateo, CA | 18h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/Visa/744000094848481) |
 | 🏢 **Stevens Capital Management** | Quantitative Research Analyst Intern | Villanova, PA | 13h ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/ftandinternships/jobs/1304473) |
 | 🏢 **Stevens Capital Management** | Developer Internship | Villanova, PA | 13h ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/ftandinternships/jobs/1304476) |
 | 🏢 **Stevens Capital Management** | Quantitative Research Analyst Internship | Villanova, PA | 13h ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/scminternships/jobs/1146416) |
 | 🏢 **Stevens Capital Management** | Developer Intern | Villanova, PA | 13h ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/scminternships/jobs/1146391) |
 | 🏢 **Bandwidth** | Fraud Data Analyst | Raleigh, NC | 13h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/7408355) |
-| 🏢 **Findhelp, A Public Benefit Corporation** | Software Engineer Summer Intern | Austin, TX | 13h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/findhelp/651c32a0-195e-4db7-9ad7-cccbd58f8975/apply) |
-| 🏢 **Geico** | TDP Software and a.1. Internship | Palo Alto, CA | 12h ago | Entry-Level | Software Engineering | [Apply](https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/TDP-Software-and-AI-Internship_R0061377) |
-| 🏢 **National Renewable Energy Laboratory** | Graduate Intern - Machine Learning - Solar Forecasting | Golden, CO | 12h ago | Entry-Level | Machine Learning & AI | [Apply](https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Graduate-Intern---Machine-Learning---Solar-Forecasting_R14002) |
+| 🏢 **Findhelp, A Public Benefit Corporation** | Software Engineer Summer Intern | Austin, TX | 14h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/findhelp/651c32a0-195e-4db7-9ad7-cccbd58f8975/apply) |
+| 🏢 **Geico** | TDP Software and a.1. Internship | Palo Alto, CA | 13h ago | Entry-Level | Software Engineering | [Apply](https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/TDP-Software-and-AI-Internship_R0061377) |
+| 🏢 **National Renewable Energy Laboratory** | Graduate Intern - Machine Learning - Solar Forecasting | Golden, CO | 13h ago | Entry-Level | Machine Learning & AI | [Apply](https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Graduate-Intern---Machine-Learning---Solar-Forecasting_R14002) |
 | 🏢 **Match Group** | Product Intern | LA, Locations | 13h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/matchgroup/fbeb8960-0eaf-4d55-a97b-fe72814cb53f/apply) |
 | 🏢 **Match Group** | Data Scientist | LA, Locations | 13h ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/matchgroup/596091e0-9d8e-4a3a-92a6-5699386b833e/apply) |
 | 🏢 **Match Group** | Backend Engineer | Palo Alto, CA | 13h ago | Entry-Level | Backend Development | [Apply](https://jobs.lever.co/matchgroup/724734f1-b60b-49ae-8905-8663de76ad7a/apply) |
@@ -293,16 +288,16 @@
 | 🏢 **Match Group** | iOS Engineer Intern | LA, Locations | 13h ago | Entry-Level | Mobile Development | [Apply](https://jobs.lever.co/matchgroup/178e6f99-ddbb-43e1-9e4c-fe2b524e0861/apply) |
 | 🏢 **Zscaler** | People Analytics Intern | San Jose, CA | 13h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/4989490007) |
 | 🏢 **Zscaler** | Product Manager - Zscaler Internet Acess | San Jose, CA | 13h ago | Entry-Level | Product Management | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/4989118007) |
-| 🏢 **Upstart** | Machine Learning Engineer Intern | Remote in USA, Locations | 12h ago | Entry-Level | Machine Learning & AI | [Apply](https://careers.upstart.com/jobs?gh_jid=7409227) |
+| 🏢 **Upstart** | Machine Learning Engineer Intern | Remote in USA, Locations | 13h ago | Entry-Level | Machine Learning & AI | [Apply](https://careers.upstart.com/jobs?gh_jid=7409227) |
 | 🏢 **Chubb** | Enrollment Data Analyst Intern | Chicago, IL | 12h ago | Entry-Level | Data Science & Analytics | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/27853) |
 | 🏢 **Moog ** | Intern Hardware Design Engineer | Aledo, TX | 12h ago | Entry-Level | Design | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Design-Engineering_R-25-13918) |
 | 🏢 **Moog ** | Intern – Systems Engineering | Buffalo, NY | 12h ago | Entry-Level | Software Engineering | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Systems-Engineering_R-25-15182) |
 | 🏢 **Bose** | Data Platform Co-op | Framingham, MA | 12h ago | Entry-Level | DevOps & Infrastructure | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DevOps-and-Infrastructure-Co-op_R28323) |
 | 🏢 **FactSet** | Product Development Intern | Austin, TX | 12h ago | Entry-Level | Software Engineering | [Apply](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/New-York-NY-USA/Product-Development-Intern---Americas--Summer-2026--_R30436) |
-| 🏢 **CVS Health** | Software Engineering Graduate Internship - Summer 2026 | Needham, MA | 11h ago | Entry-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Software-Engineering-Graduate-Internship---Summer-2026_R0752527) |
-| 🏢 **CVS Health** | Innotech AI Critical Skills Internship - Undergraduate - Summer 2026 | Northbrook, IL | 11h ago | Entry-Level | Machine Learning & AI | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-AI-Critical-Skills-Internship--Undergraduate----Summer-2026_R0780242-1) |
-| 🏢 **CVS Health** | Innotech Engineering Internship - Undergraduate - Summer 2026 | Northbrook, IL | 11h ago | Entry-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-Engineering-Internship--Undergraduate----Summer-2026_R0780249) |
-| 🏢 **CVS Health** | Data Engineering Undergraduate Internship - Summer 2026 | Needham, MA | 11h ago | Entry-Level | Data Science & Analytics | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Engineering-Undergraduate-Internship---Summer-2026_R0752602) |
+| 🏢 **CVS Health** | Software Engineering Graduate Internship - Summer 2026 | Needham, MA | 12h ago | Entry-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Software-Engineering-Graduate-Internship---Summer-2026_R0752527) |
+| 🏢 **CVS Health** | Innotech AI Critical Skills Internship - Undergraduate - Summer 2026 | Northbrook, IL | 12h ago | Entry-Level | Machine Learning & AI | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-AI-Critical-Skills-Internship--Undergraduate----Summer-2026_R0780242-1) |
+| 🏢 **CVS Health** | Innotech Engineering Internship - Undergraduate - Summer 2026 | Northbrook, IL | 12h ago | Entry-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-Engineering-Internship--Undergraduate----Summer-2026_R0780249) |
+| 🏢 **CVS Health** | Data Engineering Undergraduate Internship - Summer 2026 | Needham, MA | 12h ago | Entry-Level | Data Science & Analytics | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Engineering-Undergraduate-Internship---Summer-2026_R0752602) |
 | 🏢 **Conagra Brands** | Automation Internship - Summer 2026 | Omaha, NE | 12h ago | Entry-Level | Software Engineering | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Automation-Internship---Summer-2026_Req-034675) |
 
 
@@ -334,7 +329,7 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 155 | 100% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 150 | 100% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
@@ -353,14 +348,14 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (94 positions)
+#### 💻 Software Engineering (90 positions)
 🏢 Veolia • 🏢 OCC • 🏢 Skydio
 
 #### 🧠 Machine Learning & AI (20 positions)
 🏢 Truveta • 🏢 Waymo • 🏢 Flagship Pioneering
 
-#### 📊 Data Science & Analytics (16 positions)
-🏢 Microchip Technology • 🏢 NBCUniversal
+#### 📊 Data Science & Analytics (15 positions)
+🏢 Microchip Technology • 🏢 NBCUniversal • 🏢 Metropolitan Transportation Authority
 
 #### ⚙️ Backend Development (8 positions)
 🏢 Lightmatter • 🏢 Robert Bosch Venture Capital • 🏢 Genies
@@ -384,7 +379,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 155 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 150 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -473,7 +468,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 155 current opportunities from 261 companies**
+**🎯 150 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
