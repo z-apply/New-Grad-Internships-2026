@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-126-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-115-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 79 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 68 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 79
+- **🔥 Current Positions**: 68
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 22, 2025
@@ -115,12 +115,6 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **FAANG+** (1 positions)
-
-| Company | Role | Location | Posted | Level | Category | Apply |
-|---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Tencent** | Hunyuan AIGC Algorithm Researcher Intern - World Model Foundation Direction | Palo Alto, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-AIGC-Algorithm-Researcher-intern--World-Model-Foundation-Direction-_R106508) |
-
 ### 🏢 **Top Tech** (4 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
@@ -130,18 +124,12 @@
 | 🔴 **Oracle** | Java Software Engineer Intern - Oracle Health & Analytics | Seattle, WA | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/316177) |
 | 🔴 **Oracle** | OCI Software Engineer Intern - Ovip | Seattle, WA | 1d ago | Entry-Level | Software Engineering | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/316198) |
 
-### 🛒 **Consumer & E-Commerce** (10 positions)
+### 🛒 **Consumer & E-Commerce** (4 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Rivian** | Software Engineering – Summer 2026 Internships | Palo Alto, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers.rivian.com/jobs/27352?lang=en-us&icims=1) |
-| 🏢 **Rivian** | Controls – Intern - Automation & Embedded Software | Palo Alto, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers.rivian.com/jobs/27353?lang=en-us&icims=1) |
-| 🏢 **Rivian** | Artificial Intelligence – Summer 2026 Internships - Machine Learning & Data Science | Palo Alto, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://careers.rivian.com/jobs/27354?lang=en-us&icims=1) |
-| 🏢 **Rivian** | Electrical Hardware Intern | Palo Alto, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers.rivian.com/jobs/27717?lang=en-us&icims=1) |
 | 🏢 **Rivian** | Technical Program Management Intern | Palo Alto, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers.rivian.com/jobs/27879?lang=en-us&icims=1) |
 | 🏢 **Rivian** | Technical Product Management – MBA Intern | Palo Alto, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers.rivian.com/jobs/27871?lang=en-us&icims=1) |
-| ⚔️ **Riot Games** | Game Producer Intern - Summer 2026 | LA, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/riotgamesup/jobs/7306489) |
-| ⚔️ **Riot Games** | Research Scientist Intern - Game AI | LA, Locations | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/riotgamesup/jobs/7306505) |
 | ⚔️ **Riot Games** | Insights Analyst Intern - Teamfight Tactics - Summer 2026 | LA, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/riotgamesup/jobs/7306495) |
 | 🏢 **Chewy** | AI Research Scientist Intern | Burlington, MA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://boards.greenhouse.io/embed/job_app?token=7403107) |
 
@@ -155,19 +143,15 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Radiance Technologies** | R&D Software Engineer/Computer Scientist Intern | Huntsville, AL | 19h ago | Entry-Level | Software Engineering | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/R-D-Software-Engineer-Computer-Scientist-Intern_HR101899) |
+| 🏢 **Radiance Technologies** | R&D Software Engineer/Computer Scientist Intern | Huntsville, AL | 20h ago | Entry-Level | Software Engineering | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/R-D-Software-Engineer-Computer-Scientist-Intern_HR101899) |
 
-### 🏢 **Other Companies** (62 positions)
+### 🏢 **Other Companies** (58 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Robert Bosch Venture Capital** | Engineering Technician Intern | Plymouth, MI | 1d ago | Entry-Level | Backend Development | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000094694586) |
-| 🏢 **CesiumAstro** | Spring 2026 – Test Engineering Internship | Westminster, CO | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/CesiumAstro/c08c7f34-e3c4-44bf-8ffa-c910ffbbadf9/apply) |
-| 🏢 **Kodak** | Marketing Analytics Intern | Remote in USA, Locations | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://careers.kodak.com/job/USA-Marketing-Analytics-Intern-CA/1344032100/?ats=successfactors) |
 | 🏢 **Sixfold** | Summer 2026 PhD Internship - Applied AI | NYC, Locations | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://job-boards.greenhouse.io/sixfold/jobs/4993090008) |
 | 🏢 **Genies** | Backend Engineer - LLM | SF, Locations | 1d ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/genies/jobs/7534272003) |
-| 🏢 **DTCC** | Product Owner Intern – 2026 Internship Program | Tampa, FL | 1d ago | Entry-Level | Product Management | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/212107) |
-| 🏢 **Rubrik** | Software Engineering Intern | Palo Alto, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://www.rubrik.com/company/careers/departments/job.7065744?gh_jid=7065744) |
 | 🏢 **Intuitive Surgical** | AI Research Intern | Sunnyvale, CA | 1d ago | Entry-Level | Frontend Development | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000094742485) |
 | 🏢 **Cisco** | AI Product Management Engineer 2 - Intern | San Jose, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://careers.cisco.com/global/en/job/2000470) |
 | 🏢 **Cisco** | AI Research Scientist PhD – Intern - United States | San Jose, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://careers.cisco.com/global/en/job/2000473) |
@@ -188,8 +172,8 @@
 | 🏢 **Root Access** | Machine Learning Engineer Intern | New York City, NY | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/root-access/6a3f17bd-6690-4c3d-865b-f1093ae500fa) |
 | 🏢 **Root Access** | Firmware Engineer Intern | New York City, NY | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/46f71ad0-5072-47c5-97fb-6ddc5098d564) |
 | 🏢 **Root Access** | Software Engineer Intern | New York City, NY | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/6f004058-c03f-43d6-b2e9-fa37e6844e68) |
-| 🏢 **Root Access** | Software Engineer Intern | NYC, Locations | 20h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/6f004058-c03f-43d6-b2e9-fa37e6844e68/application) |
-| 🏢 **Root Access** | Firmware Engineer | NYC, Locations | 20h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/46f71ad0-5072-47c5-97fb-6ddc5098d564/application) |
+| 🏢 **Root Access** | Software Engineer Intern | NYC, Locations | 21h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/6f004058-c03f-43d6-b2e9-fa37e6844e68/application) |
+| 🏢 **Root Access** | Firmware Engineer | NYC, Locations | 21h ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/46f71ad0-5072-47c5-97fb-6ddc5098d564/application) |
 | 🏢 **Advantmed** | AI Automation Intern | Remote in USA, Locations | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://apply.workable.com/advantmed/j/45F5E3C394/) |
 | 🏢 **The Walt Disney Company** | Software Engineering Intern | Lake Buena Vista, FL | 1d ago | Entry-Level | Software Engineering | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Software-Engineering-Intern--Summer-2026-_10135955) |
 | 🏢 **Walmart** | 2026 Summer Intern: Software Engineering II (Bentonville) | Bentonville, AR | 1d ago | Entry-Level | Software Engineering | [Apply](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME-2026-Summer-Intern--Software-Engineering-II--Bentonville-_R-2354856) |
@@ -202,22 +186,22 @@
 | 🏢 **Stevens Capital Management** | Quantitative Research Analyst Internship | Villanova, PA | 20h ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/scminternships/jobs/1146416) |
 | 🏢 **Stevens Capital Management** | Developer Intern | Villanova, PA | 20h ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/scminternships/jobs/1146391) |
 | 🏢 **Bandwidth** | Fraud Data Analyst | Raleigh, NC | 20h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/7408355) |
-| 🏢 **Findhelp, A Public Benefit Corporation** | Software Engineer Summer Intern | Austin, TX | 20h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/findhelp/651c32a0-195e-4db7-9ad7-cccbd58f8975/apply) |
-| 🏢 **National Renewable Energy Laboratory** | Graduate Intern - Machine Learning - Solar Forecasting | Golden, CO | 19h ago | Entry-Level | Machine Learning & AI | [Apply](https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Graduate-Intern---Machine-Learning---Solar-Forecasting_R14002) |
-| 🏢 **Match Group** | Product Intern | LA, Locations | 19h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/matchgroup/fbeb8960-0eaf-4d55-a97b-fe72814cb53f/apply) |
-| 🏢 **Match Group** | Data Scientist | LA, Locations | 19h ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/matchgroup/596091e0-9d8e-4a3a-92a6-5699386b833e/apply) |
-| 🏢 **Match Group** | Backend Engineer | Palo Alto, CA | 19h ago | Entry-Level | Backend Development | [Apply](https://jobs.lever.co/matchgroup/724734f1-b60b-49ae-8905-8663de76ad7a/apply) |
-| 🏢 **Match Group** | Machine Learning Engineer Intern | Palo Alto, CA | 19h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/matchgroup/ce55175b-fdd1-40ca-9407-7cc5e1533982/apply) |
-| 🏢 **Match Group** | Android Engineer Intern | Palo Alto, CA | 19h ago | Entry-Level | Mobile Development | [Apply](https://jobs.lever.co/matchgroup/84135a99-e009-4764-8e88-f0dba164d097/apply) |
-| 🏢 **Match Group** | iOS Engineer Intern | LA, Locations | 19h ago | Entry-Level | Mobile Development | [Apply](https://jobs.lever.co/matchgroup/178e6f99-ddbb-43e1-9e4c-fe2b524e0861/apply) |
-| 🏢 **Zscaler** | People Analytics Intern | San Jose, CA | 19h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/4989490007) |
-| 🏢 **Zscaler** | Product Manager - Zscaler Internet Acess | San Jose, CA | 19h ago | Entry-Level | Product Management | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/4989118007) |
+| 🏢 **Findhelp, A Public Benefit Corporation** | Software Engineer Summer Intern | Austin, TX | 21h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/findhelp/651c32a0-195e-4db7-9ad7-cccbd58f8975/apply) |
+| 🏢 **National Renewable Energy Laboratory** | Graduate Intern - Machine Learning - Solar Forecasting | Golden, CO | 20h ago | Entry-Level | Machine Learning & AI | [Apply](https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Graduate-Intern---Machine-Learning---Solar-Forecasting_R14002) |
+| 🏢 **Match Group** | Product Intern | LA, Locations | 20h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/matchgroup/fbeb8960-0eaf-4d55-a97b-fe72814cb53f/apply) |
+| 🏢 **Match Group** | Data Scientist | LA, Locations | 20h ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/matchgroup/596091e0-9d8e-4a3a-92a6-5699386b833e/apply) |
+| 🏢 **Match Group** | Backend Engineer | Palo Alto, CA | 20h ago | Entry-Level | Backend Development | [Apply](https://jobs.lever.co/matchgroup/724734f1-b60b-49ae-8905-8663de76ad7a/apply) |
+| 🏢 **Match Group** | Machine Learning Engineer Intern | Palo Alto, CA | 20h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/matchgroup/ce55175b-fdd1-40ca-9407-7cc5e1533982/apply) |
+| 🏢 **Match Group** | Android Engineer Intern | Palo Alto, CA | 20h ago | Entry-Level | Mobile Development | [Apply](https://jobs.lever.co/matchgroup/84135a99-e009-4764-8e88-f0dba164d097/apply) |
+| 🏢 **Match Group** | iOS Engineer Intern | LA, Locations | 20h ago | Entry-Level | Mobile Development | [Apply](https://jobs.lever.co/matchgroup/178e6f99-ddbb-43e1-9e4c-fe2b524e0861/apply) |
+| 🏢 **Zscaler** | People Analytics Intern | San Jose, CA | 20h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/4989490007) |
+| 🏢 **Zscaler** | Product Manager - Zscaler Internet Acess | San Jose, CA | 20h ago | Entry-Level | Product Management | [Apply](https://job-boards.greenhouse.io/zscaler/jobs/4989118007) |
 | 🏢 **KBR** | Reverse Engineer Intern | Beavercreek, OH | 19h ago | Entry-Level | Software Engineering | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Reverse-Engineer-Intern_R2115286) |
 | 🏢 **KBR** | Reverse Engineer Intern | Beavercreek, OH | 19h ago | Entry-Level | Software Engineering | [Apply](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Reverse-Engineer-Intern_R2115374) |
 | 🏢 **Upstart** | Machine Learning Engineer Intern | Remote in USA, Locations | 19h ago | Entry-Level | Machine Learning & AI | [Apply](https://careers.upstart.com/jobs?gh_jid=7409227) |
-| 🏢 **Chubb** | Enrollment Data Analyst Intern | Chicago, IL | 18h ago | Entry-Level | Data Science & Analytics | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/27853) |
-| 🏢 **Moog ** | Intern Hardware Design Engineer | Aledo, TX | 18h ago | Entry-Level | Design | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Design-Engineering_R-25-13918) |
-| 🏢 **Moog ** | Intern – Systems Engineering | Buffalo, NY | 18h ago | Entry-Level | Software Engineering | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Systems-Engineering_R-25-15182) |
+| 🏢 **Chubb** | Enrollment Data Analyst Intern | Chicago, IL | 19h ago | Entry-Level | Data Science & Analytics | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/27853) |
+| 🏢 **Moog ** | Intern Hardware Design Engineer | Aledo, TX | 19h ago | Entry-Level | Design | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Design-Engineering_R-25-13918) |
+| 🏢 **Moog ** | Intern – Systems Engineering | Buffalo, NY | 19h ago | Entry-Level | Software Engineering | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Systems-Engineering_R-25-15182) |
 | 🏢 **Bose** | Data Platform Co-op | Framingham, MA | 19h ago | Entry-Level | DevOps & Infrastructure | [Apply](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DevOps-and-Infrastructure-Co-op_R28323) |
 | 🏢 **FactSet** | Product Development Intern | Austin, TX | 19h ago | Entry-Level | Software Engineering | [Apply](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/New-York-NY-USA/Product-Development-Intern---Americas--Summer-2026--_R30436) |
 | 🏢 **CVS Health** | Innotech Engineering Internship - Undergraduate - Summer 2026 | Northbrook, IL | 18h ago | Entry-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-Engineering-Internship--Undergraduate----Summer-2026_R0780249) |
@@ -253,45 +237,45 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 79 | 100% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 68 | 100% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
-- **Palo Alto, CA**: 11 positions
-- **LA, Locations**: 6 positions
-- **Remote in USA, Locations**: 4 positions
+- **Palo Alto, CA**: 5 positions
 - **NYC, Locations**: 4 positions
 - **San Jose, CA**: 4 positions
+- **LA, Locations**: 4 positions
 - **Villanova, PA**: 4 positions
 - **Nashville, TN**: 3 positions
+- **Remote in USA, Locations**: 3 positions
 - **New York City, NY**: 3 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (43 positions)
-⚔️ Riot Games • 🔴 Oracle • 🏢 Rivian
+#### 💻 Software Engineering (36 positions)
+🔴 Oracle
 
-#### 🧠 Machine Learning & AI (13 positions)
-⚔️ Riot Games • 🏢 Rivian • 🏢 Sixfold
+#### 🧠 Machine Learning & AI (11 positions)
+🏢 Sixfold • 🏢 JP Morgan Chase • 🏢 Cisco
 
 #### ⚙️ Backend Development (7 positions)
 🏢 Robert Bosch Venture Capital • 🏢 Genies • 🏢 Stevens Capital Management
 
-#### 📊 Data Science & Analytics (7 positions)
-🔴 Oracle • 🏢 Kodak • 🏢 Bandwidth
+#### 📊 Data Science & Analytics (6 positions)
+🔴 Oracle • 🏢 Bandwidth • 🏢 Zscaler
 
 #### 📱 Mobile Development (3 positions)
 🏢 Enveda Biosciences • 🏢 Match Group
 
-#### 📋 Product Management (2 positions)
-🏢 DTCC • 🏢 Zscaler
-
 #### 🎨 Frontend Development (2 positions)
 🏢 Intuitive Surgical • 🏢 Intuit
+
+#### 📋 Product Management (1 positions)
+🏢 Zscaler
 
 #### 🎨 Design (1 positions)
 🏢 Moog 
@@ -303,7 +287,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 79 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 68 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -392,7 +376,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 79 current opportunities from 261 companies**
+**🎯 68 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
