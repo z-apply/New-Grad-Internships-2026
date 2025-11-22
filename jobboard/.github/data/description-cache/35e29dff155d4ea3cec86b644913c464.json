@@ -1,0 +1,22 @@
+{
+  "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/R-D-Software-Engineer-Computer-Scientist-Intern_HR101899",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Radiance Technologies, a rapidly growing employee-owned company. is seeking an R&D Computer Engineer Intern to support various ongoing programs within the Microwave Technologies and System Development Operation.Radiance is looking for a self-starter with experience drawing from several computer science, mathematics, and software engineering technical skillsets to perform software development tasks in support of research topics including electronic, electromagnetic, and high-power microwave (HPM) systems.This is an exciting opportunity to work in an innovative setting while engaging in research and development in the area of high-power microwaves.Required SkillsPursuing Bachelor’s Degree in Computer Engineering, Software Engineering, Computer Science, Mathematics, or closely related discipline3.2 Minimum GPASelf-motivated and able to work well within a research and development teamProficiency in one of the following programming languages: Java, C, C++, PythonUS Citizenship with the ability to obtain a security clearanceDesired QualificationsExperience or education in using standard software engineering practices such as version control, CI/CD, and familiarity with Agile development processesExperience with various terminal environments and the applicable commands within a Unix-like operating systemKnowledge of the any of the following topic areas: expert systems, knowledge representation, machine learning, database theory, query languages, formal languages and grammars, abstract computing models, and algorithms developmentAbility and desire to quickly learn new domains for research projects that support the customer’s goalsExperience with standard electrical laboratory equipment such as oscilloscopes, function generators, multimeters, and power supplies EOE/Minorities/Females/Vet/Disabled",
+    "requirements": [
+      "Pursuing Bachelor’s Degree in Computer Engineering, Software Engineering, Computer Science, Mathematics, or closely related discipline"
+    ],
+    "responsibilities": [
+      "Self-motivated and able to work well within a research and development team",
+      "Experience or education in using standard software engineering practices such as version control, CI/CD, and familiarity with Agile development processes",
+      "Knowledge of the any of the following topic areas: expert systems, knowledge representation, machine learning, database theory, query languages, formal languages and grammars, abstract computing models, and algorithms development"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/R-D-Software-Engineer-Computer-Scientist-Intern_HR101899",
+      "fetchedAt": "2025-11-22T01:10:17.138Z"
+    }
+  },
+  "cachedAt": 1763773817138
+}

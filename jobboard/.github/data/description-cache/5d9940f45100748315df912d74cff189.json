@@ -1,0 +1,17 @@
+{
+  "url": "https://careers-kimley-horn.icims.com/jobs/20824/job?mobile=true&needsRedirect=false",
+  "data": {
+    "success": true,
+    "platform": "icims",
+    "description": "<h2>Overview</h2> <p>Kimley-Horn is looking for Software Engineering students to join our Peachtree Corners, Georgia (GA) office! This is not a remote position.&nbsp;</p> <h2>Responsibilities</h2> <ul> <li>Participate as a member of a project team on a variety of Smart City/Future City&nbsp;software&nbsp;products</li> <li>Interested in learning and growing an in-depth knowledge of both&nbsp;software&nbsp;and hardware platforms integrated with the traffic systems including: traffic signal controllers, dynamic message signs, switches, closed circuit television cameras, etc</li> <li>Apply and validation of bug fixes and enhancements to&nbsp;software&nbsp;solutions</li> <li>Collaborate with the team to understand the&nbsp;software&nbsp;requirements</li> <li>Identify and report any defects or bugs found during testing</li> </ul> <h2>Qualifications</h2> <ul> <li>In the process of obtaining an ABET accredited engineering degree (Bachelor or Masters) in these majors: <ul> <li>Software Engineering</li> <li>Computer Science</li> <li>Systems Engineering</li> <li>or related field of study Familiarity with relational databases such as MS SQL Server or Oracle</li> </ul></li> </ul> <p><strong>Desired Qualifications:</strong></p> <ul> <li>Knowledge of relational databases (Microsoft SQL Server, MySQL, etc)</li> <li>Knowledge of NoSQL databases (Redis,&nbsp;Hadoop, etc)</li> <li>Knowledge of desktop languages and technologies (C#, C++, Go, Web API, WPF, etc)</li> <li>Knowledge of web languages and technologies (Angular, REACT, Tailwinds, SignalR, etc)</li> <li>Knowledge of Cloud Infrastructure environments (Microsoft Azure, AWS, Google Cloud)</li> <li>Familiarity with&nbsp;software&nbsp;development IDEs (Visual Studio, VSCode, etc)</li> </ul> <p>Please provide a link to your portfolio or examples of your work and skills.</p> <h2>Why Kimley-Horn?</h2> <p>At Kimley-Horn, we do things differently. People, clients and employees, are at the forefront of who we are. Clients know we prioritize achieving their goals and growing their success. Employees know our culture and approach to business are built on a desire to provide an environment for everyone to flourish. Our commitment to quality is only as good as the people behind it— that’s why we welcome and develop passionate, hardworking, and proactive employees. We take pride in how our employee retention, robust benefits package, and company values have led to Kimley-Horn’s placement on the Fortune “100 Best Companies to Work” list for 18 years!</p>",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://careers-kimley-horn.icims.com/jobs/20824/job?mobile=true&needsRedirect=false",
+      "fetchedAt": "2025-11-21T08:48:07.239Z"
+    }
+  },
+  "cachedAt": 1763714887240
+}
