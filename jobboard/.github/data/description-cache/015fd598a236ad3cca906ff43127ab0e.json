@@ -1,0 +1,24 @@
+{
+  "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Reverse-Engineer-Intern_R2115374",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Title:Reverse Engineer InternProject OverviewAs a Reverse Engineer Intern, you will join a dynamic team focused on rapidly characterizing and exploiting low-equity commercial off-the-shelf (COTS) drones. The project centers on dissecting and understanding on-board communications hardware and protocols, supporting the development of electronic support capabilities crucial for modern battlefield network technologies. Your work will directly contribute to research and operational solutions for counter-unmanned aerial systems (CUAS) and autonomous drone activities.Key ResponsibilitiesIdentify the most common components among low-cost drone manufacturers.Characterize the standard architecture of loitering munitions, low-cost ISR drones, and light attack drones.Perform hardware reverse engineering to identify on-board components.Extract system binaries from drone communications devices.Analyze and characterize the communications protocols of on-board mesh communications devices.Develop communications protocol parsers for baseline electronic support capability.Rehost communications binaries in an emulated environment to validate parser functionality.Document findings and present results to technical and non-technical stakeholders.Collaborate with cross-functional teams and contribute to follow-on research and transition to operational use.Learning Outcomes & ImpactGain hands-on experience with hardware and protocol reverse engineering in a national security context.Develop and apply skills in embedded systems, protocol analysis, and vulnerability identification.Contribute to solutions that address rapidly growing customer needs for CUAS technology and battlefield communications security.Work with real-world COTS drones and, where available, higher-end mesh radios.Minimum QualificationsPursuing a Bachelor’s or Master’s degree in Computer Engineering, Electrical Engineering, Computer Science, or a related field.Familiarity with computer architecture, operating systems, and software development principles.Exposure to programming languages such as C/C++, Python, or assembly.Interest in hardware reverse engineering, embedded systems, or communications protocols.Ability to obtain and maintain a government security clearance.Preferred QualificationsExperience with reverse engineering tools (e.g., IDA Pro, Ghidra, Binary Ninja).Coursework or hands-on experience with embedded systems, firmware analysis, or network protocols.Familiarity with debugging tools and techniques.Demonstrated ability to learn new technologies quickly and adapt to a fast-paced environment.Belong, Connect and Grow at KBRAt KBR, we are passionate about our people and our Zero Harm culture. These inform all that we do and are at the heart of our commitment to, and ongoing journey toward being a People First company. That commitment is central to our team of team’s philosophy and fosters an environment where everyone can Belong, Connect and Grow. We Deliver – Together. KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.",
+    "requirements": [
+      "Pursuing a Bachelor’s or Master’s degree in Computer Engineering, Electrical Engineering, Computer Science, or a related field."
+    ],
+    "responsibilities": [
+      "Develop communications protocol parsers for baseline electronic support capability.",
+      "Collaborate with cross-functional teams and contribute to follow-on research and transition to operational use.",
+      "Develop and apply skills in embedded systems, protocol analysis, and vulnerability identification.",
+      "Familiarity with computer architecture, operating systems, and software development principles.",
+      "We Are a Team of Teams – We have a will to succeed, but we value the achievements of our team of teams over individual accomplishments. Our collective focus makes us a better, stronger, more effective company."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Reverse-Engineer-Intern_R2115374",
+      "fetchedAt": "2025-11-22T01:11:33.065Z"
+    }
+  },
+  "cachedAt": 1763773893065
+}
