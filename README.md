@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-86-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-83-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 39 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 36 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 39
+- **🔥 Current Positions**: 36
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 23, 2025
@@ -121,7 +121,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Radiance Technologies** | R&D Software Engineer/Computer Scientist Intern | Huntsville, AL | 1d ago | Entry-Level | Software Engineering | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/R-D-Software-Engineer-Computer-Scientist-Intern_HR101899) |
 
-### 🏢 **Other Companies** (38 positions)
+### 🏢 **Other Companies** (35 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -131,10 +131,6 @@
 | 🏢 **Stevens Capital Management** | Quantitative Research Analyst Internship | Villanova, PA | 1d ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/scminternships/jobs/1146416) |
 | 🏢 **Stevens Capital Management** | Developer Intern | Villanova, PA | 1d ago | Entry-Level | Backend Development | [Apply](https://job-boards.greenhouse.io/scminternships/jobs/1146391) |
 | 🏢 **Bandwidth** | Fraud Data Analyst | Raleigh, NC | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/7408355) |
-| 🏢 **Findhelp, A Public Benefit Corporation** | Software Engineer Summer Intern | Austin, TX | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/findhelp/651c32a0-195e-4db7-9ad7-cccbd58f8975/apply) |
-| 🏢 **Root Access** | Software Engineer Intern | NYC, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/6f004058-c03f-43d6-b2e9-fa37e6844e68/application) |
-| 🏢 **Root Access** | Firmware Engineer | NYC, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/46f71ad0-5072-47c5-97fb-6ddc5098d564/application) |
-| 🏢 **Root Access** | Machine Learning Engineer Intern | NYC, Locations | 14h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/root-access/6a3f17bd-6690-4c3d-865b-f1093ae500fa/application) |
 | 🏢 **National Renewable Energy Laboratory** | Graduate Intern - Machine Learning - Solar Forecasting | Golden, CO | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Graduate-Intern---Machine-Learning---Solar-Forecasting_R14002) |
 | 🏢 **Match Group** | Product Intern | LA, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/matchgroup/fbeb8960-0eaf-4d55-a97b-fe72814cb53f/apply) |
 | 🏢 **Match Group** | Data Scientist | LA, Locations | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/matchgroup/596091e0-9d8e-4a3a-92a6-5699386b833e/apply) |
@@ -159,10 +155,11 @@
 | 🏢 **CVS Health** | Innotech Engineering Internship - Undergraduate - Summer 2026 | Northbrook, IL | 1d ago | Entry-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-Engineering-Internship--Undergraduate----Summer-2026_R0780249) |
 | 🏢 **CVS Health** | Data Engineering Undergraduate Internship - Summer 2026 | Needham, MA | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Engineering-Undergraduate-Internship---Summer-2026_R0752602) |
 | 🏢 **CVS Health** | Innotech AI Critical Skills Intern – Graduate | Northbrook, IL | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-AI-Critical-Skills-Internship--Graduate----Summer-2026_R0780238) |
+| 🏢 **Root Access** | Machine Learning Engineer Intern | NYC, Locations | 15h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/root-access/6a3f17bd-6690-4c3d-865b-f1093ae500fa/application) |
 | 🏢 **Divergent Technologies** | Summer 2026 Data & Process Analytics Intern | Carson, CA | 13h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/divergent/jobs/4998473008) |
 | 🏢 **OpenSesame** | Software Engineering Intern | Remote in USA, Locations | 14h ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/opensesame/jobs/7417009) |
 | 🏢 **OpenSesame** | Product Intern | Remote in USA, Locations | 14h ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/opensesame/jobs/7417045) |
-| 🏢 **CLO Virtual Fashion** | R&D – Summer Intern - 2026 - US/EU | LA, Locations | 13h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/clovirtualfashion/4328102d-e972-4cce-b155-59e9d2a3a587/apply) |
+| 🏢 **CLO Virtual Fashion** | R&D – Summer Intern - 2026 - US/EU | LA, Locations | 14h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/clovirtualfashion/4328102d-e972-4cce-b155-59e9d2a3a587/apply) |
 
 
 
@@ -193,7 +190,7 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 39 | 100% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 36 | 100% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
@@ -202,18 +199,18 @@
 ## 🌍 Top Locations
 - **Villanova, PA**: 4 positions
 - **LA, Locations**: 4 positions
-- **NYC, Locations**: 3 positions
 - **Palo Alto, CA**: 3 positions
 - **Remote in USA, Locations**: 3 positions
 - **Northbrook, IL**: 3 positions
-- **Austin, TX**: 2 positions
 - **San Jose, CA**: 2 positions
+- **Beavercreek, OH**: 2 positions
+- **Needham, MA**: 2 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (14 positions)
-🏢 Findhelp, A Public Benefit Corporation • 🏢 Root Access
+#### 💻 Software Engineering (11 positions)
+🏢 Match Group • 🏢 Radiance Technologies • 🏢 KBR
 
 #### 📊 Data Science & Analytics (7 positions)
 🏢 Federal Home Loan Bank of Indianapolis • 🏢 Bandwidth • 🏢 Zscaler
@@ -246,7 +243,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 39 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 36 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -335,7 +332,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 39 current opportunities from 261 companies**
+**🎯 36 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
