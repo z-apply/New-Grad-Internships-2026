@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-90-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-87-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 43 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 40 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 43
+- **🔥 Current Positions**: 40
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 23, 2025
@@ -115,30 +115,22 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🛒 **Consumer & E-Commerce** (2 positions)
-
-| Company | Role | Location | Posted | Level | Category | Apply |
-|---------|------|----------|--------|-------|----------|-------|
-| ⚔️ **Riot Games** | Insights Analyst Intern - Teamfight Tactics - Summer 2026 | LA, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/riotgamesup/jobs/7306495) |
-| 🏢 **Chewy** | AI Research Scientist Intern | Burlington, MA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://boards.greenhouse.io/embed/job_app?token=7403107) |
-
 ### 🛡️ **Defense & Aerospace** (1 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Radiance Technologies** | R&D Software Engineer/Computer Scientist Intern | Huntsville, AL | 1d ago | Entry-Level | Software Engineering | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/R-D-Software-Engineer-Computer-Scientist-Intern_HR101899) |
 
-### 🏢 **Other Companies** (40 positions)
+### 🏢 **Other Companies** (39 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Vertiv** | Product Management Internship - Summer 2026 | Delaware, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256902) |
-| 🏢 **Dominion Energy** | Intern – System Operations Center Engineering | Richmond, VA | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers.dominionenergy.com/job/RICHMOND-Intern-System-Operations-Center-Engineering-VA-23227/1344464000/?ats=successfactors) |
 | 🏢 **Root Access** | Machine Learning Engineer Intern | New York City, NY | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/root-access/6a3f17bd-6690-4c3d-865b-f1093ae500fa) |
 | 🏢 **Root Access** | Firmware Engineer Intern | New York City, NY | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/46f71ad0-5072-47c5-97fb-6ddc5098d564) |
 | 🏢 **Root Access** | Software Engineer Intern | New York City, NY | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/6f004058-c03f-43d6-b2e9-fa37e6844e68) |
 | 🏢 **Root Access** | Software Engineer Intern | NYC, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/6f004058-c03f-43d6-b2e9-fa37e6844e68/application) |
 | 🏢 **Root Access** | Firmware Engineer | NYC, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/46f71ad0-5072-47c5-97fb-6ddc5098d564/application) |
+| 🏢 **Root Access** | Machine Learning Engineer Intern | NYC, Locations | 0h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/root-access/6a3f17bd-6690-4c3d-865b-f1093ae500fa/application) |
 | 🏢 **Advantmed** | AI Automation Intern | Remote in USA, Locations | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://apply.workable.com/advantmed/j/45F5E3C394/) |
 | 🏢 **The Walt Disney Company** | Software Engineering Intern | Lake Buena Vista, FL | 1d ago | Entry-Level | Software Engineering | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Software-Engineering-Intern--Summer-2026-_10135955) |
 | 🏢 **Walmart** | 2026 Summer Intern: Software Engineering II (Bentonville) | Bentonville, AR | 1d ago | Entry-Level | Software Engineering | [Apply](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME-2026-Summer-Intern--Software-Engineering-II--Bentonville-_R-2354856) |
@@ -202,30 +194,30 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 43 | 100% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 40 | 100% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
-- **LA, Locations**: 4 positions
 - **Villanova, PA**: 4 positions
 - **New York City, NY**: 3 positions
 - **Austin, TX**: 3 positions
+- **NYC, Locations**: 3 positions
+- **LA, Locations**: 3 positions
 - **Palo Alto, CA**: 3 positions
 - **Remote in USA, Locations**: 2 positions
-- **NYC, Locations**: 2 positions
 - **San Jose, CA**: 2 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (22 positions)
-⚔️ Riot Games • 🏢 Vertiv • 🏢 Dominion Energy
+#### 💻 Software Engineering (19 positions)
+🏢 Root Access • 🏢 The Walt Disney Company
 
 #### 🧠 Machine Learning & AI (6 positions)
-🏢 Chewy • 🏢 Root Access • 🏢 Advantmed
+🏢 Root Access • 🏢 Advantmed • 🏢 National Renewable Energy Laboratory
 
 #### ⚙️ Backend Development (5 positions)
 🏢 Stevens Capital Management
@@ -249,7 +241,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 43 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 40 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -338,7 +330,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 43 current opportunities from 261 companies**
+**🎯 40 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
