@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-91-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-92-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 44 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 45 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 44
+- **🔥 Current Positions**: 45
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 23, 2025
@@ -121,7 +121,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Radiance Technologies** | R&D Software Engineer/Computer Scientist Intern | Huntsville, AL | 1d ago | Entry-Level | Software Engineering | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/R-D-Software-Engineer-Computer-Scientist-Intern_HR101899) |
 
-### 🏢 **Other Companies** (43 positions)
+### 🏢 **Other Companies** (44 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -168,6 +168,7 @@
 | 🏢 **CVS Health** | Data Engineering Undergraduate Internship - Summer 2026 | Needham, MA | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Engineering-Undergraduate-Internship---Summer-2026_R0752602) |
 | 🏢 **Divergent Technologies** | Summer 2026 Data & Process Analytics Intern | Carson, CA | 2h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/divergent/jobs/4998473008) |
 | 🏢 **OpenSesame** | Software Engineering Intern | Remote in USA, Locations | 2h ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/opensesame/jobs/7417009) |
+| 🏢 **OpenSesame** | Product Intern | Remote in USA, Locations | 2h ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/opensesame/jobs/7417045) |
 
 
 
@@ -198,16 +199,16 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 44 | 100% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 45 | 100% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
+- **Remote in USA, Locations**: 4 positions
 - **Villanova, PA**: 4 positions
 - **New York City, NY**: 3 positions
-- **Remote in USA, Locations**: 3 positions
 - **Austin, TX**: 3 positions
 - **NYC, Locations**: 3 positions
 - **LA, Locations**: 3 positions
@@ -217,7 +218,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (19 positions)
+#### 💻 Software Engineering (20 positions)
 🏢 Root Access • 🏢 The Walt Disney Company
 
 #### 📊 Data Science & Analytics (7 positions)
@@ -251,7 +252,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 44 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 45 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -340,7 +341,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 44 current opportunities from 261 companies**
+**🎯 45 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
