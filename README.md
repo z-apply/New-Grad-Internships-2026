@@ -162,8 +162,8 @@
 | 🏢 **CVS Health** | Data Engineering Undergraduate Internship - Summer 2026 | Needham, MA | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Engineering-Undergraduate-Internship---Summer-2026_R0752602) |
 | 🏢 **CVS Health** | Innotech AI Critical Skills Intern – Graduate | Northbrook, IL | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-AI-Critical-Skills-Internship--Graduate----Summer-2026_R0780238) |
 | 🏢 **Divergent Technologies** | Summer 2026 Data & Process Analytics Intern | Carson, CA | 9h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/divergent/jobs/4998473008) |
-| 🏢 **OpenSesame** | Software Engineering Intern | Remote in USA, Locations | 9h ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/opensesame/jobs/7417009) |
-| 🏢 **OpenSesame** | Product Intern | Remote in USA, Locations | 9h ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/opensesame/jobs/7417045) |
+| 🏢 **OpenSesame** | Software Engineering Intern | Remote in USA, Locations | 10h ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/opensesame/jobs/7417009) |
+| 🏢 **OpenSesame** | Product Intern | Remote in USA, Locations | 10h ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/opensesame/jobs/7417045) |
 | 🏢 **CLO Virtual Fashion** | R&D – Summer Intern - 2026 - US/EU | LA, Locations | 9h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/clovirtualfashion/4328102d-e972-4cce-b155-59e9d2a3a587/apply) |
 
 
