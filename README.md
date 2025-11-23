@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-106-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-105-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 59 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 58 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 59
+- **🔥 Current Positions**: 58
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 23, 2025
@@ -130,14 +130,13 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Radiance Technologies** | R&D Software Engineer/Computer Scientist Intern | Huntsville, AL | 1d ago | Entry-Level | Software Engineering | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/R-D-Software-Engineer-Computer-Scientist-Intern_HR101899) |
 
-### 🏢 **Other Companies** (54 positions)
+### 🏢 **Other Companies** (53 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Cisco** | AI Product Management Engineer 2 - Intern | San Jose, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://careers.cisco.com/global/en/job/2000470) |
 | 🏢 **Cisco** | AI Research Scientist PhD – Intern - United States | San Jose, CA | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://careers.cisco.com/global/en/job/2000473) |
 | 🏢 **Toyota Research Institute** | Energy & Materials Intern - Probabilistic Programming | Mountain View, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/tri/a79db09f-aa1d-4e08-8858-1c9fa996858d/apply) |
-| 🏢 **Field AI** | Field Application Engineer - Intern | Houston, TX | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/field-ai/53c70577-39c3-42e0-a7d6-e608a82fdc28/apply) |
 | 🏢 **Kimley-Horn** | Software Engineer Intern | Norcross, GA | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-kimley-horn.icims.com/jobs/20824/job?mobile=true&needsRedirect=false) |
 | 🏢 **Mercer Advisors** | Data Intern - Technology | Remote in USA, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/merceradvisors/jobs/4985987008) |
 | 🏢 **NinjaTrader** | Software Engineer in Test Intern | Chicago, IL | 1d ago | Entry-Level | Software Engineering | [Apply](https://ninjatrader.com/careers/internships/?gh_jid=4613350006) |
@@ -218,7 +217,7 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 59 | 100% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 58 | 100% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
@@ -240,8 +239,8 @@
 #### 💻 Software Engineering (33 positions)
 🏢 Toyota Research Institute • 🏢 Kimley-Horn • 🏢 Mercer Advisors
 
-#### 🧠 Machine Learning & AI (9 positions)
-🏢 Cisco • 🏢 Field AI
+#### 🧠 Machine Learning & AI (8 positions)
+🏢 Cisco • 🏢 Chewy
 
 #### ⚙️ Backend Development (5 positions)
 🏢 Stevens Capital Management
@@ -268,7 +267,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 59 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 58 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -357,7 +356,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 59 current opportunities from 261 companies**
+**🎯 58 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
