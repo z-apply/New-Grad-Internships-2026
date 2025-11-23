@@ -167,8 +167,8 @@
 | 🏢 **CVS Health** | Innotech Engineering Internship - Undergraduate - Summer 2026 | Northbrook, IL | 1d ago | Entry-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-Engineering-Internship--Undergraduate----Summer-2026_R0780249) |
 | 🏢 **CVS Health** | Data Engineering Undergraduate Internship - Summer 2026 | Needham, MA | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Engineering-Undergraduate-Internship---Summer-2026_R0752602) |
 | 🏢 **Divergent Technologies** | Summer 2026 Data & Process Analytics Intern | Carson, CA | 2h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/divergent/jobs/4998473008) |
-| 🏢 **OpenSesame** | Software Engineering Intern | Remote in USA, Locations | 2h ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/opensesame/jobs/7417009) |
-| 🏢 **OpenSesame** | Product Intern | Remote in USA, Locations | 2h ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/opensesame/jobs/7417045) |
+| 🏢 **OpenSesame** | Software Engineering Intern | Remote in USA, Locations | 3h ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/opensesame/jobs/7417009) |
+| 🏢 **OpenSesame** | Product Intern | Remote in USA, Locations | 3h ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/opensesame/jobs/7417045) |
 
 
 
