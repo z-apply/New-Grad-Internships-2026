@@ -2,7 +2,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { encryptLog } = require('./encryption-utils');
+const { encryptLog, decryptLog } = require('./encryption-utils');
 
 /**
  * Channel Routing Logger

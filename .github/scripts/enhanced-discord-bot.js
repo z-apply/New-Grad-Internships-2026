@@ -52,9 +52,11 @@ const { generateJobId, generateEnhancedId } = require('./job-fetcher/utils');
 // Import routing logger and enhanced channel router for debugging
 const RoutingLogger = require('./routing-logger');
 const { getJobChannelDetails } = require('./enhanced-channel-router');
+const JobsDataExporter = require('./jobs-data-exporter');
 
-// Initialize routing logger
+// Initialize routing logger and jobs exporter
 const routingLogger = new RoutingLogger();
+const jobsExporter = new JobsDataExporter();
 
 /**
  * Normalize job object to handle multiple data formats
@@ -666,6 +668,13 @@ client.once('ready', async () => {
     client.destroy();
     process.exit(0);
     return;
+  }
+
+  // Export all jobs to encrypted JSON for external job boards
+  try {
+    jobsExporter.exportJobs(jobs);
+  } catch (error) {
+    console.log('⚠️ Failed to export jobs data:', error.message);
   }
 
   // Filter out jobs that have already been posted to Discord
