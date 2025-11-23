@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-88-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-89-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 41 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 42 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 41
+- **🔥 Current Positions**: 42
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 23, 2025
@@ -121,7 +121,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Radiance Technologies** | R&D Software Engineer/Computer Scientist Intern | Huntsville, AL | 1d ago | Entry-Level | Software Engineering | [Apply](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/R-D-Software-Engineer-Computer-Scientist-Intern_HR101899) |
 
-### 🏢 **Other Companies** (40 positions)
+### 🏢 **Other Companies** (41 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -130,7 +130,7 @@
 | 🏢 **Root Access** | Software Engineer Intern | New York City, NY | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/6f004058-c03f-43d6-b2e9-fa37e6844e68) |
 | 🏢 **Root Access** | Software Engineer Intern | NYC, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/6f004058-c03f-43d6-b2e9-fa37e6844e68/application) |
 | 🏢 **Root Access** | Firmware Engineer | NYC, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/root-access/46f71ad0-5072-47c5-97fb-6ddc5098d564/application) |
-| 🏢 **Root Access** | Machine Learning Engineer Intern | NYC, Locations | 1h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/root-access/6a3f17bd-6690-4c3d-865b-f1093ae500fa/application) |
+| 🏢 **Root Access** | Machine Learning Engineer Intern | NYC, Locations | 2h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/root-access/6a3f17bd-6690-4c3d-865b-f1093ae500fa/application) |
 | 🏢 **Advantmed** | AI Automation Intern | Remote in USA, Locations | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://apply.workable.com/advantmed/j/45F5E3C394/) |
 | 🏢 **The Walt Disney Company** | Software Engineering Intern | Lake Buena Vista, FL | 1d ago | Entry-Level | Software Engineering | [Apply](https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Software-Engineering-Intern--Summer-2026-_10135955) |
 | 🏢 **Walmart** | 2026 Summer Intern: Software Engineering II (Bentonville) | Bentonville, AR | 1d ago | Entry-Level | Software Engineering | [Apply](https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME-2026-Summer-Intern--Software-Engineering-II--Bentonville-_R-2354856) |
@@ -165,6 +165,7 @@
 | 🏢 **CVS Health** | Innotech Engineering Internship - Undergraduate - Summer 2026 | Northbrook, IL | 1d ago | Entry-Level | Software Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-Engineering-Internship--Undergraduate----Summer-2026_R0780249) |
 | 🏢 **CVS Health** | Data Engineering Undergraduate Internship - Summer 2026 | Needham, MA | 1d ago | Entry-Level | Data Science & Analytics | [Apply](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Engineering-Undergraduate-Internship---Summer-2026_R0752602) |
 | 🏢 **General Dynamics Mission Systems** | Software Engineer | Bridgewater, MA | 1d ago | Entry-Level | Software Engineering | [Apply](https://careers-gdms.icims.com/jobs/69052/job?mobile=true&needsRedirect=false) |
+| 🏢 **Divergent Technologies** | Summer 2026 Data & Process Analytics Intern | Carson, CA | 0h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/divergent/jobs/4998473008) |
 
 
 
@@ -195,7 +196,7 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 41 | 100% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 42 | 100% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
@@ -217,11 +218,11 @@
 #### 💻 Software Engineering (19 positions)
 🏢 Root Access • 🏢 The Walt Disney Company
 
+#### 📊 Data Science & Analytics (7 positions)
+🏢 Federal Home Loan Bank of Indianapolis • 🏢 Bandwidth • 🏢 Zscaler
+
 #### 🧠 Machine Learning & AI (6 positions)
 🏢 Root Access • 🏢 Advantmed • 🏢 National Renewable Energy Laboratory
-
-#### 📊 Data Science & Analytics (6 positions)
-🏢 Federal Home Loan Bank of Indianapolis • 🏢 Bandwidth • 🏢 Zscaler
 
 #### ⚙️ Backend Development (5 positions)
 🏢 Stevens Capital Management
@@ -242,7 +243,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 41 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 42 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -331,7 +332,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 41 current opportunities from 261 companies**
+**🎯 42 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
