@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-57-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-60-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 10 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 13 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 10
+- **🔥 Current Positions**: 13
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 24, 2025
@@ -121,7 +121,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🎬 **TikTok** | Product Manager Project Intern - Search Ads Product | Seattle, WA | 1d ago | Entry-Level | Product Management | [Apply](https://lifeattiktok.com/search/7575296281283938613) |
 
-### 🏢 **Other Companies** (9 positions)
+### 🏢 **Other Companies** (12 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -134,6 +134,9 @@
 | 🟦 **LinkedIn** | Software Engineer Intern - First Play | Mountain View, CA | 8h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000095054345) |
 | 🏢 **Keysight Technologies** | R&D Software Engineering | Loveland, CO | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.keysight.com/jobs/50916?lang=en-us&icims=1) |
 | 🏢 **Syntax** | Data Analyst Intern | New York, NY | 0h ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/syntax/df170288-c049-4e75-a0c3-1c55b24f454d) |
+| 🏢 **KeyBank** | 2026 Summer Analytics and Quantitative Modeling Internship - Cleveland | Cleveland, OH | 0h ago | Entry-Level | Data Science & Analytics | [Apply](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-36419) |
+| 🏢 **Walrus** | Full Stack Developer Intern | New York, NY | 0h ago | Entry-Level | Full Stack Development | [Apply](https://jobs.ashbyhq.com/walrusfi/99c93c0e-ed9a-4e41-862a-0cdbe71d7d54) |
+| 🏢 **TENEX.AI** | Software Engineer Intern | San Jose, CA | 0h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/tenex/fbfefd5c-ae95-4a71-8a75-e2b61facb304) |
 
 
 
@@ -164,7 +167,7 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 10 | 100% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 13 | 100% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
@@ -172,13 +175,13 @@
 
 ## 🌍 Top Locations
 - **Remote in USA, Locations**: 2 positions
+- **New York, NY**: 2 positions
 - **NYC, Locations**: 1 positions
 - **Carson, CA**: 1 positions
 - **LA, Locations**: 1 positions
 - **Livingston, NJ**: 1 positions
 - **Mountain View, CA**: 1 positions
 - **Loveland, CO**: 1 positions
-- **Seattle, WA**: 1 positions
 
 ---
 
@@ -186,20 +189,23 @@
 #### 💻 Software Engineering (6 positions)
 🏢 OpenSesame • 🏢 CLO Virtual Fashion
 
-#### 📊 Data Science & Analytics (2 positions)
-🏢 Divergent Technologies • 🏢 Syntax
+#### 📊 Data Science & Analytics (3 positions)
+🏢 Divergent Technologies • 🏢 Syntax • 🏢 KeyBank
 
-#### 🧠 Machine Learning & AI (1 positions)
-🏢 Root Access
+#### 🧠 Machine Learning & AI (2 positions)
+🏢 Root Access • 🏢 TENEX.AI
 
 #### 📋 Product Management (1 positions)
 🎬 TikTok
+
+#### 🌐 Full Stack Development (1 positions)
+🏢 Walrus
 
 ---
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 10 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 13 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -288,7 +294,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 10 current opportunities from 261 companies**
+**🎯 13 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
