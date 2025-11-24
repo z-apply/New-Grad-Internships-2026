@@ -120,11 +120,11 @@
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
 | 🏢 **Root Access** | Machine Learning Engineer Intern | NYC, Locations | 1d ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/root-access/6a3f17bd-6690-4c3d-865b-f1093ae500fa/application) |
-| 🏢 **Divergent Technologies** | Summer 2026 Data & Process Analytics Intern | Carson, CA | 22h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/divergent/jobs/4998473008) |
+| 🏢 **Divergent Technologies** | Summer 2026 Data & Process Analytics Intern | Carson, CA | 23h ago | Entry-Level | Data Science & Analytics | [Apply](https://job-boards.greenhouse.io/divergent/jobs/4998473008) |
 | 🏢 **OpenSesame** | Software Engineering Intern | Remote in USA, Locations | 23h ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/opensesame/jobs/7417009) |
 | 🏢 **OpenSesame** | Product Intern | Remote in USA, Locations | 23h ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/opensesame/jobs/7417045) |
 | 🏢 **CLO Virtual Fashion** | R&D – Summer Intern - 2026 - US/EU | LA, Locations | 23h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/clovirtualfashion/4328102d-e972-4cce-b155-59e9d2a3a587/apply) |
-| 🏢 **Red Bull** | Intern - Academy Performance Analysis | Livingston, NJ | 0h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/RedBull/744000095044055) |
+| 🏢 **Red Bull** | Intern - Academy Performance Analysis | Livingston, NJ | 1h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/RedBull/744000095044055) |
 | 🟦 **LinkedIn** | Software Engineer Intern - First Play | Mountain View, CA | 1h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000095054345) |
 
 
