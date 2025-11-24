@@ -131,7 +131,7 @@
 | 🏢 **OpenSesame** | Product Intern | Remote in USA, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/opensesame/jobs/7417045) |
 | 🏢 **CLO Virtual Fashion** | R&D – Summer Intern - 2026 - US/EU | LA, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/clovirtualfashion/4328102d-e972-4cce-b155-59e9d2a3a587/apply) |
 | 🏢 **Red Bull** | Intern - Academy Performance Analysis | Livingston, NJ | 6h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/RedBull/744000095044055) |
-| 🟦 **LinkedIn** | Software Engineer Intern - First Play | Mountain View, CA | 6h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000095054345) |
+| 🟦 **LinkedIn** | Software Engineer Intern - First Play | Mountain View, CA | 7h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000095054345) |
 | 🏢 **Keysight Technologies** | R&D Software Engineering | Loveland, CO | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.keysight.com/jobs/50916?lang=en-us&icims=1) |
 
 
