@@ -1,0 +1,22 @@
+{
+  "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR105863",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Copart, Inc. a technology leader and the premier online vehicle auction platform globally, with over 200 facilities located across the world, Copart links vehicle sellers to more than 750,000 buyers in over 190 countries. We believe in providing an unmatched experience, every day and everywhere, driven by our people, processes, and technology. Copart is looking for interns to work on the development of application projects for our global expansion. You will work with Program Managers, Business Analysts, and Team Leads to understand requirements, and develop and modify existing applicationsOther duties he/she will be required to perform are as follows:Develop efficient, secure applications, peer-review code, and document solutions within an agile-blended software environmentCommunicate proactively with teammates, infrastructure, security, and quality assurance to continuously improve processes and engineering excellenceExperience with Multi-threading is a must for this positionAbility to work on real-time web applications.Required Skills:Bachelor's degree or higher in computer science, Engineering or similarStrong experience with Spring Boot, MVC and other Spring modules.Strong Experience with Core Java and multithreaded programming.Strong experience with Angular, Java Script, HTML5, jQuery, AJAX, CSS and other JavaScript libraries.Experience with Agile Methodologies and toolsExcellent problem-solving skillsProject or hands-on experience with AI tools relating to AI/ML framework, Agentic tools. Understanding / writing Unit tests using JUnit and mocking frameworks.Understanding of architecture and development methodologies of n-tier systemsCan-do attitudeInnovative drive and experience coupled with quick mastery of new technology, language, or development environmentSelf-motivated, naturally curious, and able to thrive in a fast-paced and client-focused environment.Skilled in documentation including business logic flows and technical writingAble to understand and communicate not just how certain technologies work, but whyAdditional Skills (nice to haves):Experience with Unix, Linux and Solaris.RESTful Web service expertise.Experience with application server platforms: Apache, Tomcat.. etc.Experience writing SQL and stored procedures.Experience with SQL databases: DB2, MySQL, Maria.. etc.Experience with Maven, Jenkins, Git. #LS-MS1 At Copart, we are focused on harnessing the power of diversity, inclusion, and collaboration. By embracing diverse perspectives, we open doors to innovation and unleash the full potential of our team. We are dedicated to fostering a workplace where everyone feels appreciated, included, and inspired to grow and contribute meaningfully.E-Verify Program Participant: Copart participates in the Department of Homeland Security U.S. Citizenship and Immigration Services' E-Verify program (For U.S. applicants and employees only). Please click below to learn more about the E-Verify program:E-verify ParticipationRight to Work",
+    "requirements": [
+      "Bachelor's degree or higher in computer science, Engineering or similar"
+    ],
+    "responsibilities": [
+      "Develop efficient, secure applications, peer-review code, and document solutions within an agile-blended software environment",
+      "Understanding of architecture and development methodologies of n-tier systems",
+      "Innovative drive and experience coupled with quick mastery of new technology, language, or development environment"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR105863",
+      "fetchedAt": "2025-11-24T23:46:19.328Z"
+    }
+  },
+  "cachedAt": 1764027979328
+}

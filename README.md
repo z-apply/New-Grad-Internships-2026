@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-62-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-71-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 15 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 24 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 15
+- **🔥 Current Positions**: 24
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 24, 2025
@@ -121,7 +121,7 @@
 |---------|------|----------|--------|-------|----------|-------|
 | 🎬 **TikTok** | Product Manager Project Intern - Search Ads Product | Seattle, WA | 1d ago | Entry-Level | Product Management | [Apply](https://lifeattiktok.com/search/7575296281283938613) |
 
-### 🏢 **Other Companies** (14 positions)
+### 🏢 **Other Companies** (23 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -132,13 +132,22 @@
 | 🏢 **CLO Virtual Fashion** | R&D – Summer Intern - 2026 - US/EU | LA, Locations | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/clovirtualfashion/4328102d-e972-4cce-b155-59e9d2a3a587/apply) |
 | 🏢 **Red Bull** | Intern - Academy Performance Analysis | Livingston, NJ | 16h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/RedBull/744000095044055) |
 | 🟦 **LinkedIn** | Software Engineer Intern - First Play | Mountain View, CA | 16h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000095054345) |
+| 🟦 **LinkedIn** | AI/ML Engineer Intern - Search and Recommender Systems | Mountain View, CA | 0h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000095221396) |
 | 🏢 **Keysight Technologies** | R&D Software Engineering | Loveland, CO | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.keysight.com/jobs/50916?lang=en-us&icims=1) |
 | 🏢 **Syntax** | Data Analyst Intern | New York, NY | 7h ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/syntax/df170288-c049-4e75-a0c3-1c55b24f454d) |
 | 🏢 **KeyBank** | 2026 Summer Analytics and Quantitative Modeling Internship - Cleveland | Cleveland, OH | 7h ago | Entry-Level | Data Science & Analytics | [Apply](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-36419) |
 | 🏢 **Walrus** | Full Stack Developer Intern | New York, NY | 7h ago | Entry-Level | Full Stack Development | [Apply](https://jobs.ashbyhq.com/walrusfi/99c93c0e-ed9a-4e41-862a-0cdbe71d7d54) |
 | 🏢 **TENEX.AI** | Software Engineer Intern | San Jose, CA | 7h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/tenex/fbfefd5c-ae95-4a71-8a75-e2b61facb304) |
-| 🏢 **Veolia** | Engineering Instrumentation Intern | Caddo Valley, AR | 6h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000095130105) |
+| 🏢 **Veolia** | Engineering Instrumentation Intern | Caddo Valley, AR | 7h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000095130105) |
 | 🏢 **NBCUniversal** | Universal Filmed Entertainment Group Film Technology AV/AR Intern | North Hollywood, LA | 6h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000095152466) |
+| 🏢 **Symbotic** | Intern-System Field Analyst - Bot | Burlington, MA | 0h ago | Entry-Level | Software Engineering | [Apply](https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--System-Field-Analyst--BOT-_R5843) |
+| 🏢 **The New York Times** | Data Science Intern | NYC, Locations | 0h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4632963005) |
+| 🏢 **Gas South** | Software Engineering Intern | Atlanta, GA | 0h ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/gassouth/jobs/7421221) |
+| 🏢 **Federal Home Loan Bank of Indianapolis** | Power BI Reporting Intern | Indianapolis, IN | 0h ago | Entry-Level | Software Engineering | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Power-Bi-Reporting-Long-Term-Intern_R550) |
+| 🏢 **Federal Home Loan Bank of Indianapolis** | Business Intelligence Intern | Indianapolis, IN | 0h ago | Entry-Level | Software Engineering | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Business-Intelligence-Intern_R562) |
+| 🏢 **Federal Home Loan Bank of Indianapolis** | Product Delivery | Indianapolis, IN | 0h ago | Entry-Level | Software Engineering | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Product-Delivery-Intern_R566) |
+| 🏢 **Copart** | Software Engineering Intern | Dallas, TX | 0h ago | Entry-Level | Software Engineering | [Apply](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR105863) |
+| 🏢 **KLA** | AI/ML Engineering Intern | Milpitas, CA | 0h ago | Entry-Level | Machine Learning & AI | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-ML-Engineering-Intern_2532391-1) |
 
 
 
@@ -169,33 +178,33 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 15 | 100% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 24 | 100% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
+- **Indianapolis, IN**: 3 positions
+- **NYC, Locations**: 2 positions
 - **Remote in USA, Locations**: 2 positions
+- **Mountain View, CA**: 2 positions
 - **New York, NY**: 2 positions
-- **NYC, Locations**: 1 positions
 - **Carson, CA**: 1 positions
 - **LA, Locations**: 1 positions
 - **Livingston, NJ**: 1 positions
-- **Mountain View, CA**: 1 positions
-- **Loveland, CO**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (8 positions)
+#### 💻 Software Engineering (15 positions)
 🏢 OpenSesame • 🏢 CLO Virtual Fashion
+
+#### 🧠 Machine Learning & AI (4 positions)
+🏢 Root Access • 🏢 TENEX.AI • 🏢 LinkedIn
 
 #### 📊 Data Science & Analytics (3 positions)
 🏢 Divergent Technologies • 🏢 Syntax • 🏢 KeyBank
-
-#### 🧠 Machine Learning & AI (2 positions)
-🏢 Root Access • 🏢 TENEX.AI
 
 #### 📋 Product Management (1 positions)
 🎬 TikTok
@@ -207,7 +216,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 15 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 24 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -296,7 +305,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 15 current opportunities from 261 companies**
+**🎯 24 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
