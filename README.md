@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-52-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-54-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-261-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -40,7 +40,7 @@
 
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 5 fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 250 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 7 fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -69,7 +69,7 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 5
+- **🔥 Current Positions**: 7
 - **🏢 Companies**: 261 companies
 - **⭐ FAANG+ Jobs**: 0 premium opportunities
 - **📅 Last Updated**: November 24, 2025
@@ -115,7 +115,7 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **Other Companies** (5 positions)
+### 🏢 **Other Companies** (7 positions)
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
@@ -124,6 +124,8 @@
 | 🏢 **OpenSesame** | Software Engineering Intern | Remote in USA, Locations | 22h ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/opensesame/jobs/7417009) |
 | 🏢 **OpenSesame** | Product Intern | Remote in USA, Locations | 22h ago | Entry-Level | Software Engineering | [Apply](https://boards.greenhouse.io/opensesame/jobs/7417045) |
 | 🏢 **CLO Virtual Fashion** | R&D – Summer Intern - 2026 - US/EU | LA, Locations | 22h ago | Entry-Level | Software Engineering | [Apply](https://jobs.lever.co/clovirtualfashion/4328102d-e972-4cce-b155-59e9d2a3a587/apply) |
+| 🏢 **Red Bull** | Intern - Academy Performance Analysis | Livingston, NJ | 0h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/RedBull/744000095044055) |
+| 🟦 **LinkedIn** | Software Engineer Intern - First Play | Mountain View, CA | 0h ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000095054345) |
 
 
 
@@ -154,7 +156,7 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 5 | 100% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 7 | 100% | No or minimal experience |
 | 🟡 Beginner & Early Career | 0 | 0% | 1-2 years of experience |
 | 🔴 Manager         | 0 | 0% | 2+ years of experience |
 
@@ -165,11 +167,13 @@
 - **NYC, Locations**: 1 positions
 - **Carson, CA**: 1 positions
 - **LA, Locations**: 1 positions
+- **Livingston, NJ**: 1 positions
+- **Mountain View, CA**: 1 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (3 positions)
+#### 💻 Software Engineering (5 positions)
 🏢 OpenSesame • 🏢 CLO Virtual Fashion
 
 #### 🧠 Machine Learning & AI (1 positions)
@@ -182,7 +186,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 5 verified roles for Software Engineering roles from 250 companies.
+- ✅ **100% Real Jobs**: 7 verified roles for Software Engineering roles from 250 companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -271,7 +275,7 @@ No archived jobs available.
 
 <div align="center">
 
-**🎯 5 current opportunities from 261 companies**
+**🎯 7 current opportunities from 261 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
