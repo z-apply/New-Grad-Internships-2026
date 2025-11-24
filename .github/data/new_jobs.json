@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "job_title": "Data Analyst Intern",
+    "title": "Data Analyst Intern",
+    "employer_name": "Syntax",
+    "company_name": "Syntax",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_country": "US",
+    "job_description": "Data Analyst InternNew York CitySyntax Data /Intern /HybridApply for this jobAbout Syntax DataSyntax LLC is a financial data and technology company that codifies business models into a relational system we call Affinity Data™. Syntax operates through three segments: Affinity Data™, Syntax Direct™, and Syntax Indices™. Using its patented FIS® technology inspired by systems sciences, the Affinity Data™ segment offers the most comprehensive, granular, and accurate product line revenue data available on the market. The Syntax Direct™ segment then uses this abundance of data to facilitate the near instantaneous creation and ongoing management of boundless direct indexing solutions and rules-based equity portfolios through a fully automated platform. The Syntax Indices™ segment offers customized and proprietary indices, including core global benchmarks and micro- and macro-thematic, smart beta, defined outcome, and target volatility indices. These indices are foundational for a range of financial products, such as ETFs, UITs, and structured products.About the RoleThe Data Analyst Intern will support our team by assisting with the research, creation, and aggregation of data to support our marketing, sales, and product use cases development efforts.Responsibilities will include:Compiling market and index-related data and preparing reports that will be shared with the team and clientsPulling data samples connecting firmographic, Syntax classification, and market data for internal and external consumptionDeveloping scripts and workflow to automate key data pulls on a go- forward basisThe Ideal candidate will have:Microsoft Office proficiency with advanced Excel knowledgeStudying Finance, Economics or MathApplied math skills, particularly financial statisticsProgramming skills, especially in Python and VBAFamiliarity with data terminals such as Bloomberg, Eikon, and FactSetStrong organizational and time management skillsExperience working with and analyzing large datasetsExcellent communication skills, both in written and spoken EnglishPositive and proactive attitude with flexibility to accommodate a changing environment and willingness to take on new responsibilitiesStrong attention to detail$30 - $35 semi monthlyLearn more at syntaxdata.comApply for this job",
+    "job_apply_link": "https://jobs.lever.co/syntax/df170288-c049-4e75-a0c3-1c55b24f454d",
+    "url": "https://jobs.lever.co/syntax/df170288-c049-4e75-a0c3-1c55b24f454d",
+    "job_posted_at_datetime_utc": "2025-11-24T15:55:14.000Z",
+    "job_employment_type": "INTERN",
+    "terms": [
+      "Summer 2026"
+    ],
+    "locations": [
+      "New York, NY"
+    ],
+    "category": "Quantitative Finance",
+    "is_visible": true,
+    "id": "jobs-lever-co-syntax-df170288-c049-4e75-a0c3-1c55b24f454d",
+    "description_platform": "lever",
+    "description_success": true
+  }
+]
