@@ -126,9 +126,9 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 🏢 **Shield AI** | Mission Systems Engineering | San Diego, CA | 11h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/shieldai/0f9800ed-7967-485a-bd3d-6a6e42d8d581/apply) |
-| 🏢 **Shield AI** | Software Engineering Intern | Dallas, TX | 11h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f/apply) |
-| 🏢 **Shield AI** | Mission Systems Engineering Intern – 2026 Summer Intern | San Diego, CA | 11h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/shieldai/00637eb9-c959-424a-8aea-ef6483655973/apply) |
+| 🏢 **Shield AI** | Mission Systems Engineering | San Diego, CA | 12h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/shieldai/0f9800ed-7967-485a-bd3d-6a6e42d8d581/apply) |
+| 🏢 **Shield AI** | Software Engineering Intern | Dallas, TX | 12h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f/apply) |
+| 🏢 **Shield AI** | Mission Systems Engineering Intern – 2026 Summer Intern | San Diego, CA | 12h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.lever.co/shieldai/00637eb9-c959-424a-8aea-ef6483655973/apply) |
 
 ### 🏢 **Other Companies** (49 positions)
 
@@ -137,7 +137,7 @@
 | 🏢 **Red Bull** | Intern - Academy Performance Analysis | Livingston, NJ | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/RedBull/744000095044055) |
 | 🟦 **LinkedIn** | Software Engineer Intern - First Play | Mountain View, CA | 1d ago | Entry-Level | Software Engineering | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000095054345) |
 | 🟦 **LinkedIn** | AI/ML Engineer Intern - Search and Recommender Systems | Mountain View, CA | 12h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000095221396) |
-| 🏢 **Syntax** | Data Analyst Intern | New York, NY | 19h ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/syntax/df170288-c049-4e75-a0c3-1c55b24f454d) |
+| 🏢 **Syntax** | Data Analyst Intern | New York, NY | 20h ago | Entry-Level | Data Science & Analytics | [Apply](https://jobs.lever.co/syntax/df170288-c049-4e75-a0c3-1c55b24f454d) |
 | 🏢 **KeyBank** | 2026 Summer Analytics and Quantitative Modeling Internship - Cleveland | Cleveland, OH | 19h ago | Entry-Level | Data Science & Analytics | [Apply](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-36419) |
 | 🏢 **Walrus** | Full Stack Developer Intern | New York, NY | 19h ago | Entry-Level | Full Stack Development | [Apply](https://jobs.ashbyhq.com/walrusfi/99c93c0e-ed9a-4e41-862a-0cdbe71d7d54) |
 | 🏢 **TENEX.AI** | Software Engineer Intern | San Jose, CA | 19h ago | Entry-Level | Machine Learning & AI | [Apply](https://jobs.ashbyhq.com/tenex/fbfefd5c-ae95-4a71-8a75-e2b61facb304) |
@@ -152,7 +152,7 @@
 | 🏢 **KLA** | AI/ML Engineering Intern | Milpitas, CA | 12h ago | Entry-Level | Machine Learning & AI | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-ML-Engineering-Intern_2532391-1) |
 | 🏢 **Paramount Global** | Research Internships - Summer 2026 - In Person-NYC | NYC, Locations | 11h ago | Entry-Level | Software Engineering | [Apply](https://careers.paramount.com/job/New-York-Research-Internships-(Summer-2026,-In-Person-NYC)-NY-10036/1345252200/?ats=successfactors) |
 | 🏢 **Paramount Global** | Research Intern | LA, Locations | 10h ago | Entry-Level | Software Engineering | [Apply](https://careers.paramount.com/job/Los-Angeles-Research-Internships-(Summer-2026,-In-Person-LA)-CA-90038/1345251100/?ats=successfactors) |
-| 🏢 **University Corporation for Atmospheric Research** | Summer Undergraduate Program for Engineering Research – Intern - Super | Boulder, CO | 11h ago | Entry-Level | Software Engineering | [Apply](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/XMLNAME-2026-EOL-Summer-Undergraduate-Program-for-Engineering-Research--SUPER--Internship_REQ-2025-158-1) |
+| 🏢 **University Corporation for Atmospheric Research** | Summer Undergraduate Program for Engineering Research – Intern - Super | Boulder, CO | 12h ago | Entry-Level | Software Engineering | [Apply](https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/XMLNAME-2026-EOL-Summer-Undergraduate-Program-for-Engineering-Research--SUPER--Internship_REQ-2025-158-1) |
 | 🏢 **Cisco** | Data Analyst 1 | San Jose, CA | 12h ago | Entry-Level | Data Science & Analytics | [Apply](https://careers.cisco.com/global/en/job/2000155) |
 | 🏢 **Gilead Sciences** | Intern – Pdm - Biologics Process Development - Material Science | San Mateo, CA | 12h ago | Senior | Software Engineering | [Apply](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Manufacturing---Biologics-Process-Development--Material-Science_R0048519) |
 | 🏢 **RTX** | Software Engineer Intern | Tucson, AZ | 11h ago | Entry-Level | Software Engineering | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ802-RMS-AP-Bldg-802-1151-East-Hermans-Road-Building-802-Tucson-AZ-85756-USA/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite--AZ-_01807975) |
@@ -172,11 +172,11 @@
 | 🏢 **Teledyne** | Engineering Intern - Spring | Falmouth, MA | 10h ago | Entry-Level | Software Engineering | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---North-Falmouth-MA/Engineering-Intern---Spring_REQ31463) |
 | 🏢 **Parsons** | Computer Engineer Internship - Summer 2026 | Huntsville, AL | 8h ago | Entry-Level | Software Engineering | [Apply](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Computer-Engineer-Internship--Summer-2026-_R174960-2) |
 | 🏢 **Genuine Parts Company** | Technology Intern - Digital Analytics-Summer 2026 | Atlanta, GA | 8h ago | Entry-Level | Frontend Development | [Apply](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Technology-Intern---Digital-Analytics--Summer-2026_R25_0000042264) |
-| 🏢 **Wisk** | HRIS Data Analyst Intern | Mountain View, CA | 7h ago | Entry-Level | Data Science & Analytics | [Apply](https://wisk.wd108.myworkdayjobs.com/Wisk_Careers/job/Mountain-View-CA/HRIS-Data-Analyst-Intern_JR100358) |
-| 🏢 **Fortive** | Software Engineering Intern | Pittsburgh, PA | 7h ago | Entry-Level | Software Engineering | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8106) |
+| 🏢 **Wisk** | HRIS Data Analyst Intern | Mountain View, CA | 8h ago | Entry-Level | Data Science & Analytics | [Apply](https://wisk.wd108.myworkdayjobs.com/Wisk_Careers/job/Mountain-View-CA/HRIS-Data-Analyst-Intern_JR100358) |
+| 🏢 **Fortive** | Software Engineering Intern | Pittsburgh, PA | 8h ago | Entry-Level | Software Engineering | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8106) |
 | 🏢 **Dover** | Customer Quality/Warranty Intern | Lithonia, GA | 7h ago | Entry-Level | Software Engineering | [Apply](https://careers.dovercorporation.com/job/Conyers-Customer-QualityWarranty-Intern-GA-30013/1270480601/?ats=successfactors) |
 | 🏢 **Emerson Electric** | Cloud Developer Intern | Round Rock, TX | 5h ago | Entry-Level | DevOps & Infrastructure | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25029303) |
-| 🏢 **GE Appliances** | AI Lab Intern | Louisville, KY | 5h ago | Entry-Level | Machine Learning & AI | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/AI-Lab-Intern_REQ-24396) |
+| 🏢 **GE Appliances** | AI Lab Intern | Louisville, KY | 6h ago | Entry-Level | Machine Learning & AI | [Apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/AI-Lab-Intern_REQ-24396) |
 | 🏢 **VF** | Summer 2026 Product Intern | Newport Beach, CA | 6h ago | Entry-Level | Software Engineering | [Apply](https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/USCA--USA--Colorado--Denver-HQ---VFC/Summer-2026-Product-Intern_R-20251121-0019-2) |
 | 🏢 **VF** | Data Science Intern | Greensboro, NC | 3h ago | Entry-Level | Software Engineering | [Apply](https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/USCA--USA--North-Carolina--Greensboro---VFC/Summer-2026-Data-Science-Intern_R-20251120-0024) |
 | 🏢 **VF** | E-Commerce Intern | Newport Beach, CA | 3h ago | Entry-Level | Software Engineering | [Apply](https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/USCA--USA--Colorado--Denver-HQ---VFC/Summer-2026-E-Commerce-Intern_R-20251120-0028-4) |
