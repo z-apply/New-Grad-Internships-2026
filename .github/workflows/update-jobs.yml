@@ -1,16 +1,18 @@
 name: Update Zapply Jobs
 
 on:
-  schedule:
-    # Run every hour
-    - cron: '*/10 * * * *'
-  workflow_dispatch: # Allow manual triggering
-  push:
-    branches: [ main ]
-    paths: 
-      - '.github/scripts/job-fetcher/**'
-      - '.github/scripts/real-career-scraper.js'
-      - '.github/scripts/enhanced-discord-bot.js'
+  # DISABLED: Automatic runs stopped to prevent GitHub Actions costs on private repo
+  # schedule:
+  #   # Run every hour
+  #   - cron: '*/10 * * * *'
+  workflow_dispatch: # Manual triggering only
+  # DISABLED: Auto-run on push
+  # push:
+  #   branches: [ main ]
+  #   paths:
+  #     - '.github/scripts/job-fetcher/**'
+  #     - '.github/scripts/real-career-scraper.js'
+  #     - '.github/scripts/enhanced-discord-bot.js'
 
 jobs:
   update-jobs:
@@ -48,6 +50,11 @@ jobs:
         rm -rf node_modules
         npm cache clean --force
         npm install discord.js@14.14.1
+
+    - name: Export jobs to encrypted JSON (for external job boards)
+      run: node .github/scripts/jobs-data-exporter.js
+      env:
+        LOG_ENCRYPT_PASSWORD: ${{ secrets.LOG_ENCRYPT_PASSWORD }}
 
     - name: Post new internships via Enhanced Bot
       continue-on-error: true
