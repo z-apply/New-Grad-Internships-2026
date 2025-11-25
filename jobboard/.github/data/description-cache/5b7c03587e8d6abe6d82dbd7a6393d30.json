@@ -1,0 +1,17 @@
+{
+  "url": "https://jobs.lever.co/shieldai/00637eb9-c959-424a-8aea-ef6483655973/apply",
+  "data": {
+    "success": true,
+    "platform": "lever",
+    "description": "A person of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin regardless of race.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://jobs.lever.co/shieldai/00637eb9-c959-424a-8aea-ef6483655973/apply",
+      "fetchedAt": "2025-11-25T01:13:47.939Z"
+    }
+  },
+  "cachedAt": 1764033227939
+}
